@@ -1,0 +1,4 @@
+admin|admin
+yuefei|passwd:yuefei|apple:5|orange:2|Mi Plus:1|iphone:1|1013
+jianbo|passwd:jianbo|apple:10|orange:3|Mi Plus:1|6750
+pengge|passwd:pengge|apple:5|durian:1|9670

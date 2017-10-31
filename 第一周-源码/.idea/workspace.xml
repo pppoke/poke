@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4067f9d8-1760-4d20-9310-29d2fe18599e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/_$qqqqq.coverage" NAME="qqqqq Coverage Results" MODIFIED="1500529699871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$server.coverage" NAME="server Coverage Results" MODIFIED="1500534761367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$interaction.coverage" NAME="interaction Coverage Results" MODIFIED="1498871270790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$guess_for_.coverage" NAME="guess for  Coverage Results" MODIFIED="1498811451169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$sock_server_ssh.coverage" NAME="sock_server_ssh Coverage Results" MODIFIED="1500526617809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码" />
+    <SUITE FILE_PATH="coverage/_$WorkThree.coverage" NAME="WorkThree Coverage Results" MODIFIED="1498956652531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$settings.coverage" NAME="settings Coverage Results" MODIFIED="1499424472553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/Atm/conf" />
+    <SUITE FILE_PATH="coverage/_$main.coverage" NAME="main Coverage Results" MODIFIED="1501332256767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_server/core" />
+    <SUITE FILE_PATH="coverage/_$coding.coverage" NAME="coding Coverage Results" MODIFIED="1498810664477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1500361204116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码/gamebu/选课系统/core" />
+    <SUITE FILE_PATH="coverage/_$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1500529638771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$var.coverage" NAME="var Coverage Results" MODIFIED="1498873353087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1501307428869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$metaclass.coverage" NAME="metaclass Coverage Results" MODIFIED="1500515194511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$var__1_.coverage" NAME="var (1) Coverage Results" MODIFIED="1498999043987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$client.coverage" NAME="client Coverage Results" MODIFIED="1500534769969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$.coverage" NAME="计算器 Coverage Results" MODIFIED="1501485500804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$manager.coverage" NAME="manager Coverage Results" MODIFIED="1501138751494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$conf_haproxy.coverage" NAME="conf_haproxy Coverage Results" MODIFIED="1499249519818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$2.coverage" NAME="爬虫2 Coverage Results" MODIFIED="1501643412394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$producer.coverage" NAME="producer Coverage Results" MODIFIED="1501666389215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码" />
+    <SUITE FILE_PATH="coverage/_$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1499412015004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$calc__1_.coverage" NAME="calc (1) Coverage Results" MODIFIED="1501572789764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$json2.coverage" NAME="json序列化2 Coverage Results" MODIFIED="1500274207208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/代码" />
+    <SUITE FILE_PATH="coverage/_$calc.coverage" NAME="calc Coverage Results" MODIFIED="1501573221622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/代码赏识" />
+    <SUITE FILE_PATH="coverage/_$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1500520137707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$ssh_sft.coverage" NAME="ssh_sft Coverage Results" MODIFIED="1501040072019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$passwd.coverage" NAME="passwd Coverage Results" MODIFIED="1498871659453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$Unittests_in_func_test5_py.coverage" NAME="Unittests in func_test5.py Coverage Results" MODIFIED="1499224994800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第03周-Python3.5-零基础-高级-项目实战最新教程-共19章节/第三周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$digui.coverage" NAME="digui Coverage Results" MODIFIED="1499250208884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$dict.coverage" NAME="dict Coverage Results" MODIFIED="1499153259821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$Unittests_in_func_test4_py.coverage" NAME="Unittests in func_test4.py Coverage Results" MODIFIED="1499224445875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第03周-Python3.5-零基础-高级-项目实战最新教程-共19章节/第三周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$Unittests_in_func_test3_py.coverage" NAME="Unittests in func_test3.py Coverage Results" MODIFIED="1499224341161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第03周-Python3.5-零基础-高级-项目实战最新教程-共19章节/第三周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1500024414799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/day5-atm/atm/bin" />
+    <SUITE FILE_PATH="coverage/_$file_op.coverage" NAME="file_op Coverage Results" MODIFIED="1499333380178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$shopping__1_.coverage" NAME="shopping (1) Coverage Results" MODIFIED="1499163435756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1501332258665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_client" />
+    <SUITE FILE_PATH="coverage/_$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1501140115180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$greenlet.coverage" NAME="greenlet协程 Coverage Results" MODIFIED="1501144857597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$yield.coverage" NAME="yield Coverage Results" MODIFIED="1501143657697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$WorkTwo.coverage" NAME="WorkTwo Coverage Results" MODIFIED="1498917243761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/源码" />
+    <SUITE FILE_PATH="coverage/_$select_socket_server.coverage" NAME="select_socket_server Coverage Results" MODIFIED="1501233127925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$sock_server_client.coverage" NAME="sock_server_client Coverage Results" MODIFIED="1500520083326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码" />
+    <SUITE FILE_PATH="coverage/_$string.coverage" NAME="string Coverage Results" MODIFIED="1499064375556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$hashlib.coverage" NAME="hashlib模块 Coverage Results" MODIFIED="1499997366083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$cs_play.coverage" NAME="cs play Coverage Results" MODIFIED="1500194708769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$Unittests_in_greenlet_py.coverage" NAME="Unittests in greenlet携程.py Coverage Results" MODIFIED="1501580132969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$configparser.coverage" NAME="configparser读 Coverage Results" MODIFIED="1499936681302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$io.coverage" NAME="自动io切换 Coverage Results" MODIFIED="1501642634184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1500460099966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/lib" />
+    <SUITE FILE_PATH="coverage/_$threading_ex1.coverage" NAME="threading_ex1 Coverage Results" MODIFIED="1501052336192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$atm.coverage" NAME="atm Coverage Results" MODIFIED="1499682783974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/Atm/bin" />
+    <SUITE FILE_PATH="coverage/_$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1500257623671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/gamebu" />
+    <SUITE FILE_PATH="coverage/_$names.coverage" NAME="names Coverage Results" MODIFIED="1499163432295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$gevent_socket.coverage" NAME="gevent_socket Coverage Results" MODIFIED="1501212149781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+    <SUITE FILE_PATH="coverage/_$ssh.coverage" NAME="ssh Coverage Results" MODIFIED="1501580753251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="producer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/producer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#23#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Python36/Lib/site-packages/pika/connection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="324" column="8" lean-forward="false" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consume.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/consume.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>}</find>
+      <find>gamebu</find>
+      <find>C</find>
+      <find>atm</find>
+      <find>at</find>
+      <find>a</find>
+      <find>int</find>
+      <find>prfloat</find>
+      <find>send</find>
+      <find>Paramiko</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>]</replace>
+      <replace>game_bu</replace>
+      <replace>c</replace>
+      <replace>float</replace>
+      <replace>print</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节\第四周-源码\源码\Atm\conf</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码/gamebu/选课系统/core/logger.py" />
+        <option value="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码/gamebu/选课系统/conf/setting.py" />
+        <option value="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码/gamebu/选课系统/core/auth.py" />
+        <option value="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码/gamebu/选课系统/core/main.py" />
+        <option value="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/day5-atm/atm/core/auth.py" />
+        <option value="$PROJECT_DIR$/../../第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节/第六周-源码/源码/多态.py" />
+        <option value="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/metaclass.py" />
+        <option value="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/类方法.py" />
+        <option value="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/属性方法.py" />
+        <option value="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/动态加载模块.py" />
+        <option value="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/lib/__init__.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/sock_server_client.py" />
+        <option value="$PROJECT_DIR$/../../第07周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第七周-源码/源码/socket_server.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/sock_server_ssh.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu/client.py" />
+        <option value="$PROJECT_DIR$/../../第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/内置方法.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu/test.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu/server.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu/qqqqq.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu/FTP_server_md5.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/gamebu/FTP_client_md5.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_server/conf/yuefei" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_server/core/speed.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_server/conf/gamebu" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_client/speed.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_client/ftp_client.py" />
+        <option value="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/ssh.py" />
+        <option value="$PROJECT_DIR$/源码/guess for .py" />
+        <option value="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/ssh_sft.py" />
+        <option value="$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_server/core/main.py" />
+        <option value="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/gamebu/manager.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/manager.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/process_pool.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/多进程.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/yield.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/greenlet协程.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/进程池.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/爬虫2.py" />
+        <option value="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/threading_ex1.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/select_socket_server.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/socket_client.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/mutlti conn socket client.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_client/ftp_client.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_server/core/main.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/selector模块.py" />
+        <option value="$PROJECT_DIR$/代码赏识/calc.py" />
+        <option value="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/gamebu/计算器.py" />
+        <option value="$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/gamebu/calc.py" />
+        <option value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gevent_socket.py" />
+        <option value="$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/producer.py" />
+        <option value="$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/consume.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="false" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一周-源码" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第11周-源码" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一周-源码" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="111" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="111">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="第一周-源码">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="第11周-源码">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码" />
+    <property name="SearchEverywhereHistoryKey" value="Paramiko&#9;null&#9;null&#10;flash&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节\第10周-源码\源码\gamebu" />
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节\源码\ftp_client" />
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节\第六周-源码\源码\gamebu\选课系统\core" />
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节\第五周-源码\源码\day5-atm\atm\db\accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节\第10周-源码\源码" />
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第06周-Python3.5-零基础-高级-项目实战最新教程-共12章节\第六周-源码\源码\gamebu\选课系统\db" />
+      <recent name="D:\BaiduNetdiskDownload\018_Python 3 视频 高级运维 Django 基础进阶高级 项目实战全新教程\第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节\第二周-源码\源码\shop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.producer">
+    <configuration default="false" name="Unittests in greenlet携程.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/greenlet携程.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第九周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/ssh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="自动io切换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第10周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/自动io切换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="爬虫2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第10周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/爬虫2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="producer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第11周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/producer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="第一周-源码" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="第一周-源码" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in greenlet携程.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ssh" />
+      <item index="2" class="java.lang.String" itemvalue="Python.自动io切换" />
+      <item index="3" class="java.lang.String" itemvalue="Python.爬虫2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.producer" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.producer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.爬虫2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.自动io切换" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ssh" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in greenlet携程.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4067f9d8-1760-4d20-9310-29d2fe18599e" name="Default" comment="" />
+      <created>1498792157156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498792157156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_func_test3_py - 2017.07.05 at 11h 12m 22s.xml">
+      <configuration name="Unittests in func_test3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_func_test4_py - 2017.07.05 at 11h 13m 48s.xml">
+      <configuration name="Unittests in func_test4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_func_test4_py - 2017.07.05 at 11h 14m 06s.xml">
+      <configuration name="Unittests in func_test4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_func_test5_py - 2017.07.05 at 11h 22m 48s.xml">
+      <configuration name="Unittests in func_test5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_func_test5_py - 2017.07.05 at 11h 23m 15s.xml">
+      <configuration name="Unittests in func_test5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_greenlet携程_py - 2017.08.01 at 17h 35m 34s.xml">
+      <configuration name="Unittests in greenlet携程.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.20 at 13h 47m 03s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.20 at 13h 47m 19s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32526475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29109588" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/threading_ex1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/manager2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/进程池.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/进程池.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="58" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_client/ftp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="101" column="39" lean-forward="false" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_server/conf/gamebu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_client/speed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111/源码/guess for .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/ssh rsaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/ssh_sft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/threading_ex3 daemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/红绿灯.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/fromlinux.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1449">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="756" column="8" lean-forward="false" selection-start-line="756" selection-start-column="8" selection-end-line="756" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/id_rsa31.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/manager2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/信号量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/greenlet协程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="138" column="8" lean-forward="false" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/ftp_server/core/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/select socket server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_server/conf/gamebu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/select_socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#23#36#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-645839530/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="186" column="4" lean-forward="false" selection-start-line="186" selection-start-column="4" selection-end-line="186" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/mutlti conn socket client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/selector模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_server/core/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#16#0" expanded="false" />
+            <element signature="e#236#425#0" expanded="false" />
+            <element signature="e#3145#4212#0" expanded="false" />
+            <element signature="e#4353#4440#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gamebu/ftp_client/ftp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="81" column="12" lean-forward="false" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/selectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="297" column="8" lean-forward="false" selection-start-line="297" selection-start-column="8" selection-end-line="297" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/paramiko/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第08周-Python3.5-零基础-高级-项目实战最新教程-共11章节/源码/hash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/get 进程id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/gamebu/计算器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="83" column="20" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第05周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第五周-源码/源码/gamebu/calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111/代码赏识/calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#32#0" expanded="false" />
+            <element signature="e#52#90#0" expanded="false" />
+            <element signature="e#1207#1260#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/rlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/threading_ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第09周-Python3.5-零基础-高级-项目实战最新教程-共15章节/第九周-源码/源码/ssh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/process_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/进程池.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#81#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/greenlet携程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/自动io切换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/gevent_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/爬虫.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第10周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第10周-源码/源码/爬虫2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/pika/adapters/blocking_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="394" column="0" lean-forward="false" selection-start-line="394" selection-start-column="0" selection-end-line="394" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/site-packages/pika/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="324" column="8" lean-forward="false" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/consume.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第11周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第11周-源码/producer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

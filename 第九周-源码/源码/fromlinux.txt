@@ -1,0 +1,1271 @@
+UAR-000161_540	default	f8560ddde2bc13c8f06c4bf0324a79f6	20161209	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	3
+UAR-000161_540	default	ee761598740766b2e917a253654348b1	20161215	人民日报首提“新方位”:中国经济怎么看、怎么想、怎么干	http://original.hubpd.com/c/2016-12-14/550547.shtml	1	1	11
+UAR-000161_540	default	2cb19a662c9e90a6ee854b52eae90f12	20161218	智能制造未来五年路线图已定 江苏唱出最强音	http://original.hubpd.com/c/2016-12-07/549728.shtml	1	1	3
+UAR-000161_540	default	3f3013d5aa5c3929ece19f90ddda6d0e	20161217	党报说|别担心，中俄关系还是妥妥的“压舱石”	http://original.hubpd.com/c/2016-12-16/550757.shtml	1	1	3
+UAR-000161_540	default	99b3fa6f2fb4400e06d9e7d735a80869	20161215	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	3	3	92.33
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20161219	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	1	1	3
+UAR-000161_540	15541	ee761598740766b2e917a253654348b1	20161221	人民日报首提“新方位”:中国经济怎么看、怎么想、怎么干	http://original.hubpd.com/c/2016-12-14/550547.shtml	1	1	3
+UAR-000161_540	default	d7b3d7d00f362e16f7f58a3920f116a9	20161219	中关村二小事件：喧嚣过后无赢家	http://original.hubpd.com/c/2016-12-13/550481.shtml	1	1	300
+UAR-000161_540	15548	56be5fca85bdd345d3c67fd2dba94aa5	20161219	施一公、潘建伟、陈十一、饶毅等大咖：为一件“大事”而来	http://original.hubpd.com/c/2016-12-12/550347.shtml	1	1	5
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20161221	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	3
+UAR-000161_540	default	b8a8a74d16b9e723ee0a93fc4da4e76c	20161219	中关村“抢滩”全球创新制高点	http://original.hubpd.com/c/2016-10-13/546823.shtml	1	1	91
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161231	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	1	1	3
+UAR-000161_540	15545	c3bb8e68e3da5c664f1d201a611fa016	20170103	麻辣财经：GDP，三个6.7%是巧合吗？	http://original.hubpd.com/c/2016-10-29/546030.shtml	1	1	24
+UAR-000161_540	15545	d852e17ff25593406c25ebfbf4c981d5	20170103	麻辣财经：房产税遗产税要开征？别听风就是雨！	http://original.hubpd.com/c/2016-11-15/546040.shtml	2	2	159.5
+UAR-000161_540	15545	e2637785b7eeb7425888a0218996d321	20170103	麻辣财经：环保督察，看看哪些地方环境质量在下降	http://original.hubpd.com/c/2016-11-28/546048.shtml	1	1	197
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161223	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	7	7	20.43
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161223	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	2	2	14.5
+UAR-000161_540	15549	e45a7a83c5ff1f806c84449f852304c6	20161228	“罗尔事件”：法律应是人性的低保	http://original.hubpd.com/c/2016-12-05/549268.shtml	1	1	3
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161228	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	7	3	18.29
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161227	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	1	1	85
+UAR-000161_540	15541	ff09fbe0bdbee588f98f208800d9ebb2	20161227	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15564	53ce907de51869ad32240a9f20627e50	20161227	追忆卡斯特罗| “不必挂念，你知道我有铁的意志”	http://original.hubpd.com/c/2016-11-27/546901.shtml	1	1	33
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161227	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	4	2	17.75
+UAR-000161_540	default	e4318f02e5513a6c08768bbdceb7e690	20161230	携手中亚 创丝路新辉煌	http://original.hubpd.com/c/2016-06-24/547000.shtml	1	1	3
+UAR-000161_540	15541	a963f6a33979a02e16f6d8d3e6f042b7	20170104	习近平开始对智利进行国事访问	http://original.hubpd.com/c/2016-11-23/546753.shtml	1	1	20
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20170104	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	1	1	3
+UAR-000161_540	15541	2adb9e3b366c53742ef0323058c4bc31	20170104	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552946.shtml	5	2	125.6
+UAR-000161_540	15542	bd7b810384f55b360fb1b34f2f107b7d	20170109	联合国会选“她”当秘书长吗？	http://original.hubpd.com/c/2016-04-12/546883.shtml	1	1	7
+UAR-000161_540	15548	cbe58a310d3215693515baab016a44c9	20170110	大数据观察：互联网寻亲，让团圆的脚步更近	http://original.hubpd.com/c/2017-01-04/552783.shtml	1	1	3
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170110	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	16	16	3
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20170108	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	2	1	3
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170108	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	14
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170106	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	300
+UAR-000161_540	15551	4e4b368d672a560b316522d3b7069c5d	20170109	江苏举行企业智能制造对接会 促供需双方牵手	http://original.hubpd.com/c/2016-12-06/549402.shtml?from=groupmessage&isappinstalled=0	1	1	5
+UAR-000161_540	15541	09816b77b25b1cac4e36d6b50328b80c	20170109	习近平出席亚太经合组织工商领导人峰会并发表主旨演讲	http://original.hubpd.com/c/2016-11-20/546732.shtml	1	1	45
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20170109	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	3	2	60
+UAR-000161_540	15564	b4fee30c3c44c4009a3970e2b086dd55	20170110	侠客岛：今天，一群中国轰炸机去了日本海	http://original.hubpd.com/c/2017-01-10/553376.shtml	19	17	73.42
+UAR-000161_540	default	7f1402d85db0fac0dcd8493b87121b95	20170109	雾霾七问 愿呼吸不再奢侈	http://original.hubpd.com/c/2017-01-07/553160.shtml	4	3	57.75
+UAR-000161_540	15548	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170111	麻辣财经：电信服务，“强买强卖”何时了？	http://original.hubpd.com/c/2017-01-10/553306.shtml	11	9	30.64
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20170112	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	1	1	3
+UAR-000161_540	15548	f44db9975bfd82d6f064a5e26c71f66f	20170114	定了！中央厨房就这么建！	http://original.hubpd.com/c/2017-01-11/553465.shtml	3	3	35.67
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170111	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	3	3	3
+UAR-000161_540	15548	f44db9975bfd82d6f064a5e26c71f66f	20170111	定了！中央厨房就这么建！	http://original.hubpd.com/c/2017-01-11/553465.shtml	30	23	50.43
+UAR-000161_540	15548	f44db9975bfd82d6f064a5e26c71f66f	20170113	定了！中央厨房就这么建！	http://original.hubpd.com/c/2017-01-11/553465.shtml	2	2	3
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170114	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml?from=singlemessage	1	1	3
+UAR-000161_540	15548	d108ce74a9735f4690cf75fea7631862	20170112	从8年到14年，用历史教育为孩子打好精神底色	http://original.hubpd.com/c/2017-01-11/553496.shtml	10	6	129.7
+UAR-000161_540	default	b765e3df03c9dd9049eff0cd807b2018	20170115	一份来自中央的“媒体融合行动指南”	http://original.hubpd.com/c/2017-01-13/553665.shtml	3	3	102
+UAR-000161_540	15550	2947e6091bd41f90532fb7ce5c5fdaa6	20170115	【对话周有光追记】“独立思考就是这个时代的光”	http://original.hubpd.com/c/2017-01-14/553907.shtml?from=groupmessage&isappinstalled=0	166	130	36.97
+UAR-000161_540	15548	22b53f5c2ccbb10486a4dc695dbae130	20170115	侠客岛：教材改为“十四年抗战”的原因，远没有那么简单	http://original.hubpd.com/c/2017-01-12/553511.shtml	1	1	3
+UAR-000161_540	default	549e8b8abe81c82bbf2f5ff66f4eac3c	20170111	“带薪休假”完成一次说走就走的旅行	http://original.hubpd.com/c/2016-12-31/552466.shtml	1	1	68
+UAR-000161_540	15548	2cb9b663448b85c8654a85b909a3038e	20170114	这些年习总书记走过的扶贫路	http://original.hubpd.com/c/2017-01-03/552749.shtml?from=singlemessage&isappinstalled=0	5	4	74
+UAR-000161_540	15541	fdde1e407fb4fbea9bd000ef5753a51a	20170116	习近平出席瑞士联邦委员会全体委员集体举行的迎接仪式并致辞	http://original.hubpd.com/c/2017-01-16/554018.shtml?winzoom=1	44	26	78.18
+UAR-000161_540	15553	0354e000c9b5c84c1d790006a488c17b	20170117	光棍节，你还是一个人过吗？——大数据解读大学生恋爱状况	http://original.hubpd.com/c/2016-11-01/546967.shtml	1	1	18
+UAR-000161_540	15545	3b0b018a4959033eac40d57127660a42	20170117	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553710.shtml?from=groupmessage&isappinstalled=0	5	5	3
+UAR-000161_540	15541	51dd2ba07c4a7eeb2bad92203442a35d	20170118	全球化中的“中国方案”新思维：人类命运共同体	http://cmpc.hubpd.com/zcms/content/preview?ID=554518&ContentType=Article&platformID=pc	21	12	79.43
+UAR-000161_540	15541	8487885496b8849b3a0f61510a7827e2	20170118	习近平离京对瑞士联邦进行国事访问 出席世界经济论坛2017年年会并访问在瑞士的国际组织	http://original.hubpd.com/c/2017-01-15/553941.shtml	1	1	32
+UAR-000161_540	15541	3e51de8f63ca53ea301a9ce96f166eec	20170118	习主席瑞士之行的5个“首次”	http://original.hubpd.com/c/2017-01-15/553970.shtml	1	1	300
+UAR-000161_540	default	3b0b018a4959033eac40d57127660a42	20170116	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553715.shtml	3	1	173
+UAR-000161_540	15564	a0f8ff28d9ecd5e5fa1459933927f5cb	20170117	厉害了，中瑞合作！	http://original.hubpd.com/c/2017-01-16/554067.shtml	1	1	3
+UAR-000161_540	15548	4519b96ceda7f9b2e38a0af0330a7be6	20170118	今年春运买票有一个好消息，一个坏消息，您先听哪个？	http://original.hubpd.com/c/2016-12-21/551953.shtml?from=singlemessage&isappinstalled=0	10	4	28.7
+UAR-000161_540	15541	3f58ca51ddd7bb472716e38e9e423007	20170116	习近平在瑞士媒体发表署名文章	http://original.hubpd.com/c/2017-01-13/553694.shtml	1	1	300
+UAR-000161_540	15545	285cab7ae9e3185a2f235088271dd39f	20170116	麻辣财经：（独家）中信回应：为何收购麦当劳？	http://original.hubpd.com/c/2017-01-16/554199.shtml	3	2	37.67
+UAR-000161_540	15564	4968821ad1f25b5f6eaaddb0cbfac033	20170116	揭秘美国经济“衣橱中的秘密”系列三：特朗普能履行竞选承诺吗？	http://original.hubpd.com/c/2017-01-15/553930.shtml?from=timeline&isappinstalled=0	19	18	40.68
+UAR-000161_540	15541	d49681d6710677c0841f8e2d529d0198	20170117	习主席为瑞士童声合唱点赞	http://original.hubpd.com/c/2017-01-16/554009.shtml	1	1	3
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170117	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	0f6f1ef2bdb936be1bec2e71cba937c1	20170118	专家解读习近平达沃斯演讲：为全球经济注入信心	http://original.hubpd.com/c/2017-01-18/554522.shtml	33	20	82.48
+UAR-000161_540	15541	321efb37261a0eb17b3d4f7efeff8815	20170118	习近平会见比利时国王菲利普	http://original.hubpd.com/c/2017-01-17/554301.shtml	7	4	66.14
+UAR-000161_540	15541	a1be608f2ff2e7f5d23dd7aadccddfcb	20170116	终于等到您 先看您的书	http://original.hubpd.com/c/2017-01-14/553874.shtml	1	1	134
+UAR-000161_540	default	bdc2500513e119efa67f8268caaf1186	20161215	产能去了吗？成本降了吗？五大任务一年，效果咋样？	http://original.hubpd.com/c/2016-12-14/550582.shtml	1	1	19
+UAR-000161_540	default	77c594f1edbd2b632eb061b00e60a049	20161213	文艺九局：爱豆，我知道你想要跨过山和大海	http://original.hubpd.com/c/2016-11-24/546930.shtml	1	1	45
+UAR-000161_540	default	1ef24d492d8de5671e502f93fb93ee8e	20161209	雾霾有耐药菌？先别慌，这些你应该知道！	http://original.hubpd.com/c/2016-11-28/546987.shtml	2	1	122.5
+UAR-000161_540	default	5832e8b6bcbf3d42049e5621859f4efd	20161207	麻辣财经：保险资金，不能跟“野蛮人”划等号	http://original.hubpd.com/c/2016-12-05/549247.shtml?from=timeline&isappinstalled=0	5	5	85.8
+UAR-000161_540	default	4dfb995645f8ad61cfd0cec372523754	20161207	孤独而荣耀：一个人的奥运	http://original.hubpd.com/c/2016-08-13/547005.shtml	1	1	8
+UAR-000161_540	default	d9df3231cc047b48465ef62e96168a15	20161217	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	2	2	3
+UAR-000161_540	default	fd5b54b00e32bb07d8472bb52e59bc85	20161209	智能制造十三五规划今日发布 明确十大任务	http://original.hubpd.com/c/2016-12-07/549422.shtml	2	2	151.5
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161227	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	1	1	66
+UAR-000161_540	15564	3f3013d5aa5c3929ece19f90ddda6d0e	20161227	党报说|别担心，中俄关系还是妥妥的“压舱石”	http://original.hubpd.com/c/2016-12-16/550757.shtml	1	1	39
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20161224	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	1	1	3
+UAR-000161_540	15550	e6eedacf20ca39fd53a99cdadba714f6	20161227	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	2	1	121.5
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20161223	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	3	3	106.67
+UAR-000161_540	15548	419518d40d84cc2907877ecc489ea472	20161223	我国第四代核能技术60万千瓦高温气冷堆核电站技术方案发布	http://original.hubpd.com/c/2016-12-21/551833.shtml	1	1	27
+UAR-000161_540	15541	cb41ea7c0324706083a066311d380029	20161222	两会开幕八大热点留意看	http://original.hubpd.com/c/2016-05-06/546220.shtml	1	1	10
+UAR-000161_540	15545	fc5bbda7bb150e5735465b57f8f10fc3	20161223	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	1	1	3
+UAR-000161_540	15564	3f3013d5aa5c3929ece19f90ddda6d0e	20161219	党报说|别担心，中俄关系还是妥妥的“压舱石”	http://original.hubpd.com/c/2016-12-16/550757.shtml	1	1	65
+UAR-000161_540	15564	b4c31d4d80db18689a08db21843d6559	20161221	特朗普与蔡英文通话是谁操盘的？	http://original.hubpd.com/c/2016-12-07/549706.shtml	1	1	3
+UAR-000161_540	15541	048fdf81d079c3d959d6b11969f8faf8	20161221	王晨：坚持党的领导是有效实施宪法根本要求	http://original.hubpd.com/c/2016-12-21/551962.shtml	10	6	102
+UAR-000161_540	default	700e33efb56ac20d2704b04696d85887	20161219	【网络媒体“走转改”】四川小金县：风雨彩虹长征路 铿锵玫瑰助扶贫	http://original.hubpd.com/c/2016-09-14/546800.shtml	1	1	187
+UAR-000161_540	15553	0354e000c9b5c84c1d790006a488c17b	20161222	光棍节，你还是一个人过吗？——大数据解读大学生恋爱状况	http://original.hubpd.com/c/2016-11-01/546967.shtml	2	2	29
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20161230	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	7	4	144.57
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161230	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	1	1	3
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20161228	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	1	1	31
+UAR-000161_540	15550	167ed529476c9582465ae734e8afe70b	20161229	文艺九局：巫师世界的法则，你也适用 （附：纯粹麻瓜生存手册）	http://original.hubpd.com/c/2016-11-29/546931.shtml	1	1	3
+UAR-000161_540	default	2b5364e6b9242f215e6dfda2b86693d4	20161230	中国，距离“人力资源强国”之路还有多远	http://original.hubpd.com/c/2016-12-18/550900.shtml	1	1	9
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170101	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	2	2	26
+UAR-000161_540	15545	7143aef9f1db632f762941e931642040	20170103	麻辣财经：网约车，有了身份别忘了责任	http://original.hubpd.com/c/2016-11-01/546032.shtml	1	1	19
+UAR-000161_540	15548	f10040b9387176aa8eb79502d2affcef	20170105	医改八年就算完？别急，还有更多健康红利	http://original.hubpd.com/c/2017-01-03/552775.shtml	6	5	26.17
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20170106	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	1	1	44
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170108	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	57	51	25.86
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170107	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	42	38	35.17
+UAR-000161_540	15548	cbe58a310d3215693515baab016a44c9	20170107	大数据观察：互联网寻亲，让团圆的脚步更近	http://original.hubpd.com/c/2017-01-04/552783.shtml	1	1	3
+UAR-000161_540	15548	3441b390e7563cdd54d4b6d2950d8ab4	20170109	苹果为何放弃造车	http://original.hubpd.com/c/2016-11-21/546848.shtml	1	1	9
+UAR-000161_540	15545	f575661aacaffcf04021eb7f3ba20509	20170103	秀“肌肉”！这么强壮咱就放心了	http://original.hubpd.com/c/2016-11-03/546034.shtml	2	2	11
+UAR-000161_540	15542	3888b95c27a0fae19cbec6ee4fe7c7d5	20170105	五大关键词，给2016两会画个像	http://original.hubpd.com/c/2016-03-15/546889.shtml	1	1	68
+UAR-000161_540	default	7a9dc15d450fa92f8ee14c3ae0c51fbc	20170105	我是你的银行账户，我变了	http://original.hubpd.com/c/2016-12-02/549114.shtml	1	1	40
+UAR-000161_540	15541	b605074a6d66db11a98fa013045edda7	20170109	教你读懂中央纪委七次全会公报	http://original.hubpd.com/c/2017-01-08/553198.shtml	102	83	36.48
+UAR-000161_540	15542	68e328e7203f2114f0f5a7e884bcbe1b	20170109	省市县乡换届在即 中组部划红线强调“九严禁”	http://original.hubpd.com/c/2016-04-18/546885.shtml	1	1	6
+UAR-000161_540	15552	ede6df7be7586fb433209b5e3a83785a	20170109	探营中国奥运军团：食材专供，厨师自带	http://original.hubpd.com/c/2016-08-02/546944.shtml	2	2	27.5
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20170110	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	2	1	151.5
+UAR-000161_540	15564	b4fee30c3c44c4009a3970e2b086dd55	20170112	侠客岛：今天，一群中国轰炸机去了日本海	http://original.hubpd.com/c/2017-01-10/553376.shtml	1	1	3
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170113	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15545	44e4b94d151cbd8078a2f79c0a93e6f1	20170113	麻辣财经：家门口的“老中医”，未来将成标配	http://original.hubpd.com/c/2017-01-02/552514.shtml?from=singlemessage&isappinstalled=0	2	1	151.5
+UAR-000161_540	15564	10a59603cfe7e656ce81153aacaecbe4	20170116	瑞士：中国朋友圈里的老友和好友	http://original.hubpd.com/c/2017-01-12/553592.shtml	1	1	3
+UAR-000161_540	15545	3b0b018a4959033eac40d57127660a42	20170116	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553710.shtml?from=timeline&isappinstalled=0	6	6	3
+UAR-000161_540	15548	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170112	麻辣财经：电信服务，“强买强卖”何时了？	http://original.hubpd.com/c/2017-01-10/553306.shtml	18	14	28.22
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20170112	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	7	5	173.43
+UAR-000161_540	15548	c27b6b3d92cf9e0c2788ef4ece6aa832	20170114	谁是“三农”创业榜样 谁能引领创业风潮	http://original.hubpd.com/c/2017-01-13/553869.shtml	1	1	3
+UAR-000161_540	15545	faf95a1e8219220e1e7f259bedc3abce	20170114	国新办新闻发布会：“升级版”去产能今年再扩围	http://original.hubpd.com/c/2017-01-11/553435.shtml	1	1	300
+UAR-000161_540	15548	7881682f798bb10aba5bedd95604a59e	20170114	京华谢幕 报人永生	http://original.hubpd.com/c/2016-12-31/552432.shtml?from=timeline&isappinstalled=0	5	4	7.6
+UAR-000161_540	15541	c2975a8908b53fd0b2a51b7e17befa99	20170111	25岁的中纪委干部，拿什么和副部级干部交换大工程？	http://original.hubpd.com/c/2017-01-05/553014.shtml	1	1	47
+UAR-000161_540	default	7f1402d85db0fac0dcd8493b87121b95	20170115	雾霾七问 愿呼吸不再奢侈	http://original.hubpd.com/c/2017-01-07/553160.shtml	1	1	3
+UAR-000161_540	15564	9f2fd460e6a48b6d7765f1537b5b4123	20170115	中国驻瑞士大使耿文兵：携手创新 互利共赢	http://original.hubpd.com/c/2017-01-12/553537.shtml	3	3	9
+UAR-000161_540	15550	2947e6091bd41f90532fb7ce5c5fdaa6	20170116	【对话周有光追记】“独立思考就是这个时代的光”	http://original.hubpd.com/c/2017-01-14/553907.shtml?from=timeline&isappinstalled=0	2	2	3
+UAR-000161_540	15541	b5f40cffe9a6f971670d73ee97dff921	20170116	习近平会见韩国总统朴槿惠	http://original.hubpd.com/c/2016-09-05/546613.shtml	2	1	48.5
+UAR-000161_540	15548	8ee9d7fafd58fc9b16fd31915c3a542b	20170116	年末岁尾的乌龙事件：有人男送女鞋，有人冒名送钱……	http://original.hubpd.com/c/2017-01-16/554028.shtml?from=timeline&isappinstalled=0	117	108	29.91
+UAR-000161_540	15564	d2106ce78218f250f56f9b169c6b2b1c	20170116	在“欧洲屋脊”聆听中国声音	http://original.hubpd.com/c/2017-01-15/553947.shtml	2	2	152.5
+UAR-000161_540	default	be92ff33ea18cad369c4376753e69b04	20170116	文艺九局：我不是潘金莲，我是官场的西洋镜	http://cmpc.hubpd.com/zcms/content/preview?ID=554107&platformID=pc	1	1	300
+UAR-000161_540	15549	60e9c2ca150186f6118fe3392b11c79d	20170111	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml	3	3	21
+UAR-000161_540	15548	a77a092009fb720b81ba0e7c67a4b9f6	20170115	“2016世界物联网无锡峰会”举行 李强：物联网将催生新的BAT	http://original.hubpd.com/c/2016-10-31/546838.shtml	1	1	17
+UAR-000161_540	15548	e387fe518c47428b4b0e852d930346e3	20170117	网络捐助，别让爱心再受伤	http://original.hubpd.com/c/2017-01-17/554322.shtml?from=timeline&isappinstalled=0	49	31	60.29
+UAR-000161_540	15541	4762c415ed468eee2314acf1e1a112b9	20170117	习近平抵达苏黎世开始对瑞士联邦进行国事访问	http://original.hubpd.com/c/2017-01-15/553978.shtml	1	1	13
+UAR-000161_540	15541	868e1470cdb5c9478349986bb49be1b8	20170117	中美元首杭州会晤中方成果清单	http://original.hubpd.com/c/2016-09-04/546607.shtml	1	1	3
+UAR-000161_540	15553	5533a60959331a5d2aaacee91ab24185	20170117	数据揭秘“双十一”：成交额再次冲顶，口碑仍待提升	http://original.hubpd.com/c/2016-11-12/546970.shtml	2	1	24
+UAR-000161_540	15548	a04562147cf0bf301f2a4c7ff07f0660	20170118	注意啦！不允许举办营利性民办义务教育阶段学校	http://original.hubpd.com/c/2017-01-18/554563.shtml?winzoom=1	18	13	136.89
+UAR-000161_540	15541	3f58ca51ddd7bb472716e38e9e423007	20170118	习近平在瑞士媒体发表署名文章	http://original.hubpd.com/c/2017-01-13/553694.shtml	1	1	5
+UAR-000161_540	15541	1630cf3092f8cd4dd342e80a7c9f4cb3	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时指出 “一带一路”倡议取得积极成果	http://original.hubpd.com/c/2017-01-17/554317.shtml	5	4	48.2
+UAR-000161_540	15564	8d76cfdeb85a9cc39568584a596f5380	20170117	在美如画的瑞士遇见中国文化	http://original.hubpd.com/c/2017-01-17/554226.shtml	27	15	91.67
+UAR-000161_540	15541	4762c415ed468eee2314acf1e1a112b9	20170118	习近平抵达苏黎世开始对瑞士联邦进行国事访问	http://original.hubpd.com/c/2017-01-15/553978.shtml	1	1	3
+UAR-000161_540	default	fc5bbda7bb150e5735465b57f8f10fc3	20161216	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	280	232	27.81
+UAR-000161_540	default	2c0fba5506cdcf432458e58af7a87e4b	20161208	文艺九局：这部爆火的动画电影，要给青春片们上一课	http://original.hubpd.com/c/2016-12-05/549265.shtml	1	1	3
+UAR-000161_540	default	bb22680f5babcabfa1bf090c4f9af704	20161209	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	64	64	7.64
+UAR-000161_540	default	7c701edecfa72e5e8c3dc4936e78dfa2	20161213	麻辣财经： 地方债，“窟窿”自己补 中央不救助	http://original.hubpd.com/c/2016-11-29/546041.shtml	2	1	17.5
+UAR-000161_540	default	987896b2e59c724db00212f9eb74339f	20161208	麻辣财经：资本市场，怎样对付“野蛮人”?	http://original.hubpd.com/c/2016-12-04/549130.shtml?from=groupmessage&isappinstalled=0	2	2	3
+UAR-000161_540	default	5e3bad4429d352cd25f347f81bb249e6	20161219	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	1	1	131
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161219	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	37	33	9.35
+UAR-000161_540	default	a71bd3cd0c4f8abd09d82b7d51ed00f1	20161222	在“美国后院”扎根，中企靠什么	http://original.hubpd.com/c/2016-12-22/552031.shtml	1	1	3
+UAR-000161_540	15548	4422099055b5979f2d8f2431dfe05e94	20161223	校园欺凌，不止是“开过分了的玩笑”	http://original.hubpd.com/c/2016-12-11/550274.shtml	1	1	3
+UAR-000161_540	15564	9db48195a430bca742c2e671b484e63a	20161223	侠客岛：要读懂特朗普对华政策，此人的文章必须读	http://original.hubpd.com/c/2016-12-23/552049.shtml	36	19	61.14
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161224	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	9	5	11.22
+UAR-000161_540	default	92e545232160d2ca12ed0b454454960e	20161220	一图带你看懂"赤道之国"---厄瓜多尔	http://original.hubpd.com/c/2016-11-17/546980.shtml	2	2	29
+UAR-000161_540	15542	387edbf8d5c821240406e2de3e92c4cb	20161220	锐评土地“70年大限”解答宜早不宜迟	http://original.hubpd.com/c/2016-04-18/546886.shtml	2	1	23
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20161221	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	161	144	32.98
+UAR-000161_540	15548	b8c96eaa8433d2270346dce1ce631f71	20161227	知名企业“喊冤”的背后	http://original.hubpd.com/c/2016-12-23/552045.shtml	4	3	153.5
+UAR-000161_540	15564	5266cd8dff903c6bc92a9d5aeb526d2e	20161227	特朗普的新工作：白宫滋味啥样呢？	http://original.hubpd.com/c/2016-12-08/549932.shtml	5	2	23.4
+UAR-000161_540	15564	b4ecd1d5b891608a99313f999692be6b	20161227	厉害了！原来外国人还这样停车	http://original.hubpd.com/c/2016-11-25/546900.shtml	1	1	9
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20161227	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	2	2	114
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20161227	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	3
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161227	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	4	2	210.25
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20161229	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	189	149	32.07
+UAR-000161_540	default	2b5364e6b9242f215e6dfda2b86693d4	20161231	中国，距离“人力资源强国”之路还有多远	http://original.hubpd.com/c/2016-12-18/550900.shtml	1	1	164
+UAR-000161_540	default	8584b80e49d6745350ca28f46dc31ba5	20161230	新闻图解：八项规定四周年“三公”经费缩减近三成	http://original.hubpd.com/c/2016-11-30/546142.shtml	2	2	13
+UAR-000161_540	15564	360cfb20fd84519ba98225947475cbef	20170113	习近平要去的达沃斯，你了解吗?	http://original.hubpd.com/c/2017-01-13/553685.shtml	95	65	75.63
+UAR-000161_540	15564	9dd474c6f87adf3e5e7a1e872dac01f3	20170113	特朗普杠上中情局：白宫与中情局“恩怨情仇录”出新集	http://original.hubpd.com/c/2017-01-07/553166.shtml	1	1	3
+UAR-000161_540	default	3b0b018a4959033eac40d57127660a42	20170113	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553715.shtml	2	1	151.5
+UAR-000161_540	15548	4422099055b5979f2d8f2431dfe05e94	20170113	校园欺凌，不是一个“开过了的玩笑”	http://original.hubpd.com/c/2016-12-11/550274.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15564	cef1035a36b65bb030eb6ecff713775a	20170113	马朝旭大使：全球治理需要中国智慧	http://original.hubpd.com/c/2017-01-12/553538.shtml	1	1	3
+UAR-000161_540	15541	a1be608f2ff2e7f5d23dd7aadccddfcb	20170114	终于等到您 先看您的书	http://original.hubpd.com/c/2017-01-14/553874.shtml	22	6	124.23
+UAR-000161_540	15548	195a1bcbab042d3fe6bc752db7bbe3f9	20170115	南海很大，容得下百万巨轮 南海很小，容不下半点野心	http://original.hubpd.com/c/2016-07-15/546782.shtml	1	1	300
+UAR-000161_540	15564	b296f54ef4beeca6b03bf817b7eb19f8	20170115	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	d140a88c0a77aeee137e4749c4cdc954	20170115	世界经济论坛创始人撰文： 时代呼唤应势而为、勇于担当的领导者	http://original.hubpd.com/c/2017-01-13/553675.shtml	1	1	53
+UAR-000161_540	15548	a56cff55999f7a9d43d9f4d7c08396aa	20170115	“弄潮儿”江苏哪儿来的“金刚钻”？	http://original.hubpd.com/c/2016-12-05/549138.shtml	1	1	24
+UAR-000161_540	default	81a7f389ecbc6fe473356a5aac304fd3	20170115	哈密维吾尔族刺绣，丝绸之路上的瑰宝	http://original.hubpd.com/c/2016-08-17/547007.shtml	1	1	3
+UAR-000161_540	15564	033c0522939ceaf64a17ed47b1b8032d	20170115	达沃斯期待聆听中国声音	http://original.hubpd.com/c/2017-01-12/553591.shtml	3	3	129
+UAR-000161_540	15548	7881682f798bb10aba5bedd95604a59e	20170115	京华谢幕 报人永生	http://original.hubpd.com/c/2016-12-31/552432.shtml?from=timeline&isappinstalled=0	2	2	3
+UAR-000161_540	15545	5e3bad4429d352cd25f347f81bb249e6	20170103	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	1	1	58
+UAR-000161_540	15545	7e612e56ac7092e41c31298954522aee	20170103	麻辣财经：地方融资平台“子债父不还”，这钱还敢借吗？	http://original.hubpd.com/c/2016-11-07/546035.shtml	1	1	144
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20161231	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	1	1	33
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20170101	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	1	1	32
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170101	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	6	6	113.17
+UAR-000161_540	15548	b42f5e2ca1f5b8eff1ca45827a09324d	20170103	总书记很牵挂，困难群众对三个问题咋回答?	http://original.hubpd.com/c/2017-01-03/552744.shtml	108	86	49.18
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170103	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	13	12	9.92
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170104	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	1	1	300
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170104	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	7	5	96.43
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170104	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	327	301	9.72
+UAR-000161_540	15549	005103b03e3f19b345d4663e19d2fd12	20170104	回望孙中山，走好复兴路	http://original.hubpd.com/c/2016-11-11/546916.shtml	1	1	300
+UAR-000161_540	default	7f1402d85db0fac0dcd8493b87121b95	20170108	雾霾七问 愿呼吸不再奢侈	http://original.hubpd.com/c/2017-01-07/553160.shtml	1	1	39
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170108	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	4	4	3
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170108	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	2	2	151.5
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170108	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml	10	10	3
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170109	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml	52	38	58.63
+UAR-000161_540	15542	68390113a2b0ff5e2a698886519a435d	20170109	西港特区：打造“一带一路”合作共赢样板	http://original.hubpd.com/c/2016-04-07/546882.shtml	1	1	14
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170107	（最山水）象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml	1	1	3
+UAR-000161_540	15551	def3173003793bc43212f2369da3dbbf	20170107	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	1	1	29
+UAR-000161_540	15542	3888b95c27a0fae19cbec6ee4fe7c7d5	20170109	五大关键词，给2016两会画个像	http://original.hubpd.com/c/2016-03-15/546889.shtml	1	1	7
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170111	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	3	2	224.33
+UAR-000161_540	default	bcb2d84217b629b5bed04c4569064973	20170116	2亿老人、1亿空巢老人中国养老产业迎井喷	http://original.hubpd.com/c/2017-01-12/553617.shtml	4	3	16.75
+UAR-000161_540	15541	0c290986095f476793d0d40d13bc6400	20170116	习近平会见瑞士联邦国民院议长施塔尔和联邦院议长比绍夫贝尔格	http://original.hubpd.com/c/2017-01-16/554182.shtml	41	22	112.51
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170106	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	3	3	18.33
+UAR-000161_540	15541	e883a96742e793ed4d14d4d7ac53b804	20170105	专家：中拉合作进入换挡加速新时期	http://original.hubpd.com/c/2016-11-23/546758.shtml	1	1	4
+UAR-000161_540	15545	987896b2e59c724db00212f9eb74339f	20170103	麻辣财经：资本市场，怎样对付“野蛮人”?	http://original.hubpd.com/c/2016-12-04/549130.shtml?from=groupmessage&isappinstalled=0	1	1	36
+UAR-000161_540	15552	d01b0fa784ca015c625a7652c89daae5	20170109	命运壮歌 振奋你我 残奥会中国队金牌首破百枚	http://original.hubpd.com/c/2016-09-19/546950.shtml	1	1	5
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170109	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	300
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170110	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml	3	3	14
+UAR-000161_540	15548	71adf45ad6ee8beff60fc113c6fc79d7	20170110	麻辣财经：屠呦呦人生传奇 86岁获国家最高科技奖	http://original.hubpd.com/c/2017-01-09/553222.shtml	62	56	22.16
+UAR-000161_540	default	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170117	麻辣财经：电信服务，“强买强卖”何时了？	http://cmpc.test.pdmi.cn/ggpt/c/2017-01-17/488280.shtml	7	1	185.71
+UAR-000161_540	15548	3ad64ca0e69c70e4aa892b308562ae6c	20170118	侠客岛：打着飞的去重庆炒房？别闹了	http://original.hubpd.com/c/2017-01-13/553682.shtml	1	1	33
+UAR-000161_540	15545	a697d7d0d6f90b8110ae49320820a15c	20170117	麻辣财经：2017财政政策，撸起袖子怎么干?	http://original.hubpd.com/c/2017-01-04/552846.shtml?from=groupmessage&isappinstalled=0	2	1	79
+UAR-000161_540	15548	286014ebe5ee3b78be82cbebd81965bf	20170118	别拿证书挂靠啦，要严肃查处了！	http://original.hubpd.com/c/2017-01-16/554164.shtml	2	2	168.5
+UAR-000161_540	15541	bb7af0ac8f7ddab625d61f07a9bcfde2	20170118	老朋友携手踏上新征程 ——访瑞士联邦委员会委员兼外长伯克哈尔特	http://original.hubpd.com/c/2017-01-13/553674.shtml	1	1	3
+UAR-000161_540	15541	6a0e3360338c3343a97397f7062ab044	20170117	报社社长、学校校长、医院院长谁来当？中组部等5部委有新规定了！	http://original.hubpd.com/c/2017-01-15/553985.shtml?from=singlemessage&isappinstalled=0	12	11	25.85
+UAR-000161_540	15545	73c55ae313729795de913462b341dd68	20170118	麻辣财经：新能源汽车，骗补漏洞堵得住吗?	http://original.hubpd.com/c/2017-01-11/553490.shtml	1	1	32
+UAR-000161_540	15541	75e0914cd93c0f79ba83d80a90b898f6	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时宣布 中国将于今年5月在北京主办“一带一路”国际合作高峰论坛	http://original.hubpd.com/c/2017-01-17/554319.shtml	20	9	91.55
+UAR-000161_540	15541	3571a558bb2770a1553a38c734a99ed7	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时强调 中国是经济全球化的受益者 更是贡献者	http://original.hubpd.com/c/2017-01-17/554312.shtml	3	3	39.67
+UAR-000161_540	default	bcb2d84217b629b5bed04c4569064973	20170118	2亿老人、1亿空巢老人中国养老产业迎井喷	http://original.hubpd.com/c/2017-01-12/553617.shtml	1	1	7
+UAR-000161_540	default	2cb19a662c9e90a6ee854b52eae90f12	20161207	智能制造未来五年路线图已定 江苏唱出最强音	http://original.hubpd.com/c/2016-12-07/549728.shtml	46	39	54.63
+UAR-000161_540	default	0354e000c9b5c84c1d790006a488c17b	20161209	光棍节，你还是一个人过吗？——大数据解读大学生恋爱状况	http://original.hubpd.com/c/2016-11-01/546967.shtml	1	1	156
+UAR-000161_540	default	167ed529476c9582465ae734e8afe70b	20161207	文艺九局：巫师世界的法则，你也适用 （附：纯粹麻瓜生存手册）	http://original.hubpd.com/c/2016-11-29/546931.shtml	2	1	86.5
+UAR-000161_540	default	7b674a1687274d6e28101f11e21f9c4f	20161219	国师亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-19/551249.shtml	2	2	3
+UAR-000161_540	default	e2637785b7eeb7425888a0218996d321	20161219	麻辣财经：环保督察，看看哪些地方环境质量在下降	http://original.hubpd.com/c/2016-11-28/546048.shtml	1	1	300
+UAR-000161_540	default	eeb5d56c373f68def3194d4a5bbbc3e5	20161219	恒大创新“精准扶贫”模式 结对帮扶奔小康 企业团队变老乡	http://original.hubpd.com/c/2016-11-25/546852.shtml	2	2	11.5
+UAR-000161_540	default	fc5bbda7bb150e5735465b57f8f10fc3	20161219	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	2	2	151.5
+UAR-000161_540	15551	f6a490b0a624f76db3ebe7b1ef43bfc3	20161221	2016年贵阳大数据金融信用体系建设和风险控制系列活动在贵阳开幕	http://original.hubpd.com/c/2016-11-03/543757.shtml	1	1	3
+UAR-000161_540	15553	b4dd2fbd75f01b959dd37a6bd1b21c5d	20161222	数读两会—20组数字读懂政府工作报告	http://original.hubpd.com/c/2016-05-06/546955.shtml	1	1	28
+UAR-000161_540	15564	3f3013d5aa5c3929ece19f90ddda6d0e	20161222	党报说|别担心，中俄关系还是妥妥的“压舱石”	http://original.hubpd.com/c/2016-12-16/550757.shtml	1	1	125
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20161222	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20161222	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	20	17	85.45
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161222	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	5	5	3
+UAR-000161_540	15545	fc5bbda7bb150e5735465b57f8f10fc3	20161222	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	2	2	29
+UAR-000161_540	15551	4e4b368d672a560b316522d3b7069c5d	20161223	江苏举行企业智能制造对接会 促供需双方牵手	http://original.hubpd.com/c/2016-12-06/549402.shtml?from=groupmessage&isappinstalled=0	1	1	4
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161223	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	1	1	3
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161224	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	1	1	3
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161224	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	1	1	3
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161227	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	4	4	7.75
+UAR-000161_540	default	4e4b368d672a560b316522d3b7069c5d	20161207	江苏举行企业智能制造对接会 促供需双方牵手	http://original.hubpd.com/c/2016-12-06/549402.shtml?from=groupmessage&isappinstalled=0	17	16	28.94
+UAR-000161_540	default	4422099055b5979f2d8f2431dfe05e94	20161213	校园欺凌，不止是“开过分了的玩笑”	http://original.hubpd.com/c/2016-12-11/550274.shtml	4	3	65.5
+UAR-000161_540	default	1479f1bf10c06ebeb46559baf372c9e8	20161209	发展智能制造 十位大咖有话说	http://original.hubpd.com/c/2016-12-07/549842.shtml	5	5	62.4
+UAR-000161_540	default	a29e9eaa65002c4aa9bf084ca5f0c131	20161208	中国最早民族保险公司获批复牌，招商局实现金融全牌照	http://original.hubpd.com/c/2016-12-07/549737.shtml	39	35	47.18
+UAR-000161_540	default	bdc2500513e119efa67f8268caaf1186	20161229	产能去了吗？成本降了吗？五大任务一年，效果咋样？	http://original.hubpd.com/c/2016-12-14/550582.shtml	1	1	3
+UAR-000161_540	15541	80c9afe674a0f52ef67043f9be62eed1	20161228	昨天，这名违反八项规定被通报批评的中管干部提前退休了	http://original.hubpd.com/c/2016-12-28/552299.shtml	265	225	32.97
+UAR-000161_540	15564	6c15188b026413c557937b2c638ef7a4	20161228	韩国“亲信门”更新，财团大佬如何在国会撇清关系？	http://original.hubpd.com/c/2016-12-07/549416.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15552	d01b0fa784ca015c625a7652c89daae5	20161230	命运壮歌 振奋你我 残奥会中国队金牌首破百枚	http://original.hubpd.com/c/2016-09-19/546950.shtml	2	1	21.5
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20161231	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	21	15	68.86
+UAR-000161_540	15541	80c9afe674a0f52ef67043f9be62eed1	20161229	昨天，这名违反八项规定被通报批评的中管干部提前退休了	http://original.hubpd.com/c/2016-12-28/552299.shtml	16	10	74
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20161229	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	4	4	95.25
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20170103	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	10	5	84.5
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20170103	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	2	2	16.5
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170104	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	3	3	102
+UAR-000161_540	15541	80c9afe674a0f52ef67043f9be62eed1	20170102	昨天，这名违反八项规定被通报批评的中管干部提前退休了	http://original.hubpd.com/c/2016-12-28/552299.shtml	3	2	19.33
+UAR-000161_540	15545	faf954c7c7703570a2e860e77e699bf4	20170103	麻辣财经： 羊毛出在狗身上，“买单”的猪在哪儿？	http://original.hubpd.com/c/2016-11-23/546046.shtml	1	1	28
+UAR-000161_540	15545	55720960d45bc87bed9dfc2c1fbd1665	20170103	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	3	2	123
+UAR-000161_540	15545	fc5bbda7bb150e5735465b57f8f10fc3	20170103	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	1	1	21
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170104	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	23	15	61.26
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20170102	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	4	4	3
+UAR-000161_540	15545	a63cf20d773098a2ea02db9918baaeb1	20170103	麻辣财经：美国“驴象”激战，“牛”不行了！	http://original.hubpd.com/c/2016-11-08/546036.shtml	1	1	32
+UAR-000161_540	default	bdc2500513e119efa67f8268caaf1186	20170107	产能去了吗？成本降了吗？五大任务一年，效果咋样？	http://original.hubpd.com/c/2016-12-14/550582.shtml	1	1	23
+UAR-000161_540	15541	c2975a8908b53fd0b2a51b7e17befa99	20170106	25岁的中纪委干部，拿什么和副部级干部交换大工程？	http://original.hubpd.com/c/2017-01-05/553014.shtml	10	9	68.2
+UAR-000161_540	15550	77c594f1edbd2b632eb061b00e60a049	20170106	文艺九局：爱豆，我知道你想要跨过山和大海	http://original.hubpd.com/c/2016-11-24/546930.shtml	1	1	16
+UAR-000161_540	15548	7a75289407141f1480c1011da29bcab1	20170106	当心，校园欺凌将受法律严惩	http://original.hubpd.com/c/2016-12-28/552318.shtml	2	2	3
+UAR-000161_540	15545	b954fb1fea2fcae67a7b7fe8be21c615	20170107	麻辣财经：谁在排污？方位在哪儿？这回没跑了！	http://original.hubpd.com/c/2016-10-27/546029.shtml	1	1	3
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170108	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	1	1	14
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170105	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	3
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170106	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	47	35	31.66
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20170106	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	4	4	3
+UAR-000161_540	15541	286cd8bbe92862019f391362a2402a88	20170109	干部状态新观察：叫声“同志”不简单	http://original.hubpd.com/c/2016-12-13/550452.shtml	1	1	18
+UAR-000161_540	15541	ff09fbe0bdbee588f98f208800d9ebb2	20170109	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170109	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	4	3	83.25
+UAR-000161_540	15541	b605074a6d66db11a98fa013045edda7	20170110	教你读懂中央纪委七次全会公报	http://original.hubpd.com/c/2017-01-08/553198.shtml	6	6	9.17
+UAR-000161_540	15548	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170110	麻辣财经：电信服务，“强买强卖”何时了？	http://original.hubpd.com/c/2017-01-10/553306.shtml	589	489	37.09
+UAR-000161_540	15549	0344892de13037fc92202ce91a026b8e	20170110	神舟凯旋，这群老兵的眼睛湿润了	http://original.hubpd.com/c/2016-11-20/546917.shtml	5	3	17.6
+UAR-000161_540	15550	2947e6091bd41f90532fb7ce5c5fdaa6	20170114	【对话周有光追记】“独立思考就是这个时代的光”	http://original.hubpd.com/c/2017-01-14/553907.shtml?from=timeline&isappinstalled=0	113	87	52.29
+UAR-000161_540	15564	10a59603cfe7e656ce81153aacaecbe4	20170114	瑞士：中国朋友圈里的老友和好友	http://original.hubpd.com/c/2017-01-12/553592.shtml	2	2	20
+UAR-000161_540	15564	c8fc0a9819b9b21b82f6b375e2718ede	20170115	揭秘美国经济“衣橱中的秘密”系列二：社会不平等让“美国梦”坠落	http://original.hubpd.com/c/2017-01-15/553929.shtml?from=groupmessage&isappinstalled=0	153	127	27.18
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170112	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	1	1	3
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170112	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	3	2	3
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170113	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	8	3	134.75
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170115	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml?from=timeline	1	1	3
+UAR-000161_540	15545	a697d7d0d6f90b8110ae49320820a15c	20170113	麻辣财经：2017财政政策，撸起袖子怎么干?	http://original.hubpd.com/c/2017-01-04/552846.shtml?from=singlemessage&isappinstalled=0	2	1	61.5
+UAR-000161_540	default	02107ff1c856b9d3f9f41c437c0518cb	20170113	专家解读：2017，正风反腐七项任务怎么抓	http://cmpc.hubpd.com/zcms/content/preview?ID=553855&platformID=pc	1	1	81
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170112	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	2	2	79
+UAR-000161_540	15564	10a59603cfe7e656ce81153aacaecbe4	20170112	瑞士：中国朋友圈里的老友和好友	http://original.hubpd.com/c/2017-01-12/553592.shtml	7	5	48.43
+UAR-000161_540	15548	54864cb19fb3d67cb9c7281c8e6c6fc3	20170115	智能神器原来在这里，简直辣眼睛	http://original.hubpd.com/c/2016-12-06/549407.shtml	1	1	16
+UAR-000161_540	15541	4762c415ed468eee2314acf1e1a112b9	20170116	习近平抵达苏黎世开始对瑞士联邦进行国事访问	http://original.hubpd.com/c/2017-01-15/553978.shtml	42	27	135.62
+UAR-000161_540	15545	44e4b94d151cbd8078a2f79c0a93e6f1	20170117	麻辣财经：家门口的“老中医”，未来将成标配	http://original.hubpd.com/c/2017-01-02/552514.shtml	1	1	3
+UAR-000161_540	15541	85698df8ac1f56b5e0b730697f8b2683	20170117	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时强调中国发展是各国工商界的机遇	http://original.hubpd.com/c/2017-01-17/554314.shtml	14	12	149
+UAR-000161_540	15545	cdc98bd42f3c6b8bc4d30b07bf198019	20170116	麻辣财经：资源配置，大幅减少政府直接“插手”	http://original.hubpd.com/c/2017-01-15/553993.shtml?from=timeline&isappinstalled=0	213	184	31.32
+UAR-000161_540	15550	c9e6e022a541d357276dcdf981d6239d	20170116	龚琳娜：我批评王菲，因为总要有人讲真话	http://original.hubpd.com/c/2017-01-06/553137.shtml?from=singlemessage&isappinstalled=0	4	1	104.75
+UAR-000161_540	15548	bb22680f5babcabfa1bf090c4f9af704	20170117	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	1	1	3
+UAR-000161_540	default	bcb2d84217b629b5bed04c4569064973	20170117	2亿老人、1亿空巢老人中国养老产业迎井喷	http://original.hubpd.com/c/2017-01-12/553617.shtml	1	1	47
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20170117	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml?from=message&isappinstalled=0	9	7	20.56
+UAR-000161_540	15541	b15c07783f2127efbe6be3f9849826c3	20170117	习近平会见世界经济论坛执行主席施瓦布	http://original.hubpd.com/c/2017-01-17/554338.shtml	8	6	128.12
+UAR-000161_540	15548	b42f5e2ca1f5b8eff1ca45827a09324d	20170118	总书记很牵挂，困难群众对三个问题咋回答?	http://original.hubpd.com/c/2017-01-03/552744.shtml?winzoom=1&from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15548	d8e7853cb1df2e7020c325a77adb101b	20170118	摩拜单车创始人谈治乱象：骑好共享单车，需政府一只手企业一只手	http://original.hubpd.com/c/2017-01-17/554212.shtml?from=timeline&isappinstalled=0	96	84	16.1
+UAR-000161_540	15548	791580a82e68a1f6aec050cee02f4a8e	20170117	刘永好：农村天地广阔，大有可为	http://original.hubpd.com/c/2017-01-11/553501.shtml	21	17	23.76
+UAR-000161_540	default	a56cff55999f7a9d43d9f4d7c08396aa	20161207	“弄潮儿”江苏哪儿来的“金刚钻”？	http://original.hubpd.com/c/2016-12-05/549138.shtml	6	4	37.67
+UAR-000161_540	default	471d14130878259c3f49e5039532d093	20161212	“团圆”系统打拐 最快30分钟找到孩子	http://original.hubpd.com/c/2016-12-08/549867.shtml	2	2	154
+UAR-000161_540	default	f743b2e77320e685836c04d2fc7a1589	20161207	企业社会责任指数 7成300强企业不及格	http://original.hubpd.com/c/2016-11-03/546968.shtml	1	1	27
+UAR-000161_540	default	51cd57ba22b765b06a7ab097d95cd609	20161213	清清爽爽的同志关系是基础	http://original.hubpd.com/c/2016-12-12/550330.shtml	1	1	3
+UAR-000161_540	default	20665869b60ae62ed54807e0d65502d5	20161213	资产管理公司在供给侧结构性改革中能做什么？	http://original.hubpd.com/c/2016-05-05/545974.shtml	1	1	58
+UAR-000161_540	default	b296f54ef4beeca6b03bf817b7eb19f8	20161211	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml	15	15	3
+UAR-000161_540	default	61c1c59a142ac81a4cbe58d0ce2ef851	20161213	嘘！学习新常态的中场时间到了	http://original.hubpd.com/c/2016-12-10/550251.shtml	2	2	151.5
+UAR-000161_540	default	5533a60959331a5d2aaacee91ab24185	20161208	数据揭秘“双十一”：成交额再次冲顶，口碑仍待提升	http://original.hubpd.com/c/2016-11-12/546970.shtml	1	1	30
+UAR-000161_540	default	edf45b87260cba82d77cd1b7d66fe6df	20161209	文艺九局：《神奇动物在哪里》续集三大猜想	http://original.hubpd.com/c/2016-11-29/546932.shtml	1	1	7
+UAR-000161_540	default	54864cb19fb3d67cb9c7281c8e6c6fc3	20161207	智能神器原来在这里，简直辣眼睛	http://original.hubpd.com/c/2016-12-06/549407.shtml	56	54	15.73
+UAR-000161_540	default	539cef5971e12f34f1ebfd7e146c17ec	20161215	不让激进投资挑战“保险姓保”底线	http://original.hubpd.com/c/2016-12-14/550558.shtml	2	2	170
+UAR-000161_540	default	d852e17ff25593406c25ebfbf4c981d5	20161215	麻辣财经：房产税遗产税要开征？别听风就是雨！	http://original.hubpd.com/c/2016-11-15/546040.shtml	1	1	3
+UAR-000161_540	default	ea9ea4da46b42a9d1d1917cf08af36ef	20161207	未来五年，这条赛道将跑出科技独角兽	http://original.hubpd.com/c/2016-12-05/549136.shtml	4	3	55.25
+UAR-000161_540	default	5832e8b6bcbf3d42049e5621859f4efd	20161208	麻辣财经：保险资金，不能跟“野蛮人”划等号	http://original.hubpd.com/c/2016-12-05/549247.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	default	7c701edecfa72e5e8c3dc4936e78dfa2	20161215	麻辣财经： 地方债，“窟窿”自己补 中央不救助	http://original.hubpd.com/c/2016-11-29/546041.shtml	1	1	18
+UAR-000161_540	default	0344892de13037fc92202ce91a026b8e	20161219	神舟凯旋，这群老兵的眼睛湿润了	http://original.hubpd.com/c/2016-11-20/546917.shtml	1	1	189
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20161219	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	default	e45a7a83c5ff1f806c84449f852304c6	20161219	“罗尔事件”：法律应是人性的低保	http://original.hubpd.com/c/2016-12-05/549268.shtml	2	1	45
+UAR-000161_540	default	84a8f32d86364055f23304074dfcc15c	20161221	一图带你走进文明古国——秘鲁	http://original.hubpd.com/c/2016-11-19/546982.shtml	1	1	5
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20161222	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	1	1	3
+UAR-000161_540	15542	3888b95c27a0fae19cbec6ee4fe7c7d5	20161222	五大关键词，给2016两会画个像	http://original.hubpd.com/c/2016-03-15/546889.shtml	2	1	11
+UAR-000161_540	15545	49fa0b143394ea36b3538adc030f686e	20161223	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	3
+UAR-000161_540	15542	71a2e1ac408acb9be02d6f8107673834	20161223	广西50万“疑似贫困户”被一票否决	http://original.hubpd.com/c/2016-03-25/546888.shtml	3	1	7.67
+UAR-000161_540	default	2b5364e6b9242f215e6dfda2b86693d4	20161224	中国，距离“人力资源强国”之路还有多远	http://original.hubpd.com/c/2016-12-18/550900.shtml	2	1	43.5
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161227	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	3	3	58.33
+UAR-000161_540	15545	55720960d45bc87bed9dfc2c1fbd1665	20161231	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	2	2	99
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20161230	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	53	50	15.47
+UAR-000161_540	15545	f18b33b897b722dfb9387862cda33c47	20161231	麻辣财经：华为拿下5G时代？此言尚早路还远着呢！	http://original.hubpd.com/c/2016-11-20/546044.shtml	3	1	8
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20161230	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	4	3	97.75
+UAR-000161_540	15541	80c9afe674a0f52ef67043f9be62eed1	20161230	昨天，这名违反八项规定被通报批评的中管干部提前退休了	http://original.hubpd.com/c/2016-12-28/552299.shtml	8	5	55.25
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170101	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	8	7	7.88
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20170101	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	1	1	3
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20161229	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	639	522	30.64
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20161230	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	5	5	3
+UAR-000161_540	15545	ab7a020be1790f8ad0f6702cfe9e4645	20170101	麻辣财经：“黑天鹅”轮番飞来，买黄金避险行不行？	http://original.hubpd.com/c/2016-12-06/549310.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170102	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	3	3	3
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170103	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	1	1	102
+UAR-000161_540	15545	60ba3d35aefb2563f9406f3dd0ff64eb	20170103	麻辣财经:网约车，看上去很美? 麻辣姐跟三七强“开撕”	http://original.hubpd.com/c/2016-10-31/546031.shtml	1	1	76
+UAR-000161_540	15548	b42f5e2ca1f5b8eff1ca45827a09324d	20170104	总书记很牵挂，困难群众对三个问题咋回答?	http://original.hubpd.com/c/2017-01-03/552744.shtml?winzoom=1&from=groupmessage&isappinstalled=0	6	6	3
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20170102	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	2	2	3
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20170103	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	20
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170105	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	177	153	22.63
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170105	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	300
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170102	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	3
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170104	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	8	8	4.25
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20170105	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	3	2	35
+UAR-000161_540	15553	bf258d274063cfc3dc38682eef95c528	20170107	国人阅读大揭秘：2015-2016，中国人究竟在读什么？	http://original.hubpd.com/c/2016-04-22/546961.shtml	1	1	216
+UAR-000161_540	15553	0354e000c9b5c84c1d790006a488c17b	20170106	光棍节，你还是一个人过吗？——大数据解读大学生恋爱状况	http://original.hubpd.com/c/2016-11-01/546967.shtml	1	1	3
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20170107	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	1	1	3
+UAR-000161_540	15553	91e275010dea29f9059e3fd9b1af32af	20170107	数据直击英国“脱欧”	http://original.hubpd.com/c/2016-06-25/546957.shtml	1	1	90
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170108	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	2	2	43
+UAR-000161_540	15564	dc157ab5ce5ed2b9e5d33f72712b08ab	20170108	问鼎白宫之路，谁拿了谁的钱	http://original.hubpd.com/c/2016-11-01/546894.shtml	1	1	23
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170109	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml	8	6	56.75
+UAR-000161_540	15551	f6a490b0a624f76db3ebe7b1ef43bfc3	20170109	2016年贵阳大数据金融信用体系建设和风险控制系列活动在贵阳开幕	http://original.hubpd.com/c/2016-11-03/543757.shtml	1	1	6
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170109	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	1	1	7
+UAR-000161_540	15564	b4fee30c3c44c4009a3970e2b086dd55	20170111	侠客岛：今天，一群中国轰炸机去了日本海	http://original.hubpd.com/c/2017-01-10/553376.shtml	3	3	112
+UAR-000161_540	15545	1b40de83e1e81795fae2c49d0aaf5079	20170112	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553598.shtml	255	217	26.45
+UAR-000161_540	15541	8dd182f1c9ef7bd64d0f0c5ab77b6c9f	20170112	1000余种中国主题精品图书亮相金边 柬埔寨涌动“中国热”	http://original.hubpd.com/c/2016-10-11/546650.shtml	1	1	14
+UAR-000161_540	15548	3ad64ca0e69c70e4aa892b308562ae6c	20170113	侠客岛：打着飞的去重庆炒房？别闹了	http://original.hubpd.com/c/2017-01-13/553682.shtml	51	44	62.45
+UAR-000161_540	15541	b605074a6d66db11a98fa013045edda7	20170111	教你读懂中央纪委七次全会公报	http://original.hubpd.com/c/2017-01-08/553198.shtml	1	1	3
+UAR-000161_540	15548	fdc124a36f7f66e29e362f9ca1975138	20170113	侠客岛：辽宁舰穿越台湾海峡，背后有几重警告	http://original.hubpd.com/c/2017-01-12/553512.shtml	3	3	47.67
+UAR-000161_540	15548	479539de9f32c0aa2ba15561b51ece09	20170113	【最山水】保护区难保护，细数三宗罪	http://original.hubpd.com/c/2016-12-28/552308.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20170110	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	1	1	3
+UAR-000161_540	15545	73c55ae313729795de913462b341dd68	20170113	麻辣财经：新能源汽车，骗补漏洞堵得住吗?	http://original.hubpd.com/c/2017-01-11/553490.shtml?from=timeline&isappinstalled=0	2	2	37.5
+UAR-000161_540	15548	791580a82e68a1f6aec050cee02f4a8e	20170113	刘永好：农村天地广阔，大有可为	http://original.hubpd.com/c/2017-01-11/553501.shtml?from=timeline&isappinstalled=0	28	19	17.11
+UAR-000161_540	15564	10a59603cfe7e656ce81153aacaecbe4	20170113	瑞士：中国朋友圈里的老友和好友	http://original.hubpd.com/c/2017-01-12/553592.shtml	3	3	112.67
+UAR-000161_540	15548	3ad64ca0e69c70e4aa892b308562ae6c	20170114	侠客岛：打着飞的去重庆炒房？别闹了	http://original.hubpd.com/c/2017-01-13/553682.shtml	8	8	38.75
+UAR-000161_540	15541	d3879be045531501e74818825fa7691c	20170116	司法部：社区服刑人员突破70万人，矫正期间重新犯罪率处于0.2%左右的较低水平	http://original.hubpd.com/c/2017-01-15/553965.shtml?from=groupmessage&isappinstalled=0	76	64	24.33
+UAR-000161_540	default	b765e3df03c9dd9049eff0cd807b2018	20170114	一份来自中央的“媒体融合行动指南”	http://original.hubpd.com/c/2017-01-13/553665.shtml?from=singlemessage&isappinstalled=0	7	5	54.57
+UAR-000161_540	15564	360cfb20fd84519ba98225947475cbef	20170115	习近平要去的达沃斯，你了解吗?	http://original.hubpd.com/c/2017-01-13/553685.shtml	3	3	227.33
+UAR-000161_540	15545	ea28f89dc4bb927ffe53770da9eb11b7	20170115	麻辣财经：营改增，一个“小目标”已实现	http://original.hubpd.com/c/2016-10-25/546026.shtml	1	1	214
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20170115	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	3e51de8f63ca53ea301a9ce96f166eec	20170116	习主席瑞士之行的5个“首次”	http://original.hubpd.com/c/2017-01-15/553970.shtml	12	8	76.58
+UAR-000161_540	15541	a3506db7056b2d344ca0a85597a6e8b8	20170116	习近平同瑞士联邦主席洛伊特哈德举行会谈 一致同意推动中瑞关系实现更好发展	http://original.hubpd.com/c/2017-01-16/554177.shtml	31	21	109.58
+UAR-000161_540	default	1b40de83e1e81795fae2c49d0aaf5079	20170117	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553739.shtml	3	1	122.67
+UAR-000161_540	15541	1630cf3092f8cd4dd342e80a7c9f4cb3	20170117	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时指出 “一带一路”倡议取得积极成果	http://original.hubpd.com/c/2017-01-17/554317.shtml	21	17	87.95
+UAR-000161_540	15553	91e275010dea29f9059e3fd9b1af32af	20170117	数据直击英国“脱欧”	http://original.hubpd.com/c/2016-06-25/546957.shtml	1	1	146
+UAR-000161_540	15564	4968821ad1f25b5f6eaaddb0cbfac033	20170117	揭秘美国经济“衣橱中的秘密”系列三：特朗普能履行竞选承诺吗？	http://original.hubpd.com/c/2017-01-15/553930.shtml?from=timeline	2	2	11
+UAR-000161_540	15548	d8e7853cb1df2e7020c325a77adb101b	20170117	摩拜单车创始人谈治乱象：骑好共享单车，需政府一只手企业一只手	http://original.hubpd.com/c/2017-01-17/554212.shtml?from=timeline	296	250	35.06
+UAR-000161_540	15548	22b53f5c2ccbb10486a4dc695dbae130	20170118	侠客岛：教材改为“十四年抗战”的原因，远没有那么简单	http://original.hubpd.com/c/2017-01-12/553511.shtml	1	1	35
+UAR-000161_540	15564	88fb6682b19ed189c821bfb27086517e	20170118	揭秘美国经济“衣橱中的秘密”系列一：新自由主义让富者愈富、穷者愈穷	http://original.hubpd.com/c/2017-01-15/553928.shtml	4	2	29
+UAR-000161_540	15541	fdde1e407fb4fbea9bd000ef5753a51a	20170118	习近平出席瑞士联邦委员会全体委员集体举行的迎接仪式并致辞	http://original.hubpd.com/c/2017-01-16/554018.shtml	1	1	12
+UAR-000161_540	default	4a72c8c547de8b24a10e7b8684af1cb6	20170118	试点还剩半年，检察提起公益诉讼交出成绩单	http://cmpc.test.pdmi.cn/ggpt/c/2017-01-17/488245.shtml	1	1	300
+UAR-000161_540	15541	fff5d4c7ab26626145f1d39701feb846	20170118	共担时代责任 共促全球发展 ——在世界经济论坛2017年年会开幕式上的主旨演讲	http://original.hubpd.com/c/2017-01-18/554348.shtml	73	35	106.44
+UAR-000161_540	15549	824a58ac1bbcfb112035850ec4f84d2a	20170118	习总点评的“95后”，要好好珍惜	http://original.hubpd.com/c/2017-01-03/552771.shtml	1	1	3
+UAR-000161_540	15548	545d01e915fc3744b342d8aabc8d5174	20170118	确定了，2017年是国家司法考试最后一年！	http://original.hubpd.com/c/2017-01-14/553887.shtml?from=groupmessage	5	4	66.4
+UAR-000161_540	default	09816b77b25b1cac4e36d6b50328b80c	20161217	习近平出席亚太经合组织工商领导人峰会并发表主旨演讲	http://original.hubpd.com/c/2016-11-20/546732.shtml	3	3	3
+UAR-000161_540	default	4e4b368d672a560b316522d3b7069c5d	20161218	江苏举行企业智能制造对接会 促供需双方牵手	http://original.hubpd.com/c/2016-12-06/549402.shtml?from=groupmessage&isappinstalled=0	1	1	300
+UAR-000161_540	default	d9df3231cc047b48465ef62e96168a15	20161212	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	300
+UAR-000161_540	default	6e63626142fa3bf52e36afa81bb6237a	20161207	世界智能制造大会今开幕 专家共议如何“让制造更聪明”	http://original.hubpd.com/c/2016-12-07/549548.shtml	44	28	88.43
+UAR-000161_540	default	55720960d45bc87bed9dfc2c1fbd1665	20161209	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	34	23	58.15
+UAR-000161_540	default	a69a5f78f5ee6af54f7e4479cb0db3fe	20161215	2016我的供给侧改革	http://original.hubpd.com/c/2016-12-15/550635.shtml	14	10	61
+UAR-000161_540	default	1e47fb6c9c40560af9613888ff474d50	20161207	图解：快递包装绿色化	http://original.hubpd.com/c/2016-11-14/546992.shtml	1	1	63
+UAR-000161_540	default	bb22680f5babcabfa1bf090c4f9af704	20161219	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	2	1	134.5
+UAR-000161_540	default	27c10cfc804d9f76752404f1367a2962	20161219	一张图带你读懂第三届世界互联网大会	http://original.hubpd.com/c/2016-11-15/546998.shtml	1	1	300
+UAR-000161_540	default	3f3013d5aa5c3929ece19f90ddda6d0e	20161219	党报说|别担心，中俄关系还是妥妥的“压舱石”	http://original.hubpd.com/c/2016-12-16/550757.shtml	1	1	285
+UAR-000161_540	default	e6eedacf20ca39fd53a99cdadba714f6	20161219	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	1	1	284
+UAR-000161_540	15548	4422099055b5979f2d8f2431dfe05e94	20161219	校园欺凌，不止是“开过分了的玩笑”	http://original.hubpd.com/c/2016-12-11/550274.shtml	1	1	29
+UAR-000161_540	15564	b296f54ef4beeca6b03bf817b7eb19f8	20161220	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml	1	1	3
+UAR-000161_540	15545	fc5bbda7bb150e5735465b57f8f10fc3	20161220	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	1	1	3
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161221	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	27	21	48.11
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20161221	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	5	5	32.2
+UAR-000161_540	15549	ef84395bd1e44253cdd58ea3e959e06c	20161221	朗诵·长征任仲平 | 铸就我们民族的精神航道	http://original.hubpd.com/c/2016-10-19/546915.shtml	1	1	300
+UAR-000161_540	15545	55720960d45bc87bed9dfc2c1fbd1665	20161221	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	1	1	3
+UAR-000161_540	15550	e6eedacf20ca39fd53a99cdadba714f6	20161223	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	1	1	300
+UAR-000161_540	15542	68390113a2b0ff5e2a698886519a435d	20161223	西港特区：打造“一带一路”合作共赢样板	http://original.hubpd.com/c/2016-04-07/546882.shtml	1	1	21
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20161223	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	11
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20161227	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	84	74	13.51
+UAR-000161_540	default	41af425a711d24be944cef1279f1992f	20161223	隔壁张大爷要跟你说点正经的	http://original.hubpd.com/c/2016-12-22/552030.shtml	4	3	18.25
+UAR-000161_540	default	bdc2500513e119efa67f8268caaf1186	20161223	产能去了吗？成本降了吗？五大任务一年，效果咋样？	http://original.hubpd.com/c/2016-12-14/550582.shtml	1	1	3
+UAR-000161_540	15564	3287459d5c5ff19e3be3a8401aacdcc3	20161227	最近中美间几件大事，必须结合起来看	http://original.hubpd.com/c/2016-12-27/552272.shtml	46	14	89.87
+UAR-000161_540	15564	3287459d5c5ff19e3be3a8401aacdcc3	20161228	最近中美间几件大事，必须结合起来看	http://original.hubpd.com/c/2016-12-27/552272.shtml	4	3	255.25
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20161223	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	1	1	3
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161228	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	3	2	105
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170105	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	34	27	95.88
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170106	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	9	9	57.11
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20170106	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	3	2	3
+UAR-000161_540	15548	f10040b9387176aa8eb79502d2affcef	20170106	医改八年就算完？别急，还有更多健康红利	http://original.hubpd.com/c/2017-01-03/552775.shtml	3	3	121.33
+UAR-000161_540	15549	e45a7a83c5ff1f806c84449f852304c6	20170104	“罗尔事件”：法律应是人性的低保	http://original.hubpd.com/c/2016-12-05/549268.shtml	1	1	10
+UAR-000161_540	default	8eada43c17dc6a563574a0d386daded8	20170104	一图帮你了解“铜之王国”——智利	http://original.hubpd.com/c/2016-11-23/546983.shtml	1	1	300
+UAR-000161_540	15553	6ad4a3bed068705466442aa9468faeeb	20170104	租房可减免税，这事你了解吗？	http://original.hubpd.com/c/2016-07-04/546958.shtml	1	1	3
+UAR-000161_540	15545	9b24ea7147d59efa152267d9812aa84a	20170103	麻辣财经：北京不让卖活鱼？超市的理由好奇葩	http://original.hubpd.com/c/2016-11-23/546047.shtml	1	1	100
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20170104	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	1	1	10
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20161231	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	196	168	15.37
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20161229	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	29	27	13.24
+UAR-000161_540	15564	9db48195a430bca742c2e671b484e63a	20161231	侠客岛：要读懂特朗普对华政策，此人的文章必须读	http://original.hubpd.com/c/2016-12-23/552049.shtml	1	1	113
+UAR-000161_540	15541	b5f40cffe9a6f971670d73ee97dff921	20161231	习近平会见韩国总统朴槿惠	http://original.hubpd.com/c/2016-09-05/546613.shtml	1	1	6
+UAR-000161_540	default	f01000ad78761cd71a3fb0666ed4a467	20161229	“每30秒就有1人死于艾滋”，数读：要关爱，不要“艾”	http://original.hubpd.com/c/2016-12-01/546876.shtml	2	1	151.5
+UAR-000161_540	default	8584b80e49d6745350ca28f46dc31ba5	20161229	新闻图解：八项规定四周年“三公”经费缩减近三成	http://original.hubpd.com/c/2016-11-30/546142.shtml	2	1	167
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20161230	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	3	3	102
+UAR-000161_540	15564	033c0522939ceaf64a17ed47b1b8032d	20170114	达沃斯期待聆听中国声音	http://original.hubpd.com/c/2017-01-12/553591.shtml	1	1	29
+UAR-000161_540	15548	349e852c6be5ddac989ebb68255aa2b9	20170114	独家：环保部部长透露治霾新年打算	http://original.hubpd.com/c/2017-01-14/553891.shtml	14	10	102
+UAR-000161_540	15548	3ad64ca0e69c70e4aa892b308562ae6c	20170115	侠客岛：打着飞的去重庆炒房？别闹了	http://original.hubpd.com/c/2017-01-13/553682.shtml?from=timeline	1	1	3
+UAR-000161_540	15545	f18b33b897b722dfb9387862cda33c47	20170112	麻辣财经：华为拿下5G时代？此言尚早路还远着呢！	http://original.hubpd.com/c/2016-11-20/546044.shtml	1	1	3
+UAR-000161_540	15564	9f2fd460e6a48b6d7765f1537b5b4123	20170112	中国驻瑞士大使耿文兵：携手创新 互利共赢	http://original.hubpd.com/c/2017-01-12/553537.shtml	19	11	105.68
+UAR-000161_540	15548	dc6a276684023ad781212cdd7f01fc93	20170113	偷排四年，这家企业好大胆	http://original.hubpd.com/c/2017-01-09/553250.shtml?from=groupmessage	4	1	3
+UAR-000161_540	15548	6b973f0710bce63331cdc2441919b5ed	20170113	北大迎来了“国际范儿”的新书记	http://original.hubpd.com/c/2016-12-13/550524.shtml	4	4	3
+UAR-000161_540	15548	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170114	麻辣财经：电信服务，“强买强卖”何时了？	http://original.hubpd.com/c/2017-01-10/553306.shtml?from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	15564	d2106ce78218f250f56f9b169c6b2b1c	20170115	在“欧洲屋脊”聆听中国声音	http://original.hubpd.com/c/2017-01-15/553947.shtml	23	15	155.78
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20170108	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	1	1	64
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20170110	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	2	2	151.5
+UAR-000161_540	15548	60e9c2ca150186f6118fe3392b11c79d	20170110	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml	57	50	63.16
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170109	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	4	4	54.75
+UAR-000161_540	15541	b605074a6d66db11a98fa013045edda7	20170108	教你读懂中央纪委七次全会公报	http://original.hubpd.com/c/2017-01-08/553198.shtml	214	154	29.47
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20170109	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	1	1	6
+UAR-000161_540	15545	7e612e56ac7092e41c31298954522aee	20170109	麻辣财经：地方融资平台“子债父不还”，这钱还敢借吗？	http://original.hubpd.com/c/2016-11-07/546035.shtml	1	1	15
+UAR-000161_540	15564	3287459d5c5ff19e3be3a8401aacdcc3	20170108	最近中美间几件大事，必须结合起来看	http://original.hubpd.com/c/2016-12-27/552272.shtml	2	1	154.5
+UAR-000161_540	15548	d6130f66c372260b225538a754ddd9eb	20170115	老人倒地昏迷，她为啥敢毫不犹豫冲上去？	http://original.hubpd.com/c/2017-01-10/553423.shtml	2	2	3
+UAR-000161_540	15545	73c55ae313729795de913462b341dd68	20170116	麻辣财经：新能源汽车，骗补漏洞堵得住吗?	http://original.hubpd.com/c/2017-01-11/553490.shtml	2	2	64.5
+UAR-000161_540	15564	faedc8bb39165ae4f05356259fc0a4ea	20170116	瑞士的四张名片，你收到了吗？	http://original.hubpd.com/c/2017-01-15/553939.shtml	18	6	83.89
+UAR-000161_540	15564	a0f8ff28d9ecd5e5fa1459933927f5cb	20170116	厉害了，中瑞合作！	http://original.hubpd.com/c/2017-01-16/554067.shtml	19	17	98.42
+UAR-000161_540	15564	e396529fd7a6b2e75f807598fcc4f8dd	20170117	分享中国智慧 提振发展信心	http://original.hubpd.com/c/2017-01-17/554247.shtml	29	12	61.76
+UAR-000161_540	15564	31600f11e6249401c65d4a510304b217	20170115	侠客岛专访郑永年：这轮“逆全球化”是中国的好机会	http://original.hubpd.com/c/2017-01-15/553952.shtml?from=timeline&isappinstalled=0	81	68	49.33
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170116	人民日报社2017年新年献词：不忘初心 逐梦前行	http://original.hubpd.com/c/2016-12-30/552435.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15548	545d01e915fc3744b342d8aabc8d5174	20170116	确定了，2017年是国家司法考试最后一年！	http://original.hubpd.com/c/2017-01-14/553887.shtml?from=timeline&isappinstalled=0	13	13	7
+UAR-000161_540	15541	e04c23419667937322d356fa4db78e9d	20170116	热切源自热爱——习主席瑞士之行记者手记	http://cmpc.hubpd.com/zcms/content/preview?ID=554143&ContentType=Article&platformID=pc	1	1	134
+UAR-000161_540	default	d42ceb8a4baeae02a6ca4b6e74d74a32	20170117	热切源自热爱——习主席瑞士行之记者手记	http://original.hubpd.com/c/2017-01-16/554149.shtml	8	5	124.25
+UAR-000161_540	default	bdc2500513e119efa67f8268caaf1186	20170117	产能去了吗？成本降了吗？五大任务一年，效果咋样？	http://original.hubpd.com/c/2016-12-14/550582.shtml	1	1	66
+UAR-000161_540	15541	67fdb6a55dfdbb9a60b71dce491dd2f4	20170118	国际社会瞩目习近平主席2017年首次出访	http://original.hubpd.com/c/2017-01-11/553483.shtml	1	1	5
+UAR-000161_540	15541	2c7d3c1421dd02d047cccf00e34c5948	20170118	上海市委书记缘何铆牢补习班	http://original.hubpd.com/c/2017-01-18/554581.shtml?from=timeline&isappinstalled=0	1079	880	30.03
+UAR-000161_540	default	3b0b018a4959033eac40d57127660a42	20170118	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553715.shtml	4	2	154.5
+UAR-000161_540	15548	6b973f0710bce63331cdc2441919b5ed	20170118	北大迎来了“国际范儿”的新书记	http://original.hubpd.com/c/2016-12-13/550524.shtml?from=singlemessage&isappinstalled=0	1	1	3
+UAR-000161_540	15541	b15c07783f2127efbe6be3f9849826c3	20170118	习近平会见世界经济论坛执行主席施瓦布	http://original.hubpd.com/c/2017-01-17/554338.shtml	16	10	113.19
+UAR-000161_540	default	cdc98bd42f3c6b8bc4d30b07bf198019	20170118	麻辣财经：资源配置，大幅减少政府直接“插手”	http://cmpc.test.pdmi.cn/zcms_wechat/content/preview?ID=488586&platformID=pc	1	1	3
+UAR-000161_540	default	a29e9eaa65002c4aa9bf084ca5f0c131	20161209	中国最早民族保险公司获批复牌，招商局实现金融全牌照	http://original.hubpd.com/c/2016-12-07/549737.shtml	8	7	43.25
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20161210	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	1	1	3
+UAR-000161_540	default	49fa0b143394ea36b3538adc030f686e	20161216	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	3
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20161207	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	72	54	67.56
+UAR-000161_540	default	d7b3d7d00f362e16f7f58a3920f116a9	20161216	中关村二小事件：喧嚣过后无赢家	http://original.hubpd.com/c/2016-12-13/550481.shtml	2	2	180.5
+UAR-000161_540	default	cc9fa60d578de902be68a425281d1523	20161212	解局：江苏为什么有资格办世界智能制造大会？	http://original.hubpd.com/c/2016-12-08/549874.shtml	2	2	30
+UAR-000161_540	default	77c594f1edbd2b632eb061b00e60a049	20161212	文艺九局：爱豆，我知道你想要跨过山和大海	http://original.hubpd.com/c/2016-11-24/546930.shtml	2	2	25
+UAR-000161_540	default	b5f40cffe9a6f971670d73ee97dff921	20161207	习近平会见韩国总统朴槿惠	http://original.hubpd.com/c/2016-09-05/546613.shtml	1	1	3
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161219	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	1	1	3
+UAR-000161_540	default	be439ee83f3ccd4caba52b68dbb868c4	20161219	什么样的产业能脱贫 ——来自大别山片区河南潢川县的调查	http://original.hubpd.com/c/2016-12-18/550897.shtml	1	1	3
+UAR-000161_540	15545	5e3bad4429d352cd25f347f81bb249e6	20161220	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	4	4	36.25
+UAR-000161_540	15541	ee761598740766b2e917a253654348b1	20161220	人民日报首提“新方位”:中国经济怎么看、怎么想、怎么干	http://original.hubpd.com/c/2016-12-14/550547.shtml	1	1	3
+UAR-000161_540	default	ff09fbe0bdbee588f98f208800d9ebb2	20161215	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	1	1	300
+UAR-000161_540	15548	b8c96eaa8433d2270346dce1ce631f71	20161224	知名企业“喊冤”的背后	http://original.hubpd.com/c/2016-12-23/552045.shtml	1	1	9
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161223	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	2	2	272.5
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20161228	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	205	184	16.13
+UAR-000161_540	15545	c0d848d7d5292bb3953cc6934346a49f	20161221	麻辣财经：无形财产，你的权利如何保护？	http://original.hubpd.com/c/2016-12-01/546185.shtml?from=groupmessage&isappinstalled=0	1	1	35
+UAR-000161_540	15541	048fdf81d079c3d959d6b11969f8faf8	20161223	王晨：坚持党的领导是有效实施宪法根本要求	http://original.hubpd.com/c/2016-12-21/551962.shtml	1	1	31
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20161221	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	7	5	150.86
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161222	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	2	2	9
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20161229	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	55	27	61.96
+UAR-000161_540	15552	d01b0fa784ca015c625a7652c89daae5	20161229	命运壮歌 振奋你我 残奥会中国队金牌首破百枚	http://original.hubpd.com/c/2016-09-19/546950.shtml	1	1	145
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20161230	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	3	1	20.67
+UAR-000161_540	15564	9db48195a430bca742c2e671b484e63a	20161230	侠客岛：要读懂特朗普对华政策，此人的文章必须读	http://original.hubpd.com/c/2016-12-23/552049.shtml	1	1	29
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20161229	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	3	2	3
+UAR-000161_540	15564	9db48195a430bca742c2e671b484e63a	20161228	侠客岛：要读懂特朗普对华政策，此人的文章必须读	http://original.hubpd.com/c/2016-12-23/552049.shtml	2	2	19.5
+UAR-000161_540	15564	e34d1e3a1dd96babf798776d45ffcead	20161229	特朗普嫌F-35太贵，美国军火商能让他省钱吗？	http://original.hubpd.com/c/2016-12-26/552130.shtml	1	1	68
+UAR-000161_540	15564	3287459d5c5ff19e3be3a8401aacdcc3	20161229	最近中美间几件大事，必须结合起来看	http://original.hubpd.com/c/2016-12-27/552272.shtml	1	1	3
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20161231	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	15	13	33.13
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20161231	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	2	2	3
+UAR-000161_540	15545	49fa0b143394ea36b3538adc030f686e	20170103	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	21
+UAR-000161_540	15550	77c594f1edbd2b632eb061b00e60a049	20170104	文艺九局：爱豆，我知道你想要跨过山和大海	http://original.hubpd.com/c/2016-11-24/546930.shtml	1	1	36
+UAR-000161_540	15548	cc9fa60d578de902be68a425281d1523	20161231	解局：江苏为什么有资格办世界智能制造大会？	http://original.hubpd.com/c/2016-12-08/549874.shtml	2	2	3
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170101	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	130	117	25.79
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170102	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	3	2	3
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20170102	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	1	1	3
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20161231	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	15564	e34d1e3a1dd96babf798776d45ffcead	20161231	特朗普嫌F-35太贵，美国军火商能让他省钱吗？	http://original.hubpd.com/c/2016-12-26/552130.shtml	1	1	300
+UAR-000161_540	15545	c0d848d7d5292bb3953cc6934346a49f	20161231	麻辣财经：无形财产，你的权利如何保护？	http://original.hubpd.com/c/2016-12-01/546185.shtml?from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	default	14b8677747854acd1b921321b3c51631	20170104	一图读懂十八大以来治党制度	http://original.hubpd.com/c/2016-11-01/546989.shtml	1	1	91
+UAR-000161_540	15541	e323962f8f1cc2a474e6ad6260835790	20170105	习近平前往古巴驻华使馆 吊唁古巴革命领袖菲德尔·卡斯特罗逝世	http://original.hubpd.com/c/2016-11-29/546764.shtml	2	1	12.5
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170105	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	1	1	3
+UAR-000161_540	15550	2c0fba5506cdcf432458e58af7a87e4b	20170105	文艺九局：这部爆火的动画电影，要给青春片们上一课	http://original.hubpd.com/c/2016-12-05/549265.shtml	1	1	300
+UAR-000161_540	15541	0a9a34419a92eedf47a733eae6ad8ddd	20170105	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	25	17	67.68
+UAR-000161_540	15541	868e1470cdb5c9478349986bb49be1b8	20170106	中美元首杭州会晤中方成果清单	http://original.hubpd.com/c/2016-09-04/546607.shtml	1	1	8
+UAR-000161_540	15541	02107ff1c856b9d3f9f41c437c0518cb	20170109	专家解读：2017，正风反腐七项任务怎么抓	http://original.hubpd.com/c/2017-01-09/553295.shtml	13	8	82.77
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170106	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	2	2	16.5
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20170106	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	1	1	3
+UAR-000161_540	15551	def3173003793bc43212f2369da3dbbf	20170109	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	2	2	40.5
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170110	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	3	3	3
+UAR-000161_540	15553	0354e000c9b5c84c1d790006a488c17b	20170107	光棍节，你还是一个人过吗？——大数据解读大学生恋爱状况	http://original.hubpd.com/c/2016-11-01/546967.shtml	1	1	3
+UAR-000161_540	15541	02107ff1c856b9d3f9f41c437c0518cb	20170110	专家解读：2017，正风反腐七项任务怎么抓	http://original.hubpd.com/c/2017-01-09/553295.shtml	3	3	24
+UAR-000161_540	15548	f44db9975bfd82d6f064a5e26c71f66f	20170112	定了！中央厨房就这么建！	http://original.hubpd.com/c/2017-01-11/553465.shtml	5	5	62.4
+UAR-000161_540	15564	505aee342fe205abde37dddec84cf611	20170113	美驻华大使博卡斯为人民日报中央厨房独家撰文：开启美中关系的新篇章	http://original.hubpd.com/c/2017-01-12/553585.shtml	6	3	132.33
+UAR-000161_540	15548	2cb9b663448b85c8654a85b909a3038e	20170113	这些年习总书记走过的扶贫路	http://original.hubpd.com/c/2017-01-03/552749.shtml?from=timeline&isappinstalled=0	3	3	3
+UAR-000161_540	15550	992ac321526dbbadbea7bab7fafd42e3	20170113	文艺舆情——天后的面子，鬼吹灯的旗子	http://original.hubpd.com/c/2017-01-06/553140.shtml	1	1	3
+UAR-000161_540	15545	3b0b018a4959033eac40d57127660a42	20170113	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553710.shtml?from=groupmessage&isappinstalled=0	435	357	30.47
+UAR-000161_540	15548	cbe58a310d3215693515baab016a44c9	20170112	大数据观察：互联网寻亲，让团圆的脚步更近	http://original.hubpd.com/c/2017-01-04/552783.shtml	3	3	3
+UAR-000161_540	15548	bb22680f5babcabfa1bf090c4f9af704	20170111	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	2	1	19.5
+UAR-000161_540	15548	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170113	麻辣财经：电信服务，“强买强卖”何时了？	http://original.hubpd.com/c/2017-01-10/553306.shtml	2	2	26.5
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170115	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	2	2	3
+UAR-000161_540	15548	d6130f66c372260b225538a754ddd9eb	20170111	老人倒地昏迷，她为啥敢毫不犹豫冲上去？	http://original.hubpd.com/c/2017-01-10/553423.shtml	6	6	163
+UAR-000161_540	15541	02107ff1c856b9d3f9f41c437c0518cb	20170111	专家解读：2017，正风反腐七项任务怎么抓	http://original.hubpd.com/c/2017-01-09/553295.shtml	1	1	42
+UAR-000161_540	default	c811dbf603aaeb37249fbdff37d48a82	20170113	这些波兰人，他们的才华属于世界	http://cmpc.hubpd.com/zcms/content/preview?ID=553578&platformID=pc	16	2	158.62
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20170113	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	2	1	3.5
+UAR-000161_540	15548	22b53f5c2ccbb10486a4dc695dbae130	20170113	侠客岛：教材改为“十四年抗战”的原因，远没有那么简单	http://original.hubpd.com/c/2017-01-12/553511.shtml	5	5	67.2
+UAR-000161_540	15541	d49681d6710677c0841f8e2d529d0198	20170116	习主席为瑞士童声合唱点赞	http://original.hubpd.com/c/2017-01-16/554009.shtml?winzoom=1	40	25	135.18
+UAR-000161_540	15564	242cf07e4f1082381a99e17cecb92c9e	20170117	揭秘美国经济“衣橱中的秘密”系列四：美国贫富差距扩大的制度根源	http://original.hubpd.com/c/2017-01-15/553931.shtml?from=timeline	5	4	121.8
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20170116	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	1	1	8
+UAR-000161_540	15548	b42f5e2ca1f5b8eff1ca45827a09324d	20170116	总书记很牵挂，困难群众对三个问题咋回答?	http://original.hubpd.com/c/2017-01-03/552744.shtml?winzoom=1&from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	default	1479f1bf10c06ebeb46559baf372c9e8	20170116	发展智能制造 十位大咖有话说	http://original.hubpd.com/c/2016-12-07/549842.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	default	b765e3df03c9dd9049eff0cd807b2018	20170116	一份来自中央的“媒体融合行动指南”	http://original.hubpd.com/c/2017-01-13/553665.shtml	3	3	153.33
+UAR-000161_540	15564	88fb6682b19ed189c821bfb27086517e	20170117	揭秘美国经济“衣橱中的秘密”系列一：新自由主义让富者愈富、穷者愈穷	http://original.hubpd.com/c/2017-01-15/553928.shtml?from=groupmessage	2	2	14.5
+UAR-000161_540	15548	c27b6b3d92cf9e0c2788ef4ece6aa832	20170117	谁是“三农”创业榜样 谁能引领创业风潮	http://original.hubpd.com/c/2017-01-13/553869.shtml?from=timeline&isappinstalled=0	113	93	54.67
+UAR-000161_540	15541	cf1fe6da6087ef987deac81fb8a79d71	20170118	习近平同瑞士联邦主席洛伊特哈德共同启动中瑞旅游年	http://original.hubpd.com/c/2017-01-17/554334.shtml	18	13	91.44
+UAR-000161_540	15548	c27b6b3d92cf9e0c2788ef4ece6aa832	20170118	谁是“三农”创业榜样 谁能引领创业风潮	http://original.hubpd.com/c/2017-01-13/553869.shtml?from=timeline&isappinstalled=0	4	4	3
+UAR-000161_540	15541	e04153302ad9e72ecc7ae23369731394	20170118	侠客岛：达沃斯的习氏药方	http://original.hubpd.com/c/2017-01-18/554443.shtml	19	17	132.42
+UAR-000161_540	15548	e04153302ad9e72ecc7ae23369731394	20170118	侠客岛：达沃斯的习氏药方	http://cmpc.hubpd.com/zcms/content/preview?ID=554425&ContentType=Article&platformID=pc	1	1	300
+UAR-000161_540	default	d0e5d74917723ff63f4809d76ddc1e22	20161212	“社会集资那些事”告诉你投资有风险，掏钱须谨慎	http://original.hubpd.com/c/2016-11-06/546859.shtml	1	1	3
+UAR-000161_540	default	a69a5f78f5ee6af54f7e4479cb0db3fe	20161217	2016我的供给侧改革	http://original.hubpd.com/c/2016-12-15/550635.shtml	2	2	3
+UAR-000161_540	default	71df908000e3a7642ecc4fc28400eb0e	20161216	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	13	13	5.62
+UAR-000161_540	default	ab7a020be1790f8ad0f6702cfe9e4645	20161212	麻辣财经：“黑天鹅”轮番飞来，买黄金避险行不行？	http://original.hubpd.com/c/2016-12-06/549310.shtml?from=timeline&isappinstalled=0	2	1	16.5
+UAR-000161_540	default	a29e9eaa65002c4aa9bf084ca5f0c131	20161211	中国最早民族保险公司获批复牌，招商局实现金融全牌照	http://original.hubpd.com/c/2016-12-07/549737.shtml	1	1	3
+UAR-000161_540	default	f8560ddde2bc13c8f06c4bf0324a79f6	20161207	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	2	2	10
+UAR-000161_540	default	5266cd8dff903c6bc92a9d5aeb526d2e	20161209	特朗普的新工作：白宫滋味啥样呢？	http://original.hubpd.com/c/2016-12-08/549932.shtml	3	3	25.67
+UAR-000161_540	default	2c0fba5506cdcf432458e58af7a87e4b	20161218	文艺九局：这部爆火的动画电影，要给青春片们上一课	http://original.hubpd.com/c/2016-12-05/549265.shtml	1	1	30
+UAR-000161_540	15545	539cef5971e12f34f1ebfd7e146c17ec	20161221	不让激进投资挑战“保险姓保”底线	http://original.hubpd.com/c/2016-12-14/550558.shtml	1	1	3
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161221	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	10	10	34.5
+UAR-000161_540	15541	f472e72096ce8dd4204511b2e22569d2	20161222	政府工作报告词频分析	http://original.hubpd.com/c/2016-05-06/546223.shtml	1	1	90
+UAR-000161_540	15548	419518d40d84cc2907877ecc489ea472	20161222	我国第四代核能技术60万千瓦高温气冷堆核电站技术方案发布	http://original.hubpd.com/c/2016-12-21/551833.shtml	4	4	23.75
+UAR-000161_540	default	028283bbf2e7bf5bec000a4db6b93664	20161222	走进不一样的制造盛会 世界智能制造大会 “让制造更聪明”	http://original.hubpd.com/c/2016-12-05/549242.shtml	1	1	64
+UAR-000161_540	15548	cc9fa60d578de902be68a425281d1523	20161223	解局：江苏为什么有资格办世界智能制造大会？	http://original.hubpd.com/c/2016-12-08/549874.shtml	1	1	3
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161224	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	1	1	3
+UAR-000161_540	15541	ee761598740766b2e917a253654348b1	20161224	人民日报首提“新方位”:中国经济怎么看、怎么想、怎么干	http://original.hubpd.com/c/2016-12-14/550547.shtml	1	1	3
+UAR-000161_540	default	1479f1bf10c06ebeb46559baf372c9e8	20161224	发展智能制造 十位大咖有话说	http://original.hubpd.com/c/2016-12-07/549842.shtml	1	1	52
+UAR-000161_540	15564	b4c31d4d80db18689a08db21843d6559	20161227	特朗普与蔡英文通话是谁操盘的？	http://original.hubpd.com/c/2016-12-07/549706.shtml	1	1	65
+UAR-000161_540	15564	b0d3fee4f9e473619103b9a90589bcd1	20161227	中国策 | 弥合特朗普带来的亚洲焦虑	http://original.hubpd.com/c/2016-11-24/546899.shtml	1	1	11
+UAR-000161_540	15541	321cddb4949e0cc79a28e22f5a7aa2aa	20161227	航天长征人，为你读长征任仲平 | 铸就我们民族的精神航道	http://original.hubpd.com/c/2016-10-18/546691.shtml	1	1	300
+UAR-000161_540	default	028283bbf2e7bf5bec000a4db6b93664	20161227	走进不一样的制造盛会 世界智能制造大会 “让制造更聪明”	http://original.hubpd.com/c/2016-12-05/549242.shtml	1	1	209
+UAR-000161_540	default	ab7a020be1790f8ad0f6702cfe9e4645	20161215	麻辣财经：“黑天鹅”轮番飞来，买黄金避险行不行？	http://original.hubpd.com/c/2016-12-06/549310.shtml?from=timeline&isappinstalled=0	2	1	5
+UAR-000161_540	default	4de5cb344cd35494e5501e2c3554da6d	20161219	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	3	1	130.67
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20161220	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	1	1	3
+UAR-000161_540	default	49fa0b143394ea36b3538adc030f686e	20161212	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	3
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20161231	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	1	1	82
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20170103	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	2	2	164.5
+UAR-000161_540	15545	5832e8b6bcbf3d42049e5621859f4efd	20170103	麻辣财经：保险资金，不能跟“野蛮人”划等号	http://original.hubpd.com/c/2016-12-05/549247.shtml?from=timeline&isappinstalled=0	1	1	49
+UAR-000161_540	15541	9b80bf114327dfe63b50faf94e99af1a	20170105	彭丽媛同亚太经合组织经济体领导人 配偶共同参观拉尔科博物馆	http://original.hubpd.com/c/2016-11-20/546738.shtml	1	1	47
+UAR-000161_540	15548	cbe58a310d3215693515baab016a44c9	20170104	大数据观察：互联网寻亲，让团圆的脚步更近	http://original.hubpd.com/c/2017-01-04/552783.shtml	29	17	89.76
+UAR-000161_540	15550	146a7a726f600616ef6361b0716c0ae2	20170104	文艺九局：欧巴没有国界，但迷妹却有自己的祖国	http://original.hubpd.com/c/2016-11-22/546929.shtml	8	3	14
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170104	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	4	4	3
+UAR-000161_540	default	8584b80e49d6745350ca28f46dc31ba5	20170105	新闻图解：八项规定四周年“三公”经费缩减近三成	http://original.hubpd.com/c/2016-11-30/546142.shtml	1	1	12
+UAR-000161_540	15549	b244ed97c92ea6795c8754e346a6e6b4	20170105	“小智治事，大智治制”（钱塘观潮）	http://original.hubpd.com/c/2016-09-04/546914.shtml	2	2	207.5
+UAR-000161_540	default	14b8677747854acd1b921321b3c51631	20170105	一图读懂十八大以来治党制度	http://original.hubpd.com/c/2016-11-01/546989.shtml	1	1	14
+UAR-000161_540	15548	3441b390e7563cdd54d4b6d2950d8ab4	20170109	苹果为何放弃造车	http://original.hubpd.com/c/2016-11-21/546848.shtml	1	1	9
+UAR-000161_540	15548	24342b152f92359c3fa70fdad7180efb	20170109	人民日报首次披露中央环保督察细节，有人环保重压下“瘦了一圈”	http://original.hubpd.com/c/2016-11-26/546861.shtml	1	1	8
+UAR-000161_540	15548	0fce6e274062881a0fde3f4f341243be	20170106	你们想去的英美，并未治好雾霾	http://original.hubpd.com/c/2017-01-06/553053.shtml	890	639	41.07
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170108	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	58	47	10.55
+UAR-000161_540	15548	a56cff55999f7a9d43d9f4d7c08396aa	20170109	“弄潮儿”江苏哪儿来的“金刚钻”？	http://original.hubpd.com/c/2016-12-05/549138.shtml	1	1	3
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170106	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	3	2	102
+UAR-000161_540	15548	f10040b9387176aa8eb79502d2affcef	20170107	医改八年就算完？别急，还有更多健康红利	http://original.hubpd.com/c/2017-01-03/552775.shtml	1	1	3
+UAR-000161_540	15552	97898c421540a827aca69308cf5dff05	20170109	奥运会开幕式舞台上的中国阿姨，你看到了么？	http://original.hubpd.com/c/2016-08-08/546947.shtml	1	1	7
+UAR-000161_540	default	0c44209a7febe8bf7abb7fdfcae4b7da	20170109	一图读懂江苏党代会报告	http://original.hubpd.com/c/2016-11-18/546981.shtml	2	2	30.5
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20170107	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	2	1	25.5
+UAR-000161_540	15541	a3e456a5ed74a1b5af3d8090b80d8589	20170109	中纪委七次全会新闻发布会，你最关心啥	http://original.hubpd.com/c/2017-01-09/553291.shtml	22	16	63.68
+UAR-000161_540	15542	387edbf8d5c821240406e2de3e92c4cb	20170109	锐评土地“70年大限”解答宜早不宜迟	http://original.hubpd.com/c/2016-04-18/546886.shtml	2	1	7.5
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170109	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	6	4	149.83
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170102	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	1	1	3
+UAR-000161_540	15550	2c0fba5506cdcf432458e58af7a87e4b	20161230	文艺九局：这部爆火的动画电影，要给青春片们上一课	http://original.hubpd.com/c/2016-12-05/549265.shtml	1	1	3
+UAR-000161_540	15541	973fd1f6c235807effc1ae7594ab92cb	20161231	宁高宁：盼尽快全面签订TFA 贸易投资更开放	http://original.hubpd.com/c/2016-09-03/546583.shtml	1	1	3
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170103	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	3	3	10.33
+UAR-000161_540	15545	ea28f89dc4bb927ffe53770da9eb11b7	20170103	麻辣财经：营改增，一个“小目标”已实现	http://original.hubpd.com/c/2016-10-25/546026.shtml	4	3	65.25
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170110	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	2	2	3
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170112	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml	1	1	3
+UAR-000161_540	15548	82336282b4ce11ea8997f4f5495b98b5	20170112	5个数字看懂2016年气候变化	http://original.hubpd.com/c/2017-01-11/553455.shtml	2	2	163
+UAR-000161_540	15548	d6130f66c372260b225538a754ddd9eb	20170112	老人倒地昏迷，她为啥敢毫不犹豫冲上去？	http://original.hubpd.com/c/2017-01-10/553423.shtml	1	1	30
+UAR-000161_540	15548	d6130f66c372260b225538a754ddd9eb	20170113	老人倒地昏迷，她为啥敢毫不犹豫冲上去？	http://original.hubpd.com/c/2017-01-10/553423.shtml	2	2	33
+UAR-000161_540	15548	7881682f798bb10aba5bedd95604a59e	20170113	京华谢幕 报人永生	http://original.hubpd.com/c/2016-12-31/552432.shtml?from=timeline&isappinstalled=0	4	3	34.25
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170113	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	1	1	3
+UAR-000161_540	default	b765e3df03c9dd9049eff0cd807b2018	20170113	一份来自中央的“媒体融合行动指南”	http://original.hubpd.com/c/2017-01-13/553665.shtml	15	11	66.53
+UAR-000161_540	15541	02107ff1c856b9d3f9f41c437c0518cb	20170114	专家解读：2017，正风反腐七项任务怎么抓	http://original.hubpd.com/c/2017-01-09/553295.shtml	1	1	65
+UAR-000161_540	15541	a1be608f2ff2e7f5d23dd7aadccddfcb	20170115	终于等到您 先看您的书	http://original.hubpd.com/c/2017-01-14/553874.shtml	2	2	158.5
+UAR-000161_540	15549	60e9c2ca150186f6118fe3392b11c79d	20170114	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15548	6c7026ebceb6b96bbb0096ec7e62c60f	20170114	居民撵走养老院，咋办	http://original.hubpd.com/c/2017-01-12/553506.shtml	1	1	3
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170114	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml?from=singlemessage&isappinstalled=0	1	1	3
+UAR-000161_540	15564	88fb6682b19ed189c821bfb27086517e	20170116	揭秘美国经济“衣橱中的秘密”系列一：新自由主义让富者愈富、穷者愈穷	http://original.hubpd.com/c/2017-01-15/553928.shtml?from=timeline&isappinstalled=0	28	25	28.25
+UAR-000161_540	15548	349e852c6be5ddac989ebb68255aa2b9	20170116	独家：环保部部长透露治霾新年打算	http://original.hubpd.com/c/2017-01-14/553891.shtml	3	3	117
+UAR-000161_540	15548	791580a82e68a1f6aec050cee02f4a8e	20170116	刘永好：农村天地广阔，大有可为	http://original.hubpd.com/c/2017-01-11/553501.shtml?from=timeline&isappinstalled=0	4	4	3
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170117	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	2	2	151.5
+UAR-000161_540	15545	285cab7ae9e3185a2f235088271dd39f	20170118	麻辣财经：（独家）中信回应：为何收购麦当劳？	http://original.hubpd.com/c/2017-01-16/554199.shtml?from=timeline&isappinstalled=0	38	34	18.74
+UAR-000161_540	15564	8d76cfdeb85a9cc39568584a596f5380	20170118	在美如画的瑞士遇见中国文化	http://original.hubpd.com/c/2017-01-17/554226.shtml	1	1	108
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170117	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	1	1	3
+UAR-000161_540	15564	faedc8bb39165ae4f05356259fc0a4ea	20170117	瑞士的四张名片，你收到了吗？	http://original.hubpd.com/c/2017-01-15/553939.shtml	1	1	300
+UAR-000161_540	default	3b0b018a4959033eac40d57127660a42	20170117	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553715.shtml	3	1	130.67
+UAR-000161_540	15553	f743b2e77320e685836c04d2fc7a1589	20170117	企业社会责任指数 7成300强企业不及格	http://original.hubpd.com/c/2016-11-03/546968.shtml	2	1	133
+UAR-000161_540	15545	3ab1d9504e38881fd70f5c6296d34867	20170118	​世界经济不能从大海退回到湖泊	http://original.hubpd.com/c/2017-01-18/554575.shtml	19	16	118.47
+UAR-000161_540	15541	181de1cd6c3f4434297d41c388428d13	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲	http://original.hubpd.com/c/2017-01-17/554342.shtml?winzoom=1	51	36	79.61
+UAR-000161_540	default	def3173003793bc43212f2369da3dbbf	20161208	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	3	3	17.67
+UAR-000161_540	default	539cef5971e12f34f1ebfd7e146c17ec	20161214	不让激进投资挑战“保险姓保”底线	http://original.hubpd.com/c/2016-12-14/550558.shtml	4	2	78
+UAR-000161_540	default	e6eedacf20ca39fd53a99cdadba714f6	20161211	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	7	5	52.86
+UAR-000161_540	default	1479f1bf10c06ebeb46559baf372c9e8	20161207	发展智能制造 十位大咖有话说	http://original.hubpd.com/c/2016-12-07/549842.shtml	208	139	41.86
+UAR-000161_540	default	987896b2e59c724db00212f9eb74339f	20161207	麻辣财经：资本市场，怎样对付“野蛮人”?	http://original.hubpd.com/c/2016-12-04/549130.shtml?from=groupmessage&isappinstalled=0	3	3	102
+UAR-000161_540	default	61c1c59a142ac81a4cbe58d0ce2ef851	20161212	嘘！学习新常态的中场时间到了	http://original.hubpd.com/c/2016-12-10/550251.shtml	4	2	81.75
+UAR-000161_540	default	4de5cb344cd35494e5501e2c3554da6d	20161215	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	20	17	22.9
+UAR-000161_540	default	77c594f1edbd2b632eb061b00e60a049	20161209	文艺九局：爱豆，我知道你想要跨过山和大海	http://original.hubpd.com/c/2016-11-24/546930.shtml	1	1	300
+UAR-000161_540	default	f8560ddde2bc13c8f06c4bf0324a79f6	20161216	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	93
+UAR-000161_540	default	61c1c59a142ac81a4cbe58d0ce2ef851	20161217	嘘！学习新常态的中场时间到了	http://original.hubpd.com/c/2016-12-10/550251.shtml	1	1	3
+UAR-000161_540	default	d9df3231cc047b48465ef62e96168a15	20161219	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	2	2	9
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20161220	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	30	24	58.9
+UAR-000161_540	default	adbbb530bdccc3dc43531368de86e595	20161219	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	396	347	19.31
+UAR-000161_540	default	41af425a711d24be944cef1279f1992f	20161222	隔壁张大爷要跟你说点正经的	http://original.hubpd.com/c/2016-12-22/552030.shtml	4	3	97.75
+UAR-000161_540	15548	493c5a66186acb5181ed81d4b3f62c6f	20161221	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	46	31	83.8
+UAR-000161_540	15541	048fdf81d079c3d959d6b11969f8faf8	20161222	王晨：坚持党的领导是有效实施宪法根本要求	http://original.hubpd.com/c/2016-12-21/551962.shtml	13	9	67.85
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161221	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	782	652	33.31
+UAR-000161_540	15545	5e3bad4429d352cd25f347f81bb249e6	20161227	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	1	1	300
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20161227	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	1	1	43
+UAR-000161_540	15542	4e6c718c0ba2a657663247c9cebf0c36	20161223	一带一路合作示范区，到底长什么样？	http://original.hubpd.com/c/2016-04-07/546887.shtml	1	1	14
+UAR-000161_540	15550	e6eedacf20ca39fd53a99cdadba714f6	20161228	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	2	2	151.5
+UAR-000161_540	15545	7c701edecfa72e5e8c3dc4936e78dfa2	20170103	麻辣财经： 地方债，“窟窿”自己补 中央不救助	http://original.hubpd.com/c/2016-11-29/546041.shtml	1	1	28
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20170103	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	2	2	9.5
+UAR-000161_540	15541	ff09fbe0bdbee588f98f208800d9ebb2	20170103	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	1	1	5
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170102	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	1	1	3
+UAR-000161_540	15545	f18b33b897b722dfb9387862cda33c47	20170101	麻辣财经：华为拿下5G时代？此言尚早路还远着呢！	http://original.hubpd.com/c/2016-11-20/546044.shtml	1	1	65
+UAR-000161_540	15564	5266cd8dff903c6bc92a9d5aeb526d2e	20170102	特朗普的新工作：白宫滋味啥样呢？	http://original.hubpd.com/c/2016-12-08/549932.shtml	1	1	3
+UAR-000161_540	15545	0314aa48bfe22d89480422eb71899474	20170103	麻辣财经：收入翻番，你准备好了吗?	http://original.hubpd.com/c/2016-10-26/546028.shtml	1	1	40
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170103	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	3	3	93.67
+UAR-000161_540	15545	6877170f6f16fd734bdaefc2fb2fa712	20170103	厉害了我的车，没有最快只有更快！	http://original.hubpd.com/c/2016-11-22/546045.shtml	1	1	28
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20161230	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	116	98	26.58
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20161228	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	182	163	16.93
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20161228	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	1	1	16
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20161228	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	314	270	38.26
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20161229	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	21	21	3
+UAR-000161_540	default	0c44209a7febe8bf7abb7fdfcae4b7da	20161229	一图读懂江苏党代会报告	http://original.hubpd.com/c/2016-11-18/546981.shtml	1	1	3
+UAR-000161_540	15548	7a75289407141f1480c1011da29bcab1	20161228	当心，校园欺凌将受法律严惩	http://original.hubpd.com/c/2016-12-28/552318.shtml	74	51	59.7
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161229	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	1	1	3
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161231	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	2	2	3
+UAR-000161_540	15541	1c3a1e00faed5852fcef143658cdb777	20170105	以交流开启"理解之路"	http://original.hubpd.com/c/2016-11-24/546759.shtml	1	1	8
+UAR-000161_540	15545	49fa0b143394ea36b3538adc030f686e	20170105	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	3
+UAR-000161_540	15545	9b24ea7147d59efa152267d9812aa84a	20170105	麻辣财经：北京不让卖活鱼？超市的理由好奇葩	http://original.hubpd.com/c/2016-11-23/546047.shtml	1	1	213
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20170105	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	1	1	31
+UAR-000161_540	15545	d852e17ff25593406c25ebfbf4c981d5	20170105	麻辣财经：房产税遗产税要开征？别听风就是雨！	http://original.hubpd.com/c/2016-11-15/546040.shtml	1	1	3
+UAR-000161_540	15548	cbe58a310d3215693515baab016a44c9	20170105	大数据观察：互联网寻亲，让团圆的脚步更近	http://original.hubpd.com/c/2017-01-04/552783.shtml	1	1	25
+UAR-000161_540	15541	0ca29c8d3046e4399b81a7d9fe69f061	20170105	习近平出席中拉媒体领袖峰会开幕式	http://original.hubpd.com/c/2016-11-23/546757.shtml	1	1	300
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170108	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	2	2	3
+UAR-000161_540	15541	ee761598740766b2e917a253654348b1	20170109	人民日报首提“新方位”:中国经济怎么看、怎么想、怎么干	http://original.hubpd.com/c/2016-12-14/550547.shtml	1	1	17
+UAR-000161_540	15548	f10040b9387176aa8eb79502d2affcef	20170108	医改八年就算完？别急，还有更多健康红利	http://original.hubpd.com/c/2017-01-03/552775.shtml	1	1	3
+UAR-000161_540	15541	048fdf81d079c3d959d6b11969f8faf8	20170109	王晨：坚持党的领导是有效实施宪法根本要求	http://original.hubpd.com/c/2016-12-21/551962.shtml	1	1	13
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170109	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	3	3	12.33
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170109	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	3	2	92
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20170110	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	1	1	3
+UAR-000161_540	15541	a3e456a5ed74a1b5af3d8090b80d8589	20170110	中纪委七次全会新闻发布会，你最关心啥	http://original.hubpd.com/c/2017-01-09/553291.shtml	9	8	39.56
+UAR-000161_540	15550	c9e6e022a541d357276dcdf981d6239d	20170113	龚琳娜：我批评王菲，因为总要有人讲真话	http://original.hubpd.com/c/2017-01-06/553137.shtml	2	1	82
+UAR-000161_540	15548	479539de9f32c0aa2ba15561b51ece09	20170114	【最山水】保护区难保护，细数三宗罪	http://original.hubpd.com/c/2016-12-28/552308.shtml?from=timeline&isappinstalled=0	3	3	102
+UAR-000161_540	15548	fa3eb8d05231f7f1f211b6584dd1a31f	20170115	智能生活悄然上线 玩转未来生活新模式	http://original.hubpd.com/c/2016-10-19/546827.shtml	1	1	19
+UAR-000161_540	15541	8487885496b8849b3a0f61510a7827e2	20170115	习近平离京对瑞士联邦进行国事访问 出席世界经济论坛2017年年会并访问在瑞士的国际组织	http://original.hubpd.com/c/2017-01-15/553941.shtml	21	14	143.57
+UAR-000161_540	15564	31600f11e6249401c65d4a510304b217	20170116	侠客岛专访郑永年：这轮“逆全球化”是中国的好机会	http://original.hubpd.com/c/2017-01-15/553952.shtml?from=timeline&isappinstalled=0	11	11	3.55
+UAR-000161_540	15545	1b40de83e1e81795fae2c49d0aaf5079	20170113	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553598.shtml?from=timeline&isappinstalled=0	29	26	24.93
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170114	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	9
+UAR-000161_540	15550	2947e6091bd41f90532fb7ce5c5fdaa6	20170117	【对话周有光追记】“独立思考就是这个时代的光”	http://original.hubpd.com/c/2017-01-14/553907.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15548	c27b6b3d92cf9e0c2788ef4ece6aa832	20170113	谁是“三农”创业榜样 谁能引领创业风潮	http://original.hubpd.com/c/2017-01-13/553869.shtml	8	6	18.75
+UAR-000161_540	15548	eeb5d56c373f68def3194d4a5bbbc3e5	20170115	恒大创新“精准扶贫”模式 结对帮扶奔小康 企业团队变老乡	http://original.hubpd.com/c/2016-11-25/546852.shtml	1	1	37
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20170116	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	1	1	300
+UAR-000161_540	15548	22b53f5c2ccbb10486a4dc695dbae130	20170116	侠客岛：教材改为“十四年抗战”的原因，远没有那么简单	http://original.hubpd.com/c/2017-01-12/553511.shtml	1	1	3
+UAR-000161_540	15564	b4fee30c3c44c4009a3970e2b086dd55	20170113	侠客岛：今天，一群中国轰炸机去了日本海	http://original.hubpd.com/c/2017-01-10/553376.shtml	1	1	300
+UAR-000161_540	default	bcb2d84217b629b5bed04c4569064973	20170113	2亿老人、1亿空巢老人中国养老产业迎井喷	http://original.hubpd.com/c/2017-01-12/553617.shtml	5	5	63
+UAR-000161_540	15548	7881682f798bb10aba5bedd95604a59e	20170116	京华谢幕 报人永生	http://original.hubpd.com/c/2016-12-31/552432.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15550	2947e6091bd41f90532fb7ce5c5fdaa6	20170118	【对话周有光追记】“独立思考就是这个时代的光”	http://original.hubpd.com/c/2017-01-14/553907.shtml	4	3	21.25
+UAR-000161_540	15552	d717edced5d28a482ac7890b4254d5e2	20170113	改革开场哨！姚明任中国篮协换届会议筹备组组长	http://original.hubpd.com/c/2017-01-09/553275.shtml	1	1	7
+UAR-000161_540	15541	d3879be045531501e74818825fa7691c	20170115	司法部：社区服刑人员突破70万人，矫正期间重新犯罪率处于0.2%左右的较低水平	http://original.hubpd.com/c/2017-01-15/553965.shtml?from=timeline&isappinstalled=0	548	458	32.44
+UAR-000161_540	15553	6e8fa2410afef3078e30cc798b39942e	20170117	小微企业融资，“苦海”能否变“蓝海”？	http://original.hubpd.com/c/2016-07-27/546966.shtml	1	1	9
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170113	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml?from=timeline&isappinstalled=0	2	1	151.5
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20170114	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml?from=timeline&isappinstalled=0	3	1	7.33
+UAR-000161_540	15545	660b029da69e531e013911879c2eef04	20170115	BAT为什么没进世界500强	http://original.hubpd.com/c/2016-08-22/545994.shtml	1	1	3
+UAR-000161_540	15549	0344892de13037fc92202ce91a026b8e	20170115	神舟凯旋，这群老兵的眼睛湿润了	http://original.hubpd.com/c/2016-11-20/546917.shtml	1	1	3
+UAR-000161_540	15541	321efb37261a0eb17b3d4f7efeff8815	20170117	习近平会见比利时国王菲利普	http://original.hubpd.com/c/2017-01-17/554301.shtml	25	15	101.72
+UAR-000161_540	default	1b40de83e1e81795fae2c49d0aaf5079	20170118	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553739.shtml	2	2	3.5
+UAR-000161_540	default	44e4b94d151cbd8078a2f79c0a93e6f1	20170118	麻辣财经：家门口的“老中医”，未来将成标配	http://original.hubpd.com/c/2017-01-02/553733.shtml	1	1	3
+UAR-000161_540	15541	4264458dc2c6104e44dbe7879ab6f773	20170118	施瓦布引用了习主席常说的哪两个词？	http://original.hubpd.com/c/2017-01-18/554353.shtml	26	23	62.27
+UAR-000161_540	default	a697d7d0d6f90b8110ae49320820a15c	20170118	麻辣财经：2017财政政策，撸起袖子怎么干?	http://original.hubpd.com/c/2017-01-04/553734.shtml	1	1	5
+UAR-000161_540	default	d9df3231cc047b48465ef62e96168a15	20161208	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1464	1330	16.69
+UAR-000161_540	default	ff09fbe0bdbee588f98f208800d9ebb2	20161209	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	4	3	11
+UAR-000161_540	default	aea627f537dbff5da40ca844d63e4102	20161207	世界智能制造大会：看机器人如何革新传统行业	http://original.hubpd.com/c/2016-12-06/549387.shtml	4	3	113.75
+UAR-000161_540	default	99b3fa6f2fb4400e06d9e7d735a80869	20161216	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	3
+UAR-000161_540	default	286cd8bbe92862019f391362a2402a88	20161217	干部状态新观察：叫声“同志”不简单	http://original.hubpd.com/c/2016-12-13/550452.shtml	2	1	154
+UAR-000161_540	15541	dfb1c3148ced0b709d718799cd282195	20161219	彭丽媛参观若望二十三世秘中学校	http://original.hubpd.com/c/2016-11-22/546751.shtml	1	1	3
+UAR-000161_540	default	a56cff55999f7a9d43d9f4d7c08396aa	20161219	“弄潮儿”江苏哪儿来的“金刚钻”？	http://original.hubpd.com/c/2016-12-05/549138.shtml	2	1	18
+UAR-000161_540	15548	54864cb19fb3d67cb9c7281c8e6c6fc3	20161220	智能神器原来在这里，简直辣眼睛	http://original.hubpd.com/c/2016-12-06/549407.shtml	1	1	3
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20161221	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	3	3	9
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161221	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	2	2	9
+UAR-000161_540	15545	5e3bad4429d352cd25f347f81bb249e6	20161221	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	1	1	12
+UAR-000161_540	default	92e545232160d2ca12ed0b454454960e	20161221	一图带你看懂"赤道之国"---厄瓜多尔	http://original.hubpd.com/c/2016-11-17/546980.shtml	1	1	3
+UAR-000161_540	15564	b4c31d4d80db18689a08db21843d6559	20161219	特朗普与蔡英文通话是谁操盘的？	http://original.hubpd.com/c/2016-12-07/549706.shtml	1	1	3
+UAR-000161_540	default	4dfb995645f8ad61cfd0cec372523754	20161220	孤独而荣耀：一个人的奥运	http://original.hubpd.com/c/2016-08-13/547005.shtml	2	2	152.5
+UAR-000161_540	15550	e6eedacf20ca39fd53a99cdadba714f6	20161222	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	1	1	41
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20161222	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	3	3	3
+UAR-000161_540	15553	91e275010dea29f9059e3fd9b1af32af	20161222	数据直击英国“脱欧”	http://original.hubpd.com/c/2016-06-25/546957.shtml	1	1	15
+UAR-000161_540	15545	49fa0b143394ea36b3538adc030f686e	20161222	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	3
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20161227	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	44	42	14.64
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161229	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	2	1	151.5
+UAR-000161_540	15541	048fdf81d079c3d959d6b11969f8faf8	20161230	王晨：坚持党的领导是有效实施宪法根本要求	http://original.hubpd.com/c/2016-12-21/551962.shtml	7	1	152
+UAR-000161_540	15541	048fdf81d079c3d959d6b11969f8faf8	20161229	王晨：坚持党的领导是有效实施宪法根本要求	http://original.hubpd.com/c/2016-12-21/551962.shtml	1	1	3
+UAR-000161_540	15541	80c9afe674a0f52ef67043f9be62eed1	20161231	昨天，这名违反八项规定被通报批评的中管干部提前退休了	http://original.hubpd.com/c/2016-12-28/552299.shtml	4	4	67.75
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20161231	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	14	8	76.14
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20170103	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	1	1	3
+UAR-000161_540	15545	51c41e3cc286afd557b7ef00e7461f44	20170103	麻辣财经：南海消停，亚洲发展迎好时机	http://original.hubpd.com/c/2016-10-25/546027.shtml	1	1	191
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20161231	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	5	5	79.6
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20161231	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	103	77	45.85
+UAR-000161_540	15545	796f96e5badda561c2e7dd4b6b785173	20170103	多地“爆表”却应急乏力，元凶找到了！说说祸害了30多个城市的这场大雾霾	http://original.hubpd.com/c/2016-11-09/546037.shtml	1	1	3
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170101	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	3	3	3
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170105	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	22	21	11.64
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170105	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	3
+UAR-000161_540	15545	c3bb8e68e3da5c664f1d201a611fa016	20170104	麻辣财经：GDP，三个6.7%是巧合吗？	http://original.hubpd.com/c/2016-10-29/546030.shtml	2	1	284
+UAR-000161_540	15541	ef6ae15d437fdd637ff1beafc3dd0130	20170105	海淘党请注意：马云放“大招”了	http://original.hubpd.com/c/2016-09-03/546582.shtml	1	1	300
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20170105	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	38	32	19.63
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170106	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	2	2	3
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20170106	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	1	1	3
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170107	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	2	2	3
+UAR-000161_540	15548	b42f5e2ca1f5b8eff1ca45827a09324d	20170106	总书记很牵挂，困难群众对三个问题咋回答?	http://original.hubpd.com/c/2017-01-03/552744.shtml?winzoom=1&from=groupmessage&isappinstalled=0	2	2	3
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20170107	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	1	1	3
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20170108	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	3
+UAR-000161_540	15545	d852e17ff25593406c25ebfbf4c981d5	20170109	麻辣财经：房产税遗产税要开征？别听风就是雨！	http://original.hubpd.com/c/2016-11-15/546040.shtml	2	2	300
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170109	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	9	8	8.22
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20170109	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	1	1	3
+UAR-000161_540	15549	60e9c2ca150186f6118fe3392b11c79d	20170110	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml	49	41	52.69
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20170110	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	1	1	3
+UAR-000161_540	15541	0a9a34419a92eedf47a733eae6ad8ddd	20170110	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	1	1	300
+UAR-000161_540	15551	f6a490b0a624f76db3ebe7b1ef43bfc3	20170111	2016年贵阳大数据金融信用体系建设和风险控制系列活动在贵阳开幕	http://original.hubpd.com/c/2016-11-03/543757.shtml	1	1	3
+UAR-000161_540	15548	d108ce74a9735f4690cf75fea7631862	20170111	从8年到14年，用历史教育为孩子打好精神底色	http://original.hubpd.com/c/2017-01-11/553496.shtml	14	13	48.93
+UAR-000161_540	15541	a3e456a5ed74a1b5af3d8090b80d8589	20170111	中纪委七次全会新闻发布会，你最关心啥	http://original.hubpd.com/c/2017-01-09/553291.shtml	4	4	11.5
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170111	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	1	1	3
+UAR-000161_540	15548	82336282b4ce11ea8997f4f5495b98b5	20170111	5个数字看懂2016年气候变化	http://original.hubpd.com/c/2017-01-11/553455.shtml	28	22	95.39
+UAR-000161_540	15548	71adf45ad6ee8beff60fc113c6fc79d7	20170111	麻辣财经：屠呦呦人生传奇 86岁获国家最高科技奖	http://original.hubpd.com/c/2017-01-09/553222.shtml	14	11	28.14
+UAR-000161_540	15548	98b9377741ce705ff5965f40f50d0198	20170113	雾霾天补课被举报，反思的应该是谁	http://original.hubpd.com/c/2017-01-10/553414.shtml	2	1	21
+UAR-000161_540	15541	fdde1e407fb4fbea9bd000ef5753a51a	20170117	习近平出席瑞士联邦委员会全体委员集体举行的迎接仪式并致辞	http://original.hubpd.com/c/2017-01-16/554018.shtml?winzoom=1	1	1	3
+UAR-000161_540	15564	a57d7035a8e6c45f12ed867d190c8588	20170117	习近平主席署名文章在瑞士引起热烈反响	http://original.hubpd.com/c/2017-01-15/553958.shtml	1	1	4
+UAR-000161_540	15545	cdc98bd42f3c6b8bc4d30b07bf198019	20170117	麻辣财经：资源配置，大幅减少政府直接“插手”	http://original.hubpd.com/c/2017-01-15/553993.shtml?from=singlemessage&isappinstalled=0	6	6	46
+UAR-000161_540	15549	b244ed97c92ea6795c8754e346a6e6b4	20170114	“小智治事，大智治制”（钱塘观潮）	http://original.hubpd.com/c/2016-09-04/546914.shtml	1	1	300
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170117	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	2	1	30
+UAR-000161_540	default	73c55ae313729795de913462b341dd68	20170117	麻辣财经：新能源汽车，骗补漏洞堵得住吗?	http://original.hubpd.com/c/2017-01-11/553738.shtml	1	1	25
+UAR-000161_540	15541	fbbac06b091251231dd746b8611128b2	20170117	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时强调打造世界经济增长、合作、治理、发展新模式	http://original.hubpd.com/c/2017-01-17/554309.shtml	22	15	236.23
+UAR-000161_540	15548	54f6cc5e0254e5e77ce41f8dc43b2aa3	20170116	麻辣财经：电信服务，“强买强卖”何时了？	http://original.hubpd.com/c/2017-01-10/553306.shtml	1	1	3
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20170116	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	1	1	103
+UAR-000161_540	default	e04c23419667937322d356fa4db78e9d	20170116	热切源自热爱——习主席瑞士之行记者手记	http://original.hubpd.com/c/2017-01-16/554149.shtml	3	1	88
+UAR-000161_540	15548	6b973f0710bce63331cdc2441919b5ed	20170116	北大迎来了“国际范儿”的新书记	http://original.hubpd.com/c/2016-12-13/550524.shtml	3	3	102
+UAR-000161_540	15564	251b7d6f6e415be1df812243e8bcad69	20170117	“我永远是中国人民的好朋友”——访瑞中协会主席托马斯·瓦格纳	http://original.hubpd.com/c/2017-01-16/554049.shtml	1	1	12
+UAR-000161_540	15541	3e51de8f63ca53ea301a9ce96f166eec	20170117	习主席瑞士之行的5个“首次”	http://original.hubpd.com/c/2017-01-15/553970.shtml	1	1	3
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170113	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	cf1fe6da6087ef987deac81fb8a79d71	20170117	习近平同瑞士联邦主席洛伊特哈德共同启动中瑞旅游年	http://original.hubpd.com/c/2017-01-17/554334.shtml	13	10	100.62
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20170112	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	1	1	9
+UAR-000161_540	15541	d140a88c0a77aeee137e4749c4cdc954	20170113	世界经济论坛创始人撰文： 时代呼唤应势而为、勇于担当的领导者	http://original.hubpd.com/c/2017-01-13/553675.shtml	8	6	91
+UAR-000161_540	15548	6e6fe473a8741f7d7df9036796e77706	20170115	2016移动智能终端峰会在北京开幕	http://original.hubpd.com/c/2016-10-28/546834.shtml	1	1	22
+UAR-000161_540	15549	60e9c2ca150186f6118fe3392b11c79d	20170112	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml	3	3	11.67
+UAR-000161_540	default	3ad64ca0e69c70e4aa892b308562ae6c	20170117	侠客岛：打着飞的去重庆炒房？别闹了	http://cmpc.test.pdmi.cn/ggpt/c/2017-01-17/488275.shtml	1	1	300
+UAR-000161_540	15548	71adf45ad6ee8beff60fc113c6fc79d7	20170112	麻辣财经：屠呦呦人生传奇 86岁获国家最高科技奖	http://original.hubpd.com/c/2017-01-09/553222.shtml	5	4	3
+UAR-000161_540	15550	f27c802119a0971f683e5f610cb1d97b	20170115	有书无斋周有光	http://original.hubpd.com/c/2017-01-14/553918.shtml?from=groupmessage&isappinstalled=0	6	6	28.83
+UAR-000161_540	15545	796f96e5badda561c2e7dd4b6b785173	20170115	多地“爆表”却应急乏力，元凶找到了！说说祸害了30多个城市的这场大雾霾	http://original.hubpd.com/c/2016-11-09/546037.shtml	1	1	262
+UAR-000161_540	15541	85698df8ac1f56b5e0b730697f8b2683	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时强调中国发展是各国工商界的机遇	http://original.hubpd.com/c/2017-01-17/554314.shtml	3	3	33.67
+UAR-000161_540	15548	11463adabfcf8166557abea711f4d404	20170118	柳传志谈“三农”创业：苦干加巧干，打出“组合拳”	http://original.hubpd.com/c/2017-01-10/553402.shtml	1	1	3
+UAR-000161_540	15541	d3879be045531501e74818825fa7691c	20170118	司法部：社区服刑人员突破70万人，矫正期间重新犯罪率处于0.2%左右的较低水平	http://original.hubpd.com/c/2017-01-15/553965.shtml	3	3	14.33
+UAR-000161_540	15541	b0692bceb451a8b7a341c91623464d34	20170118	中国机遇推动世界 ——2016我国经济发展亮点述评	http://original.hubpd.com/c/2017-01-17/554344.shtml	12	7	217
+UAR-000161_540	15541	853a609097101c48370f748203a29828	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时强调 适应和引导好经济全球化 共享经济全球化好处	http://original.hubpd.com/c/2017-01-17/554305.shtml	5	5	72.4
+UAR-000161_540	default	c43c5ca7226daa59ed0f3c6b93496113	20170118	习主席瑞士行之记者手记：逐梦路上,自强不息	http://original.hubpd.com/c/2017-01-18/554553.shtml	6	2	56
+UAR-000161_540	default	5022c0e22487edfdd8c5a83a2dd42e65	20161216	警惕！舞弊魔爪已伸向高中学业水平考试	http://original.hubpd.com/c/2016-12-16/550673.shtml	16	9	125
+UAR-000161_540	default	5832e8b6bcbf3d42049e5621859f4efd	20161217	麻辣财经：保险资金，不能跟“野蛮人”划等号	http://original.hubpd.com/c/2016-12-05/549247.shtml?from=timeline&isappinstalled=0	1	1	295
+UAR-000161_540	default	028283bbf2e7bf5bec000a4db6b93664	20161212	走进不一样的制造盛会 世界智能制造大会 “让制造更聪明”	http://original.hubpd.com/c/2016-12-05/549242.shtml	3	2	2.67
+UAR-000161_540	default	539cef5971e12f34f1ebfd7e146c17ec	20161218	不让激进投资挑战“保险姓保”底线	http://original.hubpd.com/c/2016-12-14/550558.shtml	1	1	3
+UAR-000161_540	default	d9df3231cc047b48465ef62e96168a15	20161207	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	default	2c0fba5506cdcf432458e58af7a87e4b	20161212	文艺九局：这部爆火的动画电影，要给青春片们上一课	http://original.hubpd.com/c/2016-12-05/549265.shtml	6	4	163.5
+UAR-000161_540	default	ccb59758527ff6fe0de810eaefaac7ba	20161207	习近平前往古巴驻华使馆 吊唁古巴革命领袖菲德尔·卡斯特罗逝世	http://original.hubpd.com/c/2016-11-29/546763.shtml	1	1	3
+UAR-000161_540	default	b7aee81fc051980a96b83da4d22fd935	20161219	围绕中美关系，习特通话传递哪些信号？	http://original.hubpd.com/c/2016-11-14/546711.shtml	2	1	300
+UAR-000161_540	default	7a9dc15d450fa92f8ee14c3ae0c51fbc	20161220	我是你的银行账户，我变了	http://original.hubpd.com/c/2016-12-02/549114.shtml	3	2	19.33
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20161221	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	3
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20161221	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	7	7	61.71
+UAR-000161_540	15564	5266cd8dff903c6bc92a9d5aeb526d2e	20161222	特朗普的新工作：白宫滋味啥样呢？	http://original.hubpd.com/c/2016-12-08/549932.shtml	1	1	15
+UAR-000161_540	15541	c2819b8b820025eb8e2245f7a9b1929c	20161222	透过两会热词看习近平治国新境界	http://original.hubpd.com/c/2016-05-06/546221.shtml	3	1	3.67
+UAR-000161_540	default	4422099055b5979f2d8f2431dfe05e94	20161212	校园欺凌，不止是“开过分了的玩笑”	http://original.hubpd.com/c/2016-12-11/550274.shtml	19	17	53.26
+UAR-000161_540	default	3f3013d5aa5c3929ece19f90ddda6d0e	20161218	党报说|别担心，中俄关系还是妥妥的“压舱石”	http://original.hubpd.com/c/2016-12-16/550757.shtml	1	1	7
+UAR-000161_540	default	6c15188b026413c557937b2c638ef7a4	20161210	韩国“亲信门”更新，财团大佬如何在国会撇清关系？	http://original.hubpd.com/c/2016-12-07/549416.shtml?from=timeline&isappinstalled=0	3	2	23
+UAR-000161_540	default	4de5cb344cd35494e5501e2c3554da6d	20161216	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	5	2	123
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20161223	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	8	4	64.12
+UAR-000161_540	15548	f1bcfa6b53accdcb815181212a4991cd	20161222	资源用的少，效率却最大，江苏是怎样挺进智造时代的？	http://original.hubpd.com/c/2016-12-11/550272.shtml	1	1	3
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170109	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	3	3	162.33
+UAR-000161_540	15541	0a9a34419a92eedf47a733eae6ad8ddd	20170109	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	3	3	55.33
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170110	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml	3	3	110.67
+UAR-000161_540	15541	a3e456a5ed74a1b5af3d8090b80d8589	20170112	中纪委七次全会新闻发布会，你最关心啥	http://original.hubpd.com/c/2017-01-09/553291.shtml	4	4	8.5
+UAR-000161_540	15549	60e9c2ca150186f6118fe3392b11c79d	20170113	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml	2	2	156
+UAR-000161_540	15541	3440d594155403d5d4a18bb0f76da063	20170113	“欢迎搭乘中国发展‘顺风车’”	http://original.hubpd.com/c/2017-01-11/553486.shtml	2	2	3
+UAR-000161_540	15545	55720960d45bc87bed9dfc2c1fbd1665	20170106	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	2	2	3
+UAR-000161_540	default	b91578c3cf8e5c5c83f9f10de9ac33cd	20170107	G20 习近平用典特别篇	http://original.hubpd.com/c/2016-09-05/546988.shtml	1	1	247
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20170107	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170107	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml	57	41	54.16
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170107	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	2	2	3
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170108	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml	536	413	34.81
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170105	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	1	1	41
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170105	（最山水）象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml	252	197	55.86
+UAR-000161_540	15548	cafb1007c92d457926e56eae25e6ee78	20170105	2017高校毕业生795万，为“复杂严峻形势”建“就业稳压器”	http://original.hubpd.com/c/2016-12-01/546856.shtml	1	1	300
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170105	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	525	455	24.17
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170106	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	82
+UAR-000161_540	default	7f1402d85db0fac0dcd8493b87121b95	20170111	雾霾七问 愿呼吸不再奢侈	http://original.hubpd.com/c/2017-01-07/553160.shtml	2	2	175
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170111	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	3	1	115
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170109	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	26	24	14.46
+UAR-000161_540	15564	e34d1e3a1dd96babf798776d45ffcead	20170109	特朗普嫌F-35太贵，美国军火商能让他省钱吗？	http://original.hubpd.com/c/2016-12-26/552130.shtml	1	1	4
+UAR-000161_540	15548	fdc124a36f7f66e29e362f9ca1975138	20170114	侠客岛：辽宁舰穿越台湾海峡，背后有几重警告	http://original.hubpd.com/c/2017-01-12/553512.shtml	1	1	210
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170114	人民日报社2017年新年献词：不忘初心 逐梦前行	http://original.hubpd.com/c/2016-12-30/552435.shtml?from=timeline	2	1	151
+UAR-000161_540	15545	3b0b018a4959033eac40d57127660a42	20170114	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553710.shtml?from=timeline&isappinstalled=0	38	35	34.42
+UAR-000161_540	15541	3f58ca51ddd7bb472716e38e9e423007	20170114	习近平在瑞士媒体发表署名文章	http://original.hubpd.com/c/2017-01-13/553694.shtml	1	1	5
+UAR-000161_540	15548	c27b6b3d92cf9e0c2788ef4ece6aa832	20170115	谁是“三农”创业榜样 谁能引领创业风潮	http://original.hubpd.com/c/2017-01-13/553869.shtml	1	1	45
+UAR-000161_540	15564	360cfb20fd84519ba98225947475cbef	20170114	习近平要去的达沃斯，你了解吗?	http://original.hubpd.com/c/2017-01-13/553685.shtml?from=timeline&isappinstalled=0	8	8	49.12
+UAR-000161_540	15548	98b9377741ce705ff5965f40f50d0198	20170114	雾霾天补课被举报，反思的应该是谁	http://original.hubpd.com/c/2017-01-10/553414.shtml	2	2	3
+UAR-000161_540	15550	c9e6e022a541d357276dcdf981d6239d	20170115	龚琳娜：我批评王菲，因为总要有人讲真话	http://original.hubpd.com/c/2017-01-06/553137.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15564	faedc8bb39165ae4f05356259fc0a4ea	20170115	瑞士的四张名片，你收到了吗？	http://cmpc.hubpd.com/zcms/content/preview?ID=553939&ContentType=Article&platformID=pc	18	16	88.06
+UAR-000161_540	15564	4968821ad1f25b5f6eaaddb0cbfac033	20170115	揭秘美国经济“衣橱中的秘密”系列三：特朗普能履行竞选承诺吗？	http://original.hubpd.com/c/2017-01-15/553930.shtml	52	41	47.88
+UAR-000161_540	15548	791580a82e68a1f6aec050cee02f4a8e	20170115	刘永好：农村天地广阔，大有可为	http://original.hubpd.com/c/2017-01-11/553501.shtml	9	8	26.44
+UAR-000161_540	15545	1b40de83e1e81795fae2c49d0aaf5079	20170116	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553598.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	2e8c4ecafc9cd3a0a4628a03cad2ec1f	20170116	习近平同瑞士联邦主席洛伊特哈德茶叙	http://original.hubpd.com/c/2017-01-16/554014.shtml	35	23	144.06
+UAR-000161_540	default	d42ceb8a4baeae02a6ca4b6e74d74a32	20170116	热切源自热爱——习主席瑞士行之记者手记	http://original.hubpd.com/c/2017-01-16/554149.shtml	42	31	101.05
+UAR-000161_540	15541	8487885496b8849b3a0f61510a7827e2	20170116	习近平离京对瑞士联邦进行国事访问 出席世界经济论坛2017年年会并访问在瑞士的国际组织	http://original.hubpd.com/c/2017-01-15/553941.shtml	4	4	159.25
+UAR-000161_540	15564	242cf07e4f1082381a99e17cecb92c9e	20170116	揭秘美国经济“衣橱中的秘密”系列四：美国贫富差距扩大的制度根源	http://original.hubpd.com/c/2017-01-15/553931.shtml?from=timeline&isappinstalled=0	18	18	54.78
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20161229	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	1	1	3
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20161228	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	3	3	3
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161230	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	4	4	13.5
+UAR-000161_540	15548	7a75289407141f1480c1011da29bcab1	20161231	当心，校园欺凌将受法律严惩	http://original.hubpd.com/c/2016-12-28/552318.shtml	4	3	27.5
+UAR-000161_540	15550	e6eedacf20ca39fd53a99cdadba714f6	20161230	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	1	1	34
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20161230	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	3	3	118.33
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20170103	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	2	2	19.5
+UAR-000161_540	15548	fd5b54b00e32bb07d8472bb52e59bc85	20170101	智能制造十三五规划今日发布 明确十大任务	http://original.hubpd.com/c/2016-12-07/549422.shtml	1	1	3
+UAR-000161_540	15545	9b24ea7147d59efa152267d9812aa84a	20170102	麻辣财经：北京不让卖活鱼？超市的理由好奇葩	http://original.hubpd.com/c/2016-11-23/546047.shtml	1	1	3
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20170102	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	2	2	144.5
+UAR-000161_540	15545	c0d848d7d5292bb3953cc6934346a49f	20170103	麻辣财经：无形财产，你的权利如何保护？	http://original.hubpd.com/c/2016-12-01/546185.shtml?from=groupmessage&isappinstalled=0	1	1	22
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170103	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	3	3	202.67
+UAR-000161_540	default	b2178b6aa307e6a495c77d72b544ef2d	20170104	一图读懂：这些年，习主席走过的拉美国家	http://original.hubpd.com/c/2016-11-10/546990.shtml	1	1	300
+UAR-000161_540	15549	1c686ee6e2fe899289c8d6413e69dab7	20170104	人民日报谈抵制肯德基：爱国不是“糊涂的爱”	http://original.hubpd.com/c/2016-07-20/546911.shtml	2	1	7.5
+UAR-000161_540	15541	0a9a34419a92eedf47a733eae6ad8ddd	20170104	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	71	51	36.52
+UAR-000161_540	15541	fbbac06b091251231dd746b8611128b2	20170118	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时强调打造世界经济增长、合作、治理、发展新模式	http://original.hubpd.com/c/2017-01-17/554309.shtml	5	4	7.2
+UAR-000161_540	15548	286014ebe5ee3b78be82cbebd81965bf	20170117	别拿证书挂靠啦，要严肃查处了！	http://original.hubpd.com/c/2017-01-16/554164.shtml	1	1	3
+UAR-000161_540	15548	6c7026ebceb6b96bbb0096ec7e62c60f	20170118	居民撵走养老院，咋办	http://original.hubpd.com/c/2017-01-12/553506.shtml	1	1	52
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170118	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	1	1	3
+UAR-000161_540	15545	7b9e529bd36c57cb30d9e390832006ff	20170118	麻辣财经：补贴退坡，电动汽车还有人买吗？	http://original.hubpd.com/c/2017-01-18/554357.shtml?from=groupmessage	283	239	43.87
+UAR-000161_540	15541	5453d5a9d776d8f662487c8c094133b2	20170118	为中国智慧和中国担当点赞	http://original.hubpd.com/c/2017-01-18/554441.shtml	15	9	181.67
+UAR-000161_540	15564	c8fc0a9819b9b21b82f6b375e2718ede	20170118	揭秘美国经济“衣橱中的秘密”系列二：社会不平等让“美国梦”坠落	http://original.hubpd.com/c/2017-01-15/553929.shtml	2	2	35.5
+UAR-000161_540	default	faf95a1e8219220e1e7f259bedc3abce	20170118	国新办新闻发布会：“升级版”去产能今年再扩围	http://original.hubpd.com/c/2017-01-11/553737.shtml	5	1	125.8
+UAR-000161_540	15548	791580a82e68a1f6aec050cee02f4a8e	20170118	刘永好：农村天地广阔，大有可为	http://original.hubpd.com/c/2017-01-11/553501.shtml	25	24	3.52
+UAR-000161_540	default	f8560ddde2bc13c8f06c4bf0324a79f6	20161208	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	3	2	20
+UAR-000161_540	default	b8a8a74d16b9e723ee0a93fc4da4e76c	20161218	中关村“抢滩”全球创新制高点	http://original.hubpd.com/c/2016-10-13/546823.shtml	4	3	88.75
+UAR-000161_540	default	471d14130878259c3f49e5039532d093	20161209	“团圆”系统打拐 最快30分钟找到孩子	http://original.hubpd.com/c/2016-12-08/549867.shtml	1	1	300
+UAR-000161_540	default	700e33efb56ac20d2704b04696d85887	20161218	【网络媒体“走转改”】四川小金县：风雨彩虹长征路 铿锵玫瑰助扶贫	http://original.hubpd.com/c/2016-09-14/546800.shtml	4	3	13.25
+UAR-000161_540	default	4422099055b5979f2d8f2431dfe05e94	20161217	校园欺凌，不止是“开过分了的玩笑”	http://original.hubpd.com/c/2016-12-11/550274.shtml	1	1	3
+UAR-000161_540	default	7a9dc15d450fa92f8ee14c3ae0c51fbc	20161209	我是你的银行账户，我变了	http://original.hubpd.com/c/2016-12-02/549114.shtml	2	2	66
+UAR-000161_540	default	cc9fa60d578de902be68a425281d1523	20161208	解局：江苏为什么有资格办世界智能制造大会？	http://original.hubpd.com/c/2016-12-08/549874.shtml	6	3	74.17
+UAR-000161_540	default	d7b3d7d00f362e16f7f58a3920f116a9	20161213	中关村二小事件：喧嚣过后无赢家	http://original.hubpd.com/c/2016-12-13/550481.shtml	30	16	105.73
+UAR-000161_540	default	b296f54ef4beeca6b03bf817b7eb19f8	20161212	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml	5	4	4
+UAR-000161_540	default	def3173003793bc43212f2369da3dbbf	20161207	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	11	9	37
+UAR-000161_540	default	2c0fba5506cdcf432458e58af7a87e4b	20161207	文艺九局：这部爆火的动画电影，要给青春片们上一课	http://original.hubpd.com/c/2016-12-05/549265.shtml	1	1	261
+UAR-000161_540	15550	7b674a1687274d6e28101f11e21f9c4f	20161219	国师亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-19/551249.shtml	2	1	34
+UAR-000161_540	default	f038251eba4a617b28f0fddb7d01b490	20161219	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	29	21	86.66
+UAR-000161_540	default	fa3eb8d05231f7f1f211b6584dd1a31f	20161219	智能生活悄然上线 玩转未来生活新模式	http://original.hubpd.com/c/2016-10-19/546827.shtml	1	1	138
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20161220	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	3
+UAR-000161_540	15548	b8c96eaa8433d2270346dce1ce631f71	20161223	知名企业“喊冤”的背后	http://original.hubpd.com/c/2016-12-23/552045.shtml	7	5	212.14
+UAR-000161_540	default	99b3fa6f2fb4400e06d9e7d735a80869	20161219	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	3
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161220	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	2	1	123.5
+UAR-000161_540	15564	6c15188b026413c557937b2c638ef7a4	20161221	韩国“亲信门”更新，财团大佬如何在国会撇清关系？	http://original.hubpd.com/c/2016-12-07/549416.shtml?from=timeline&isappinstalled=0	1	1	10
+UAR-000161_540	15551	def3173003793bc43212f2369da3dbbf	20161221	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	1	1	12
+UAR-000161_540	default	7a9dc15d450fa92f8ee14c3ae0c51fbc	20161222	我是你的银行账户，我变了	http://original.hubpd.com/c/2016-12-02/549114.shtml	1	1	3
+UAR-000161_540	default	471d14130878259c3f49e5039532d093	20161221	“团圆”系统打拐 最快30分钟找到孩子	http://original.hubpd.com/c/2016-12-08/549867.shtml	1	1	3
+UAR-000161_540	default	41af425a711d24be944cef1279f1992f	20161227	隔壁张大爷要跟你说点正经的	http://original.hubpd.com/c/2016-12-22/552030.shtml	1	1	3
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20161228	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	189	171	19.36
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161224	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	3	2	2.67
+UAR-000161_540	15548	b8c96eaa8433d2270346dce1ce631f71	20161228	知名企业“喊冤”的背后	http://original.hubpd.com/c/2016-12-23/552045.shtml	2	2	163
+UAR-000161_540	15541	61c1c59a142ac81a4cbe58d0ce2ef851	20161227	嘘！学习新常态的中场时间到了	http://original.hubpd.com/c/2016-12-10/550251.shtml	1	1	42
+UAR-000161_540	15549	51cd57ba22b765b06a7ab097d95cd609	20161230	清清爽爽的同志关系是基础	http://original.hubpd.com/c/2016-12-12/550330.shtml	2	1	283
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20170101	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	1	1	3
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20161230	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	360	280	41.41
+UAR-000161_540	15549	0344892de13037fc92202ce91a026b8e	20161231	神舟凯旋，这群老兵的眼睛湿润了	http://original.hubpd.com/c/2016-11-20/546917.shtml	1	1	3
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20161231	电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	3	2	16
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161231	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	2	2	3
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161229	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	46	43	5.93
+UAR-000161_540	15553	5533a60959331a5d2aaacee91ab24185	20161229	数据揭秘“双十一”：成交额再次冲顶，口碑仍待提升	http://original.hubpd.com/c/2016-11-12/546970.shtml	1	1	3
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20161229	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	645	405	54.13
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20161230	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	11	9	45.18
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20170108	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	1	1	300
+UAR-000161_540	15564	e3e52a8324d557b63c1958d01d23f089	20170106	外媒眼：美国“顺道诉讼”，维权还是滥权？	http://original.hubpd.com/c/2017-01-06/553126.shtml	20	17	93.8
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170106	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	5	4	62.4
+UAR-000161_540	default	7f1402d85db0fac0dcd8493b87121b95	20170107	雾霾七问 愿呼吸不再奢侈	http://original.hubpd.com/c/2017-01-07/553160.shtml	76	47	53.82
+UAR-000161_540	15548	f10040b9387176aa8eb79502d2affcef	20170103	医改八年就算完？别急，还有更多健康红利	http://original.hubpd.com/c/2017-01-03/552775.shtml	56	46	21.62
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20170104	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	1	1	3
+UAR-000161_540	15550	0a9a34419a92eedf47a733eae6ad8ddd	20170104	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	53	42	83.4
+UAR-000161_540	15545	8dd1f2963853d80ffc47d284ec0ae5c2	20170103	麻辣财经：12万元，收入水平高还是低？	http://original.hubpd.com/c/2016-10-25/546025.shtml	2	1	86
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20170104	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	2	2	3
+UAR-000161_540	15541	b5f40cffe9a6f971670d73ee97dff921	20170105	习近平会见韩国总统朴槿惠	http://original.hubpd.com/c/2016-09-05/546613.shtml	1	1	25
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20170103	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	1	1	25
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20170103	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	3	3	10
+UAR-000161_540	15541	9275038bd6ee1e4c71fd7a8ad0cd7ddb	20170109	习近平会见秘鲁国会主席萨尔加多	http://original.hubpd.com/c/2016-11-22/546747.shtml	1	1	12
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170109	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	17	16	20.47
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170110	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	3
+UAR-000161_540	15541	9275038bd6ee1e4c71fd7a8ad0cd7ddb	20170109	习近平会见秘鲁国会主席萨尔加多	http://original.hubpd.com/c/2016-11-22/546747.shtml	1	1	12
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170109	（最山水）象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml	3	2	109
+UAR-000161_540	15545	f575661aacaffcf04021eb7f3ba20509	20170109	秀“肌肉”！这么强壮咱就放心了	http://original.hubpd.com/c/2016-11-03/546034.shtml	1	1	3
+UAR-000161_540	15548	71adf45ad6ee8beff60fc113c6fc79d7	20170109	麻辣财经：屠呦呦人生传奇 86岁获国家最高科技奖	http://original.hubpd.com/c/2017-01-09/553222.shtml	1306	1082	25.53
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170110	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	17	11	58.06
+UAR-000161_540	default	964168e42a49796445ce761b1d696d7d	20170113	如何保障舌尖上的安全？	http://original.hubpd.com/c/2017-01-07/553169.shtml?from=timeline&isappinstalled=0	2	1	3
+UAR-000161_540	15564	033c0522939ceaf64a17ed47b1b8032d	20170113	达沃斯期待聆听中国声音	http://original.hubpd.com/c/2017-01-12/553591.shtml	6	4	151.5
+UAR-000161_540	15541	02107ff1c856b9d3f9f41c437c0518cb	20170113	专家解读：2017，正风反腐七项任务怎么抓	http://original.hubpd.com/c/2017-01-09/553295.shtml	1	1	3
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170115	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15564	88fb6682b19ed189c821bfb27086517e	20170115	揭秘美国经济“衣橱中的秘密”系列一：新自由主义让富者愈富、穷者愈穷	http://original.hubpd.com/c/2017-01-15/553928.shtml	82	58	57.05
+UAR-000161_540	15550	93a828c4c7e0a5eee8c57cf817a6b026	20170114	聆听思想的声音，触碰理论的脉搏︱14位“大家”寄语2017	http://original.hubpd.com/c/2017-01-13/553653.shtml	3	2	4.33
+UAR-000161_540	default	bcb2d84217b629b5bed04c4569064973	20170114	2亿老人、1亿空巢老人中国养老产业迎井喷	http://original.hubpd.com/c/2017-01-12/553617.shtml	3	3	102
+UAR-000161_540	15545	a69a5f78f5ee6af54f7e4479cb0db3fe	20170115	2016我的供给侧改革	http://original.hubpd.com/c/2016-12-15/550635.shtml	1	1	294
+UAR-000161_540	15564	505aee342fe205abde37dddec84cf611	20170112	美驻华大使博卡斯为人民日报中央厨房独家撰文：开启美中关系的新篇章	http://original.hubpd.com/c/2017-01-12/553585.shtml	18	12	174.83
+UAR-000161_540	15548	11463adabfcf8166557abea711f4d404	20170112	柳传志谈“三农”创业：苦干加巧干，打出“组合拳”	http://original.hubpd.com/c/2017-01-10/553402.shtml	2	2	12.5
+UAR-000161_540	15548	6c7026ebceb6b96bbb0096ec7e62c60f	20170112	居民撵走养老院，咋办	http://original.hubpd.com/c/2017-01-12/553506.shtml	22	19	149
+UAR-000161_540	15548	73694665d4d0dc0a45590f2e31b9d6f5	20170113	双手“走路”的80后女孩 站得没牛高，心却有牛劲	http://original.hubpd.com/c/2017-01-10/553311.shtml	1	1	300
+UAR-000161_540	15541	67fdb6a55dfdbb9a60b71dce491dd2f4	20170113	国际社会瞩目习近平主席2017年首次出访	http://original.hubpd.com/c/2017-01-11/553483.shtml	1	1	3
+UAR-000161_540	15550	f27c802119a0971f683e5f610cb1d97b	20170116	有书无斋周有光	http://original.hubpd.com/c/2017-01-14/553918.shtml	4	3	119.75
+UAR-000161_540	15564	a57d7035a8e6c45f12ed867d190c8588	20170116	习近平主席署名文章在瑞士引起热烈反响	http://original.hubpd.com/c/2017-01-15/553958.shtml	2	2	33.5
+UAR-000161_540	default	6b973f0710bce63331cdc2441919b5ed	20170118	北大迎来了“国际范儿”的新书记	http://cmpc.test.pdmi.cn/ggpt/c/2017-01-18/488605.shtml	7	3	176.29
+UAR-000161_540	15541	b51f55f05c172dea80d3a5ea57fa4e96	20170118	重磅！习近平首次亮相达沃斯，为世界经济开中国药方	http://original.hubpd.com/c/2017-01-18/554505.shtml	16	12	217.75
+UAR-000161_540	15545	cdc98bd42f3c6b8bc4d30b07bf198019	20170118	麻辣财经：资源配置，大幅减少政府直接“插手”	http://original.hubpd.com/c/2017-01-15/553993.shtml	4	4	60
+UAR-000161_540	15564	e46704c66abe93f85e1f84d62e01400a	20170117	让人类命运共同体理念照亮未来——写在习近平主席二〇一七年首次出访之际	http://original.hubpd.com/c/2017-01-15/553961.shtml	1	1	7
+UAR-000161_540	15564	505aee342fe205abde37dddec84cf611	20170118	美驻华大使博卡斯为人民日报中央厨房独家撰文：开启美中关系的新篇章	http://original.hubpd.com/c/2017-01-12/553585.shtml	2	2	3
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20170118	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml?from=groupmessage&isappinstalled=0	2	2	3
+UAR-000161_540	15550	93a828c4c7e0a5eee8c57cf817a6b026	20170118	聆听思想的声音，触碰理论的脉搏︱14位“大家”寄语2017	http://original.hubpd.com/c/2017-01-13/553653.shtml	1	1	141
+UAR-000161_540	15548	349e852c6be5ddac989ebb68255aa2b9	20170118	独家：环保部部长透露治霾新年打算	http://original.hubpd.com/c/2017-01-14/553891.shtml	1	1	263
+UAR-000161_540	15545	3b0b018a4959033eac40d57127660a42	20170118	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553710.shtml	9	6	13.89
+UAR-000161_540	15541	406b9e50b0f01cc27bf5b3e57bc44e16	20170118	“携手向世界发出充满正能量的信号”	http://original.hubpd.com/c/2017-01-18/554431.shtml	12	7	62.33
+UAR-000161_540	15564	242cf07e4f1082381a99e17cecb92c9e	20170118	揭秘美国经济“衣橱中的秘密”系列四：美国贫富差距扩大的制度根源	http://original.hubpd.com/c/2017-01-15/553931.shtml	2	2	3
+UAR-000161_540	default	49fa0b143394ea36b3538adc030f686e	20161208	麻辣财经：住房70年产权到期，会免费续吗？	http://original.hubpd.com/c/2016-11-29/544340.shtml	1	1	3
+UAR-000161_540	default	286cd8bbe92862019f391362a2402a88	20161216	干部状态新观察：叫声“同志”不简单	http://original.hubpd.com/c/2016-12-13/550452.shtml	1	1	3
+UAR-000161_540	default	dbb9789205921227a973f82da9fbf7fc	20161208	【独家专访】张瑞敏：海尔智能制造的方向是物联网	http://original.hubpd.com/c/2016-12-07/549857.shtml	10	4	113.4
+UAR-000161_540	default	e45a7a83c5ff1f806c84449f852304c6	20161207	“罗尔事件”：法律应是人性的低保	http://original.hubpd.com/c/2016-12-05/549268.shtml	1	1	300
+UAR-000161_540	default	55720960d45bc87bed9dfc2c1fbd1665	20161208	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	348	287	32.22
+UAR-000161_540	default	387edbf8d5c821240406e2de3e92c4cb	20161215	锐评土地“70年大限”解答宜早不宜迟	http://original.hubpd.com/c/2016-04-18/546886.shtml	1	1	14
+UAR-000161_540	default	5e3bad4429d352cd25f347f81bb249e6	20161218	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	4	3	77.25
+UAR-000161_540	default	987896b2e59c724db00212f9eb74339f	20161219	麻辣财经：资本市场，怎样对付“野蛮人”?	http://original.hubpd.com/c/2016-12-04/549130.shtml?from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	default	26c2a521d9027cca16187f36b8a4c12d	20161219	中小学教辅市场套路深	http://original.hubpd.com/c/2016-11-03/546842.shtml	1	1	300
+UAR-000161_540	default	286cd8bbe92862019f391362a2402a88	20161219	干部状态新观察：叫声“同志”不简单	http://original.hubpd.com/c/2016-12-13/550452.shtml	3	3	201
+UAR-000161_540	15548	be439ee83f3ccd4caba52b68dbb868c4	20161220	什么样的产业能脱贫 ——来自大别山片区河南潢川县的调查	http://original.hubpd.com/c/2016-12-18/550897.shtml	1	1	9
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20161220	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20161220	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	149	106	45.89
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161224	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	2	1	15
+UAR-000161_540	default	41af425a711d24be944cef1279f1992f	20161224	隔壁张大爷要跟你说点正经的	http://original.hubpd.com/c/2016-12-22/552030.shtml	1	1	69
+UAR-000161_540	default	bdc2500513e119efa67f8268caaf1186	20161224	产能去了吗？成本降了吗？五大任务一年，效果咋样？	http://original.hubpd.com/c/2016-12-14/550582.shtml	1	1	300
+UAR-000161_540	15564	e34d1e3a1dd96babf798776d45ffcead	20161228	特朗普嫌F-35太贵，美国军火商能让他省钱吗？	http://original.hubpd.com/c/2016-12-26/552130.shtml	12	8	86.08
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161228	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	5	5	18.4
+UAR-000161_540	15541	80c9afe674a0f52ef67043f9be62eed1	20170101	昨天，这名违反八项规定被通报批评的中管干部提前退休了	http://original.hubpd.com/c/2016-12-28/552299.shtml	1	1	3
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20161229	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	4	4	56.25
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20161230	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	320	285	13.93
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20161231	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	108	95	25.83
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170102	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	1	1	3
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20161221	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	1	1	3
+UAR-000161_540	15549	e45a7a83c5ff1f806c84449f852304c6	20161222	“罗尔事件”：法律应是人性的低保	http://original.hubpd.com/c/2016-12-05/549268.shtml	1	1	3
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161221	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	1	1	300
+UAR-000161_540	default	3fad11a6c05fd89580f7dd626d9e8511	20161222	图解：神舟“十一将” 数据围观11位中国航天员	http://original.hubpd.com/c/2016-10-16/546993.shtml	1	1	3
+UAR-000161_540	15549	51cd57ba22b765b06a7ab097d95cd609	20161221	清清爽爽的同志关系是基础	http://original.hubpd.com/c/2016-12-12/550330.shtml	1	1	300
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161221	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	454	388	19.68
+UAR-000161_540	15542	3888b95c27a0fae19cbec6ee4fe7c7d5	20161223	五大关键词，给2016两会画个像	http://original.hubpd.com/c/2016-03-15/546889.shtml	1	1	14
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170108	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	2	1	251
+UAR-000161_540	15541	c2975a8908b53fd0b2a51b7e17befa99	20170109	25岁的中纪委干部，拿什么和副部级干部交换大工程？	http://original.hubpd.com/c/2017-01-05/553014.shtml	8	3	142.5
+UAR-000161_540	15548	f188979cc10cc7a5b3a9dfa9775b44ad	20170109	一线探访：湄公河上的四天三夜 10月底，记者全程参与中老缅泰四国第五十一次湄公河联合巡逻执法，同执法人员一起工作生活	http://original.hubpd.com/c/2016-11-30/546855.shtml	1	1	14
+UAR-000161_540	15545	99b3fa6f2fb4400e06d9e7d735a80869	20170109	麻辣财经：辽宁财政收入转正，经济筑底企稳了？	http://original.hubpd.com/c/2016-12-13/550444.shtml	1	1	300
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170110	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	1	1	3
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20170104	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	1	1	3
+UAR-000161_540	default	dbc59ddacca8329c988dcfb9ba665160	20170105	图解：“百名红通人员”头号嫌犯杨秀珠 回国投案自首	http://original.hubpd.com/c/2016-11-16/546978.shtml	1	1	14
+UAR-000161_540	15548	b42f5e2ca1f5b8eff1ca45827a09324d	20170105	总书记很牵挂，困难群众对三个问题咋回答?	http://original.hubpd.com/c/2017-01-03/552744.shtml?winzoom=1&from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20170103	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	1	1	3
+UAR-000161_540	15549	0344892de13037fc92202ce91a026b8e	20170104	神舟凯旋，这群老兵的眼睛湿润了	http://original.hubpd.com/c/2016-11-20/546917.shtml	1	1	6
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170105	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	2	2	3
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170104	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	5	4	4
+UAR-000161_540	15548	f10040b9387176aa8eb79502d2affcef	20170104	医改八年就算完？别急，还有更多健康红利	http://original.hubpd.com/c/2017-01-03/552775.shtml	62	55	32.37
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170106	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	504	443	21.66
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170107	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	2	2	8
+UAR-000161_540	15553	5533a60959331a5d2aaacee91ab24185	20170111	数据揭秘“双十一”：成交额再次冲顶，口碑仍待提升	http://original.hubpd.com/c/2016-11-12/546970.shtml	1	1	300
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20170112	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	1	1	3
+UAR-000161_540	15541	02107ff1c856b9d3f9f41c437c0518cb	20170112	专家解读：2017，正风反腐七项任务怎么抓	http://original.hubpd.com/c/2017-01-09/553295.shtml	3	2	10.33
+UAR-000161_540	15548	d108ce74a9735f4690cf75fea7631862	20170113	从8年到14年，用历史教育为孩子打好精神底色	http://original.hubpd.com/c/2017-01-11/553496.shtml	1	1	46
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170113	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	3
+UAR-000161_540	15548	6c7026ebceb6b96bbb0096ec7e62c60f	20170113	居民撵走养老院，咋办	http://original.hubpd.com/c/2017-01-12/553506.shtml	4	2	48
+UAR-000161_540	15541	ff09fbe0bdbee588f98f208800d9ebb2	20170116	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml	1	1	3
+UAR-000161_540	15545	55720960d45bc87bed9dfc2c1fbd1665	20170116	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	1	1	84
+UAR-000161_540	15541	181de1cd6c3f4434297d41c388428d13	20170117	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲	http://original.hubpd.com/c/2017-01-17/554342.shtml	22	13	56.82
+UAR-000161_540	15564	d2106ce78218f250f56f9b169c6b2b1c	20170117	在“欧洲屋脊”聆听中国声音	http://original.hubpd.com/c/2017-01-15/553947.shtml	1	1	7
+UAR-000161_540	default	d42ceb8a4baeae02a6ca4b6e74d74a32	20170118	热切源自热爱——习主席瑞士行之记者手记	http://original.hubpd.com/c/2017-01-16/554149.shtml	9	5	85.33
+UAR-000161_540	15548	479539de9f32c0aa2ba15561b51ece09	20170115	【最山水】保护区难保护，细数三宗罪	http://original.hubpd.com/c/2016-12-28/552308.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	67fdb6a55dfdbb9a60b71dce491dd2f4	20170115	国际社会瞩目习近平主席2017年首次出访	http://original.hubpd.com/c/2017-01-11/553483.shtml	1	1	300
+UAR-000161_540	15541	a7afce6cbef4710297e500f97037bb46	20170118	习近平同瑞士联邦主席洛伊特哈德共同会见瑞士经济界代表	http://original.hubpd.com/c/2017-01-16/554188.shtml	2	2	6
+UAR-000161_540	15545	a697d7d0d6f90b8110ae49320820a15c	20170114	麻辣财经：2017财政政策，撸起袖子怎么干?	http://original.hubpd.com/c/2017-01-04/552846.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	6a0e3360338c3343a97397f7062ab044	20170116	报社社长、学校校长、医院院长谁来当？中组部等5部委有新规定了！	http://original.hubpd.com/c/2017-01-15/553985.shtml?from=timeline&isappinstalled=0	200	181	21.5
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20170116	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	1	1	13
+UAR-000161_540	15541	72708fa97ac48ee67c2e647234fd21e8	20170118	习近平会见国际奥委会主席巴赫	http://original.hubpd.com/c/2017-01-18/554549.shtml	27	24	95.63
+UAR-000161_540	15541	d49681d6710677c0841f8e2d529d0198	20170118	习主席为瑞士童声合唱点赞	http://original.hubpd.com/c/2017-01-16/554009.shtml	1	1	30
+UAR-000161_540	15548	6c7026ebceb6b96bbb0096ec7e62c60f	20170116	居民撵走养老院，咋办	http://original.hubpd.com/c/2017-01-12/553506.shtml	1	1	27
+UAR-000161_540	default	196168fc79e8f5cef8d364ac2b6c7ff9	20170116	习近平结束对厄瓜多尔共和国、秘鲁共和国、智利共和国国事访问并出席在秘鲁利马举行的亚太经合组织第二十四次领导人非正式会议回到北京	http://www.hubpd.com/c/2017-01-16/554059.shtml	1	1	22
+UAR-000161_540	15541	d19be4589a023601d2f5af7957a7c5a6	20170118	人民日报发表国纪平文章——用命运共同体哲学治愈“反全球化综合征”	http://original.hubpd.com/c/2017-01-18/554560.shtml	28	13	143.43
+UAR-000161_540	15545	1b40de83e1e81795fae2c49d0aaf5079	20170118	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553598.shtml	3	2	152
+UAR-000161_540	15564	4968821ad1f25b5f6eaaddb0cbfac033	20170118	揭秘美国经济“衣橱中的秘密”系列三：特朗普能履行竞选承诺吗？	http://original.hubpd.com/c/2017-01-15/553930.shtml	1	1	32
+UAR-000161_540	default	bb22680f5babcabfa1bf090c4f9af704	20161212	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	2	1	151.5
+UAR-000161_540	default	8f79b96d7b95c0378015f1c0ae075587	20161207	站立历史潮头 发出时代强音	http://original.hubpd.com/c/2016-11-24/546761.shtml	1	1	3
+UAR-000161_540	default	f18b33b897b722dfb9387862cda33c47	20161207	麻辣财经：华为拿下5G时代？此言尚早路还远着呢！	http://original.hubpd.com/c/2016-11-20/546044.shtml	2	2	3
+UAR-000161_540	default	54864cb19fb3d67cb9c7281c8e6c6fc3	20161209	智能神器原来在这里，简直辣眼睛	http://original.hubpd.com/c/2016-12-06/549407.shtml	5	4	34.2
+UAR-000161_540	default	028283bbf2e7bf5bec000a4db6b93664	20161207	走进不一样的制造盛会 世界智能制造大会 “让制造更聪明”	http://original.hubpd.com/c/2016-12-05/549242.shtml	4	4	77.25
+UAR-000161_540	default	3990136ed7d14d8077d2845e84fd2088	20161213	一图读懂 国家开发银行助力脱贫攻坚九大举措	http://original.hubpd.com/c/2016-04-12/545969.shtml	1	1	36
+UAR-000161_540	default	d2bbaf7001587f1d8f5cefef754f25a8	20161212	干部状态新观察：不只是叫声“同志”这么简单	http://original.hubpd.com/c/2016-12-12/550327.shtml	4	4	35
+UAR-000161_540	default	a29e9eaa65002c4aa9bf084ca5f0c131	20161207	中国最早民族保险公司获批复牌，招商局实现金融全牌照	http://original.hubpd.com/c/2016-12-07/549737.shtml	146	117	19.56
+UAR-000161_540	default	ff09fbe0bdbee588f98f208800d9ebb2	20161214	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	default	b296f54ef4beeca6b03bf817b7eb19f8	20161215	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml	4	3	56.25
+UAR-000161_540	default	edf45b87260cba82d77cd1b7d66fe6df	20161207	文艺九局：《神奇动物在哪里》续集三大猜想	http://original.hubpd.com/c/2016-11-29/546932.shtml	2	2	156.5
+UAR-000161_540	default	cafb1007c92d457926e56eae25e6ee78	20161209	2017高校毕业生795万，为“复杂严峻形势”建“就业稳压器”	http://original.hubpd.com/c/2016-12-01/546856.shtml	1	1	3
+UAR-000161_540	default	51cd57ba22b765b06a7ab097d95cd609	20161215	清清爽爽的同志关系是基础	http://original.hubpd.com/c/2016-12-12/550330.shtml	1	1	300
+UAR-000161_540	15548	d38c7b542a6e3e7cec7a4020ce0b9026	20161221	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	22	20	122.5
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161222	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	3	3	201
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161222	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	313	277	19.48
+UAR-000161_540	default	1479f1bf10c06ebeb46559baf372c9e8	20161222	发展智能制造 十位大咖有话说	http://original.hubpd.com/c/2016-12-07/549842.shtml	1	1	3
+UAR-000161_540	15541	877e1c3bcaece27f640f688f8566682e	20161224	二十国集团工商界活动（B20峰会）即将开幕（组图）	http://original.hubpd.com/c/2016-09-03/546586.shtml	1	1	3
+UAR-000161_540	15548	d7b3d7d00f362e16f7f58a3920f116a9	20161219	中关村二小事件：喧嚣过后无赢家	http://original.hubpd.com/c/2016-12-13/550481.shtml	1	1	2
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161220	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	402	319	37.09
+UAR-000161_540	default	dbc59ddacca8329c988dcfb9ba665160	20161219	图解：“百名红通人员”头号嫌犯杨秀珠 回国投案自首	http://original.hubpd.com/c/2016-11-16/546978.shtml	2	1	108.5
+UAR-000161_540	default	146a7a726f600616ef6361b0716c0ae2	20161219	文艺九局：欧巴没有国界，但迷妹却有自己的祖国	http://original.hubpd.com/c/2016-11-22/546929.shtml	2	1	171
+UAR-000161_540	15541	61c1c59a142ac81a4cbe58d0ce2ef851	20161219	嘘！学习新常态的中场时间到了	http://original.hubpd.com/c/2016-12-10/550251.shtml	1	1	300
+UAR-000161_540	default	ee761598740766b2e917a253654348b1	20161219	人民日报首提“新方位”:中国经济怎么看、怎么想、怎么干	http://original.hubpd.com/c/2016-12-14/550547.shtml	1	1	3
+UAR-000161_540	15564	f038251eba4a617b28f0fddb7d01b490	20161220	“高盛帮”为什么在华盛顿这么火？	http://original.hubpd.com/c/2016-12-19/550922.shtml	3	3	112
+UAR-000161_540	15548	bb22680f5babcabfa1bf090c4f9af704	20161220	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	1	1	3
+UAR-000161_540	15541	f88a9effefa978417a9cf0ae900effb6	20161221	习近平抵达利马出席亚太经合组织第二十四次领导人非正式会议	http://original.hubpd.com/c/2016-11-19/546726.shtml	1	1	3
+UAR-000161_540	15564	b296f54ef4beeca6b03bf817b7eb19f8	20161227	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml	2	1	18
+UAR-000161_540	15541	d9df3231cc047b48465ef62e96168a15	20161227	老王放狠话，纪检干部“有权不可任性”	http://original.hubpd.com/c/2016-12-07/549853.shtml	2	2	7
+UAR-000161_540	15564	e34d1e3a1dd96babf798776d45ffcead	20161227	特朗普嫌F-35太贵，美国军火商能让他省钱吗？	http://original.hubpd.com/c/2016-12-26/552130.shtml	8	4	208.12
+UAR-000161_540	15548	419518d40d84cc2907877ecc489ea472	20161227	我国第四代核能技术60万千瓦高温气冷堆核电站技术方案发布	http://original.hubpd.com/c/2016-12-21/551833.shtml	1	1	3
+UAR-000161_540	15545	55720960d45bc87bed9dfc2c1fbd1665	20161227	麻辣财经：营改增，金融业减税为啥最难？	http://original.hubpd.com/c/2016-12-08/549863.shtml	1	1	14
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20161228	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	4	3	11.5
+UAR-000161_540	15545	5d364f4b8eb08541853ca837ea352882	20161228	麻辣财经：偌大社区，能否容下老人的“一张床”？	http://original.hubpd.com/c/2016-12-26/552127.shtml	4	4	8
+UAR-000161_540	15541	84696255d4ebdf74265742aa3a0c58d3	20161231	一图读懂十八届六中全会“关键词”	http://original.hubpd.com/c/2016-10-27/546696.shtml	1	1	7
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161230	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	2	2	151.5
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20161230	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	7	3	58.29
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20170104	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	1	1	3
+UAR-000161_540	15548	56be5fca85bdd345d3c67fd2dba94aa5	20170104	施一公、潘建伟、陈十一、饶毅等大咖：为一件“大事”而来	http://original.hubpd.com/c/2016-12-12/550347.shtml	1	1	3
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170103	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	1385	1252	18.2
+UAR-000161_540	15545	ab7a020be1790f8ad0f6702cfe9e4645	20170103	麻辣财经：“黑天鹅”轮番飞来，买黄金避险行不行？	http://original.hubpd.com/c/2016-12-06/549310.shtml?from=timeline&isappinstalled=0	2	2	17.5
+UAR-000161_540	15541	84696255d4ebdf74265742aa3a0c58d3	20170113	一图读懂十八届六中全会“关键词”	http://original.hubpd.com/c/2016-10-27/546696.shtml	1	1	7
+UAR-000161_540	15545	ef81f8d642a6cd8e237907e2d20002ed	20170113	麻辣财经：（独家专访）万科总裁郁亮谈房地产	http://original.hubpd.com/c/2016-12-12/550288.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20170103	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	1	1	19
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20170105	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	1	1	18
+UAR-000161_540	15541	dfb1c3148ced0b709d718799cd282195	20170105	彭丽媛参观若望二十三世秘中学校	http://original.hubpd.com/c/2016-11-22/546751.shtml	1	1	3
+UAR-000161_540	15548	d6130f66c372260b225538a754ddd9eb	20170110	老人倒地昏迷，她为啥敢毫不犹豫冲上去？	http://original.hubpd.com/c/2017-01-10/553423.shtml	15	12	29.6
+UAR-000161_540	15548	3eda95df1f495450810145faf9a66fb7	20170111	麻辣财经：抢票软件收费，算不算加价“倒票”？	http://original.hubpd.com/c/2017-01-08/553192.shtml	4	4	77.25
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20170111	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	3	3	3
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170112	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	5	5	3
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170107	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	61	48	34.67
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170107	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml	964	785	31.98
+UAR-000161_540	15553	f743b2e77320e685836c04d2fc7a1589	20170109	企业社会责任指数 7成300强企业不及格	http://original.hubpd.com/c/2016-11-03/546968.shtml	1	1	9
+UAR-000161_540	15545	a29e9eaa65002c4aa9bf084ca5f0c131	20170109	中国最早民族保险公司获批复牌，招商局实现金融全牌照	http://original.hubpd.com/c/2016-12-07/549737.shtml	1	1	28
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170106	（最山水）象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml	14	11	33.07
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170106	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	3	3	3.33
+UAR-000161_540	15564	e3e52a8324d557b63c1958d01d23f089	20170107	外媒眼：美国“顺道诉讼”，维权还是滥权？	http://original.hubpd.com/c/2017-01-06/553126.shtml	1	1	3
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20170107	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	2	2	32.5
+UAR-000161_540	15548	f188979cc10cc7a5b3a9dfa9775b44ad	20170109	一线探访：湄公河上的四天三夜 10月底，记者全程参与中老缅泰四国第五十一次湄公河联合巡逻执法，同执法人员一起工作生活	http://original.hubpd.com/c/2016-11-30/546855.shtml	1	1	14
+UAR-000161_540	default	84a8f32d86364055f23304074dfcc15c	20170109	一图带你走进文明古国——秘鲁	http://original.hubpd.com/c/2016-11-19/546982.shtml	1	1	138
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20170106	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	1	1	3
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170107	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	2	1	5.5
+UAR-000161_540	15541	c2975a8908b53fd0b2a51b7e17befa99	20170108	25岁的中纪委干部，拿什么和副部级干部交换大工程？	http://original.hubpd.com/c/2017-01-05/553014.shtml	3	3	63.67
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170110	（最山水）象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml	3	1	173.67
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170111	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	1	1	3
+UAR-000161_540	15541	8f0ba01cd13eb187898dac8dc116a12e	20170110	“三农”创业怎么创？看报告，学榜样	http://original.hubpd.com/c/2017-01-04/552794.shtml	1	1	3
+UAR-000161_540	15541	024248f4cdeafe0ae72983d29fa43892	20170114	关于瑞中这对好伙伴，瑞士联邦主席都说了些啥？	http://original.hubpd.com/c/2017-01-14/553876.shtml	11	7	130.91
+UAR-000161_540	15548	f44db9975bfd82d6f064a5e26c71f66f	20170115	定了！中央厨房就这么建！	http://original.hubpd.com/c/2017-01-11/553465.shtml	1	1	3
+UAR-000161_540	15549	60e9c2ca150186f6118fe3392b11c79d	20170115	不让孩子迷失在网络丛林	http://original.hubpd.com/c/2017-01-10/553383.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	024248f4cdeafe0ae72983d29fa43892	20170115	关于瑞中这对好伙伴，瑞士联邦主席都说了些啥？	http://original.hubpd.com/c/2017-01-14/553876.shtml	2	2	154
+UAR-000161_540	15541	6a0e3360338c3343a97397f7062ab044	20170115	报社社长、学校校长、医院院长谁来当？中组部等5部委有新规定了！	http://original.hubpd.com/c/2017-01-15/553985.shtml	243	218	17.09
+UAR-000161_540	15548	545d01e915fc3744b342d8aabc8d5174	20170115	确定了，2017年是国家司法考试最后一年！	http://original.hubpd.com/c/2017-01-14/553887.shtml?from=timeline&isappinstalled=0	224	193	17.72
+UAR-000161_540	15541	3f58ca51ddd7bb472716e38e9e423007	20170113	习近平在瑞士媒体发表署名文章	http://cmpc.hubpd.com/zcms/content/preview?ID=553694&ContentType=Article&platformID=pc	22	14	94.23
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170113	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml?winzoom=1&from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	bb7af0ac8f7ddab625d61f07a9bcfde2	20170114	老朋友携手踏上新征程 ——访瑞士联邦委员会委员兼外长伯克哈尔特	http://original.hubpd.com/c/2017-01-13/553674.shtml	1	1	13
+UAR-000161_540	15545	cdc98bd42f3c6b8bc4d30b07bf198019	20170115	麻辣财经：资源配置，大幅减少政府直接“插手”	http://original.hubpd.com/c/2017-01-15/553993.shtml	1	1	300
+UAR-000161_540	15548	b8a8a74d16b9e723ee0a93fc4da4e76c	20170115	中关村“抢滩”全球创新制高点	http://original.hubpd.com/c/2016-10-13/546823.shtml	1	1	43
+UAR-000161_540	15548	73694665d4d0dc0a45590f2e31b9d6f5	20170116	双手“走路”的80后女孩 站得没牛高，心却有牛劲	http://original.hubpd.com/c/2017-01-10/553311.shtml	1	1	3
+UAR-000161_540	15550	93a828c4c7e0a5eee8c57cf817a6b026	20170116	聆听思想的声音，触碰理论的脉搏︱14位“大家”寄语2017	http://original.hubpd.com/c/2017-01-13/553653.shtml	1	1	85
+UAR-000161_540	15541	2078986192d35517a90f89b1937c4214	20170117	习近平会见美国副总统拜登	http://original.hubpd.com/c/2017-01-17/554340.shtml	7	7	224.14
+UAR-000161_540	default	6509856a8c4c0a204f2a3b022728c1ff	20170116	2017年这十大事件将影响你我	http://original.hubpd.com/c/2016-12-30/552428.shtml	1	1	3
+UAR-000161_540	15545	a697d7d0d6f90b8110ae49320820a15c	20170116	麻辣财经：2017财政政策，撸起袖子怎么干?	http://original.hubpd.com/c/2017-01-04/552846.shtml?from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	15545	819ed413bffeeff2e48e3c12a6dd1adc	20170116	中国光明照亮世界 ——2016我国经济发展亮点述评	http://original.hubpd.com/c/2017-01-16/554047.shtml	19	13	111.79
+UAR-000161_540	15548	8ee9d7fafd58fc9b16fd31915c3a542b	20170117	年末岁尾的乌龙事件：有人男送女鞋，有人冒名送钱……	http://original.hubpd.com/c/2017-01-16/554028.shtml?from=timeline&isappinstalled=0	5	4	44
+UAR-000161_540	default	61b24933866c72eb9f33e6974d96ceda	20170118	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553735.shtml	1	1	5
+UAR-000161_540	15548	e387fe518c47428b4b0e852d930346e3	20170118	网络捐助，别让爱心再受伤	http://original.hubpd.com/c/2017-01-17/554322.shtml?from=timeline&isappinstalled=0	10	7	93.2
+UAR-000161_540	15548	8ee9d7fafd58fc9b16fd31915c3a542b	20170118	年末岁尾的乌龙事件：有人男送女鞋，有人冒名送钱……	http://original.hubpd.com/c/2017-01-16/554028.shtml?from=singlemessage&isappinstalled=0	5	4	108.8
+UAR-000161_540	15548	2cb9b663448b85c8654a85b909a3038e	20170118	这些年习总书记走过的扶贫路	http://original.hubpd.com/c/2017-01-03/552749.shtml?from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	15564	31600f11e6249401c65d4a510304b217	20170118	侠客岛专访郑永年：这轮“逆全球化”是中国的好机会	http://original.hubpd.com/c/2017-01-15/553952.shtml	1	1	33
+UAR-000161_540	15548	7881682f798bb10aba5bedd95604a59e	20170118	京华谢幕 报人永生	http://original.hubpd.com/c/2016-12-31/552432.shtml?from=timeline&isappinstalled=0	3	3	3
+UAR-000161_540	default	fd5b54b00e32bb07d8472bb52e59bc85	20161207	智能制造十三五规划今日发布 明确十大任务	http://original.hubpd.com/c/2016-12-07/549422.shtml	43	27	77.37
+UAR-000161_540	default	5022c0e22487edfdd8c5a83a2dd42e65	20161217	警惕！舞弊魔爪已伸向高中学业水平考试	http://original.hubpd.com/c/2016-12-16/550673.shtml	3	3	11.67
+UAR-000161_540	default	167ed529476c9582465ae734e8afe70b	20161213	文艺九局：巫师世界的法则，你也适用 （附：纯粹麻瓜生存手册）	http://original.hubpd.com/c/2016-11-29/546931.shtml	1	1	88
+UAR-000161_540	default	e6eedacf20ca39fd53a99cdadba714f6	20161212	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	5	3	176.6
+UAR-000161_540	default	ff09fbe0bdbee588f98f208800d9ebb2	20161207	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	307	265	21.93
+UAR-000161_540	default	9cc61f84520620e20db5974e152737d8	20161207	暴雨和高温是怎么影响我们的菜篮子的？	http://original.hubpd.com/c/2016-08-15/547006.shtml	1	1	16
+UAR-000161_540	default	286cd8bbe92862019f391362a2402a88	20161215	干部状态新观察：叫声“同志”不简单	http://original.hubpd.com/c/2016-12-13/550452.shtml	3	3	5
+UAR-000161_540	default	167ed529476c9582465ae734e8afe70b	20161212	文艺九局：巫师世界的法则，你也适用 （附：纯粹麻瓜生存手册）	http://original.hubpd.com/c/2016-11-29/546931.shtml	1	1	20
+UAR-000161_540	default	d2bbaf7001587f1d8f5cefef754f25a8	20161215	干部状态新观察：不只是叫声“同志”这么简单	http://original.hubpd.com/c/2016-12-12/550327.shtml	1	1	44
+UAR-000161_540	15545	5e3bad4429d352cd25f347f81bb249e6	20161219	麻辣财经：房子是用来住的，平地起惊雷！ 伤心伤人伤身，炒房必须遏制！	http://original.hubpd.com/c/2016-12-18/550905.shtml	1	1	46
+UAR-000161_540	default	2b5364e6b9242f215e6dfda2b86693d4	20161220	中国，距离“人力资源强国”之路还有多远	http://original.hubpd.com/c/2016-12-18/550900.shtml	1	1	300
+UAR-000161_540	15541	61c1c59a142ac81a4cbe58d0ce2ef851	20161220	嘘！学习新常态的中场时间到了	http://original.hubpd.com/c/2016-12-10/550251.shtml	1	1	3
+UAR-000161_540	15545	adbbb530bdccc3dc43531368de86e595	20161220	麻辣财经：汇率波动加大，“人无贬基”撑得住吗？	http://original.hubpd.com/c/2016-12-19/550920.shtml	47	44	5.81
+UAR-000161_540	15551	4e4b368d672a560b316522d3b7069c5d	20161221	江苏举行企业智能制造对接会 促供需双方牵手	http://original.hubpd.com/c/2016-12-06/549402.shtml?from=groupmessage&isappinstalled=0	3	3	3.67
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161222	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	15	14	23.73
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20161222	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	2	2	13
+UAR-000161_540	15545	9de1682fc5db0295c4b11101d6f33868	20161223	麻辣财经：红色预警“跨周大霾”，真让人心塞	http://original.hubpd.com/c/2016-12-21/551805.shtml	4	4	4.75
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161223	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	29	26	28
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20161227	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	173	150	21.97
+UAR-000161_540	default	ff09fbe0bdbee588f98f208800d9ebb2	20161208	最近3个月，省级纪委书记换将10人	http://original.hubpd.com/c/2016-12-07/549411.shtml?from=timeline&isappinstalled=0	12	8	37.08
+UAR-000161_540	15545	4d739d1ff9d154a178613a4ad9553504	20170103	麻辣财经：扶贫，让“懒汉”站起来、干起来！	http://original.hubpd.com/c/2016-11-14/546039.shtml	1	1	38
+UAR-000161_540	15545	338aa55723045bc2bbfe3ad37af13208	20170103	麻辣财经：深港通来了，“沪伦通”也不远了	http://original.hubpd.com/c/2016-11-17/546042.shtml	1	1	167
+UAR-000161_540	15548	7a75289407141f1480c1011da29bcab1	20170103	当心，校园欺凌将受法律严惩	http://original.hubpd.com/c/2016-12-28/552318.shtml	1	1	3
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20170102	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	1	1	3
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170102	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	108	98	15.02
+UAR-000161_540	15545	303cb35019cb45258033b446c0b6f109	20170103	【经济聚焦】一桥架沪港 资本更融通	http://original.hubpd.com/c/2016-11-17/546043.shtml	1	1	19
+UAR-000161_540	15545	133dd0f474b28927a404a3b890d79535	20170103	麻辣财经：保障财富安全，中央发“定心丸”啦！	http://original.hubpd.com/c/2016-11-28/544040.shtml	1	1	30
+UAR-000161_540	15541	c2975a8908b53fd0b2a51b7e17befa99	20170105	25岁的中纪委干部，拿什么和副部级干部交换大工程？	http://original.hubpd.com/c/2017-01-05/553014.shtml	51	46	86.63
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20170105	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	2	2	12
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170105	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	2	2	151.5
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20170105	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	1	1	3
+UAR-000161_540	15541	dfb1c3148ced0b709d718799cd282195	20170105	彭丽媛参观若望二十三世秘中学校	http://original.hubpd.com/c/2016-11-22/546751.shtml	1	1	3
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20170106	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml	2	2	17.5
+UAR-000161_540	15541	0a9a34419a92eedf47a733eae6ad8ddd	20170106	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	4	4	80.5
+UAR-000161_540	15541	c2975a8908b53fd0b2a51b7e17befa99	20170107	25岁的中纪委干部，拿什么和副部级干部交换大工程？	http://original.hubpd.com/c/2017-01-05/553014.shtml	2	2	27.5
+UAR-000161_540	15541	0a9a34419a92eedf47a733eae6ad8ddd	20170107	试点还剩半年，检察提起公益诉讼交出成绩单	http://original.hubpd.com/c/2017-01-04/552862.shtml	2	2	155
+UAR-000161_540	default	ccafe0e9aea128dd253ba28b234496af	20161229	拿什么留住你，我的人才！	http://original.hubpd.com/c/2016-11-29/544376.shtml	1	1	18
+UAR-000161_540	15551	def3173003793bc43212f2369da3dbbf	20161229	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	1	1	300
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20161228	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	1	1	3
+UAR-000161_540	15548	1f32893ad9630f49bed6c0ab3bfc916a	20170101	别忙点赞，“千里还欠条”的贵州小伙还能复制吗？	http://original.hubpd.com/c/2016-12-20/551798.shtml	1	1	3
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20161231	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	5	5	38.2
+UAR-000161_540	15549	0794e7cf56e02c40f56a7574dfe4c8d2	20170101	不忘初心 逐梦前行——人民日报社2017年新年献词	http://original.hubpd.com/c/2016-12-30/552435.shtml	13	12	26
+UAR-000161_540	15548	345c3742b9f12fdd794e4861d79b0098	20170101	不知道吧？说到养老，陶渊明有个招儿	http://original.hubpd.com/c/2016-12-26/552251.shtml	1	1	3
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170101	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	2	2	24
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20170101	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	1	1	3
+UAR-000161_540	15564	e3e52a8324d557b63c1958d01d23f089	20170109	外媒眼：美国“顺道诉讼”，维权还是滥权？	http://original.hubpd.com/c/2017-01-06/553126.shtml	3	3	92
+UAR-000161_540	15542	e9dc60dbe0d59de989b80ffa9ae91c92	20170109	人民日报乡村调查：村级债务包袱到底有多重？	http://original.hubpd.com/c/2016-07-04/546884.shtml	2	2	23
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20170109	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	3	2	157.33
+UAR-000161_540	15552	a4d6e90e7b22f524b7275957951fcc75	20170109	里约残奥会开幕式火炬意外摔落，结果却令人动容……	http://original.hubpd.com/c/2016-09-09/546948.shtml	1	1	11
+UAR-000161_540	15548	cbe58a310d3215693515baab016a44c9	20170109	大数据观察：互联网寻亲，让团圆的脚步更近	http://original.hubpd.com/c/2017-01-04/552783.shtml	1	1	12
+UAR-000161_540	15548	419518d40d84cc2907877ecc489ea472	20170109	我国第四代核能技术60万千瓦高温气冷堆核电站技术方案发布	http://original.hubpd.com/c/2016-12-21/551833.shtml	1	1	11
+UAR-000161_540	default	14b8677747854acd1b921321b3c51631	20170109	一图读懂十八大以来治党制度	http://original.hubpd.com/c/2016-11-01/546989.shtml	2	2	3
+UAR-000161_540	15564	9db48195a430bca742c2e671b484e63a	20170109	侠客岛：要读懂特朗普对华政策，此人的文章必须读	http://original.hubpd.com/c/2016-12-23/552049.shtml	1	1	4
+UAR-000161_540	15545	7143aef9f1db632f762941e931642040	20170109	麻辣财经：网约车，有了身份别忘了责任	http://original.hubpd.com/c/2016-11-01/546032.shtml	1	1	3
+UAR-000161_540	15564	e3e52a8324d557b63c1958d01d23f089	20170110	外媒眼：美国“顺道诉讼”，维权还是滥权？	http://original.hubpd.com/c/2017-01-06/553126.shtml	1	1	300
+UAR-000161_540	15541	ef6ae15d437fdd637ff1beafc3dd0130	20170110	海淘党请注意：马云放“大招”了	http://original.hubpd.com/c/2016-09-03/546582.shtml	1	1	3
+UAR-000161_540	15548	11463adabfcf8166557abea711f4d404	20170113	柳传志谈“三农”创业：苦干加巧干，打出“组合拳”	http://original.hubpd.com/c/2017-01-10/553402.shtml	8	8	3
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170112	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml	1	1	3
+UAR-000161_540	15541	bb7af0ac8f7ddab625d61f07a9bcfde2	20170113	老朋友携手踏上新征程 ——访瑞士联邦委员会委员兼外长伯克哈尔特	http://original.hubpd.com/c/2017-01-13/553674.shtml	15	5	47.4
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20170113	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170111	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	28	23	17.04
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170112	（最山水）象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml	1	1	8
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170112	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml	1	1	3
+UAR-000161_540	15548	545d01e915fc3744b342d8aabc8d5174	20170114	确定了，2017年是国家司法考试最后一年！	http://original.hubpd.com/c/2017-01-14/553887.shtml?from=timeline	1576	1374	17.33
+UAR-000161_540	15548	700e33efb56ac20d2704b04696d85887	20170115	【网络媒体“走转改”】四川小金县：风雨彩虹长征路 铿锵玫瑰助扶贫	http://original.hubpd.com/c/2016-09-14/546800.shtml	1	1	52
+UAR-000161_540	15545	93910c99392632e6eac52535f222863b	20170115	麻辣财经：电商“霸凌”个人信息，该住手了！	http://original.hubpd.com/c/2016-12-28/552312.shtml	1	1	215
+UAR-000161_540	15548	2cb9b663448b85c8654a85b909a3038e	20170115	这些年习总书记走过的扶贫路	http://original.hubpd.com/c/2017-01-03/552749.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20170114	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15548	275d6a3b2539b25614925ebb233e6c88	20170115	黄一新：南钢打造企业“智慧生命体”	http://original.hubpd.com/c/2016-12-12/550429.shtml	1	1	43
+UAR-000161_540	15541	3e51de8f63ca53ea301a9ce96f166eec	20170115	习主席瑞士之行的5个“首次”	http://original.hubpd.com/c/2017-01-15/553970.shtml	29	19	135.14
+UAR-000161_540	15564	cef1035a36b65bb030eb6ecff713775a	20170115	马朝旭大使：全球治理需要中国智慧	http://original.hubpd.com/c/2017-01-12/553538.shtml	3	2	13.33
+UAR-000161_540	15545	3b0b018a4959033eac40d57127660a42	20170115	麻辣财经：ST慧球闹剧揭秘，信息披露岂能儿戏？	http://original.hubpd.com/c/2017-01-13/553710.shtml?from=groupmessage	9	9	11.67
+UAR-000161_540	15564	10a59603cfe7e656ce81153aacaecbe4	20170115	瑞士：中国朋友圈里的老友和好友	http://original.hubpd.com/c/2017-01-12/553592.shtml	4	3	46
+UAR-000161_540	15548	349e852c6be5ddac989ebb68255aa2b9	20170115	独家：环保部部长透露治霾新年打算	http://original.hubpd.com/c/2017-01-14/553891.shtml	6	6	3
+UAR-000161_540	15541	d3879be045531501e74818825fa7691c	20170117	司法部：社区服刑人员突破70万人，矫正期间重新犯罪率处于0.2%左右的较低水平	http://original.hubpd.com/c/2017-01-15/553965.shtml?from=groupmessage&isappinstalled=0	5	5	3
+UAR-000161_540	15548	7881682f798bb10aba5bedd95604a59e	20170117	京华谢幕 报人永生	http://original.hubpd.com/c/2016-12-31/552432.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	0c290986095f476793d0d40d13bc6400	20170117	习近平会见瑞士联邦国民院议长施塔尔和联邦院议长比绍夫贝尔格	http://original.hubpd.com/c/2017-01-16/554182.shtml	6	5	179.5
+UAR-000161_540	15548	f44db9975bfd82d6f064a5e26c71f66f	20170116	定了！中央厨房就这么建！	http://original.hubpd.com/c/2017-01-11/553465.shtml	3	2	115.67
+UAR-000161_540	15564	e46704c66abe93f85e1f84d62e01400a	20170116	让人类命运共同体理念照亮未来——写在习近平主席二〇一七年首次出访之际	http://original.hubpd.com/c/2017-01-15/553961.shtml	2	2	3
+UAR-000161_540	15550	f27c802119a0971f683e5f610cb1d97b	20170118	有书无斋周有光	http://original.hubpd.com/c/2017-01-14/553918.shtml	3	3	158.67
+UAR-000161_540	15548	d5338c89ec9bb666a6632abf7e9cc564	20170118	养老、看病、找工作，如何疗治民生之痛？	http://original.hubpd.com/c/2016-12-29/552383.shtml?from=timeline&isappinstalled=0	1	1	21
+UAR-000161_540	15548	479539de9f32c0aa2ba15561b51ece09	20170118	【最山水】保护区难保护，细数三宗罪	http://original.hubpd.com/c/2016-12-28/552308.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	2078986192d35517a90f89b1937c4214	20170118	习近平会见美国副总统拜登	http://original.hubpd.com/c/2017-01-17/554340.shtml	42	27	61.1
+UAR-000161_540	15545	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170118	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553156.shtml	1	1	14
+UAR-000161_540	default	3ad64ca0e69c70e4aa892b308562ae6c	20170118	侠客岛：打着飞的去重庆炒房？别闹了	http://cmpc.test.pdmi.cn/zcms_wechat/content/preview?ContentType=Article&ID=488272&platformID=pc	1	1	3
+UAR-000161_540	default	d852e17ff25593406c25ebfbf4c981d5	20161208	麻辣财经：房产税遗产税要开征？别听风就是雨！	http://original.hubpd.com/c/2016-11-15/546040.shtml	1	1	17
+UAR-000161_540	default	cafb1007c92d457926e56eae25e6ee78	20161211	2017高校毕业生795万，为“复杂严峻形势”建“就业稳压器”	http://original.hubpd.com/c/2016-12-01/546856.shtml	1	1	300
+UAR-000161_540	default	4975e58185b39936556d75361631da5f	20161216	第三方评估：花纳税人的钱，政府采购够透明吗？	http://original.hubpd.com/c/2016-11-04/546969.shtml	1	1	10
+UAR-000161_540	default	ab7a020be1790f8ad0f6702cfe9e4645	20161207	麻辣财经：“黑天鹅”轮番飞来，买黄金避险行不行？	http://original.hubpd.com/c/2016-12-06/549310.shtml?from=timeline&isappinstalled=0	189	169	28.85
+UAR-000161_540	default	852f7af5c17df9a8dd7fcaed26b7c6f6	20161208	中欧班列跑起来-丝路建设在加速	http://original.hubpd.com/c/2016-06-22/547026.shtml	1	1	3
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20161209	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	2	2	151.5
+UAR-000161_540	default	028283bbf2e7bf5bec000a4db6b93664	20161209	走进不一样的制造盛会 世界智能制造大会 “让制造更聪明”	http://original.hubpd.com/c/2016-12-05/549242.shtml	1	1	3
+UAR-000161_540	default	b296f54ef4beeca6b03bf817b7eb19f8	20161210	朴槿惠被弹劾，最大的“受益者”却没人关注！	http://original.hubpd.com/c/2016-12-10/550231.shtml	513	459	19.14
+UAR-000161_540	default	ec7b325836d348133fd68bab92c9020d	20161208	数读：“智”能制造——向世界展现不一样的制造	http://original.hubpd.com/c/2016-12-07/549673.shtml	59	49	25.75
+UAR-000161_540	15548	544c3cc0d8ef55cf4c334360f1e98de3	20161231	2016年，那些你看到的“人民曰报”……	http://original.hubpd.com/c/2016-12-29/552368.shtml	6	5	43.83
+UAR-000161_540	15549	493c5a66186acb5181ed81d4b3f62c6f	20170102	428元一盘的水饺，你吃过吗？	http://original.hubpd.com/c/2016-12-21/551857.shtml	1	1	3
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20170102	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	1	1	20
+UAR-000161_540	15564	bf36f7d1f9868f7ab6d04e229aca5580	20170103	把制造业带回美国？都别吹牛了！	http://original.hubpd.com/c/2016-12-31/552491.shtml	155	144	14.47
+UAR-000161_540	15564	6c15188b026413c557937b2c638ef7a4	20170103	韩国“亲信门”更新，财团大佬如何在国会撇清关系？	http://original.hubpd.com/c/2016-12-07/549416.shtml?from=timeline&isappinstalled=0	1	1	7
+UAR-000161_540	15545	b954fb1fea2fcae67a7b7fe8be21c615	20170103	麻辣财经：谁在排污？方位在哪儿？这回没跑了！	http://original.hubpd.com/c/2016-10-27/546029.shtml	1	1	51
+UAR-000161_540	15545	f18b33b897b722dfb9387862cda33c47	20170103	麻辣财经：华为拿下5G时代？此言尚早路还远着呢！	http://original.hubpd.com/c/2016-11-20/546044.shtml	1	1	26
+UAR-000161_540	15545	66e39abdc8f5c46bca69128f08797df6	20170103	大佬抨击：企业光烧钱不赚钱，可耻！	http://original.hubpd.com/c/2016-11-10/546038.shtml	3	2	66.33
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20170103	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	1	1	24
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161228	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	3	3	3
+UAR-000161_540	15553	9e85d5a57b25f5c4f233990dac7335e5	20161229	国务院：物流信息将全面互联共享	http://original.hubpd.com/c/2016-07-20/546959.shtml	1	1	3
+UAR-000161_540	15550	e6eedacf20ca39fd53a99cdadba714f6	20161229	文艺九局：大陆电影缘何“血洗”金马奖？	http://original.hubpd.com/c/2016-12-09/550171.shtml	1	1	3
+UAR-000161_540	15548	7a75289407141f1480c1011da29bcab1	20161229	当心，校园欺凌将受法律严惩	http://original.hubpd.com/c/2016-12-28/552318.shtml	11	7	64
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161230	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	2	2	300
+UAR-000161_540	default	ccafe0e9aea128dd253ba28b234496af	20161230	拿什么留住你，我的人才！	http://original.hubpd.com/c/2016-11-29/544376.shtml	1	1	3
+UAR-000161_540	15551	def3173003793bc43212f2369da3dbbf	20161230	朱森第：让制造更聪明，就是要更高、更快、更好	http://original.hubpd.com/c/2016-12-06/549399.shtml	1	1	40
+UAR-000161_540	15549	d38c7b542a6e3e7cec7a4020ce0b9026	20161230	曹德旺要跑？先听懂企业家再说	http://original.hubpd.com/c/2016-12-21/551844.shtml	3	3	13
+UAR-000161_540	default	bb22680f5babcabfa1bf090c4f9af704	20161208	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	36	27	49.28
+UAR-000161_540	default	a71bd3cd0c4f8abd09d82b7d51ed00f1	20161223	在“美国后院”扎根，中企靠什么	http://original.hubpd.com/c/2016-12-22/552031.shtml	4	4	151
+UAR-000161_540	15545	02777cb209acc7da41161afb0b4cd0c0	20161227	麻辣财经：跨境并购“井喷”，不能见啥买啥	http://original.hubpd.com/c/2016-12-27/552257.shtml	719	582	30.26
+UAR-000161_540	15545	4de5cb344cd35494e5501e2c3554da6d	20161223	麻辣财经：东北振兴，最大的利好来了！	http://original.hubpd.com/c/2016-12-14/550552.shtml	1	1	3
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161224	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	4	4	3
+UAR-000161_540	15553	f8560ddde2bc13c8f06c4bf0324a79f6	20161227	中国快递员有多辛苦	http://original.hubpd.com/c/2016-11-22/546971.shtml	1	1	132
+UAR-000161_540	15541	acc4f0f004131f5de66c4a99b00832ce	20170104	友邦千里施援手，中厄共筑手足情	http://original.hubpd.com/c/2016-11-20/546729.shtml	1	1	27
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20170105	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	1	1	3
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20170105	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	1	1	15
+UAR-000161_540	15545	ef54a6588c7dd445d6f76194950f8cdd	20170105	麻辣财经：2017养老金三大利好，你必须知道！	http://original.hubpd.com/c/2016-12-30/552394.shtml	1	1	3
+UAR-000161_540	default	8eada43c17dc6a563574a0d386daded8	20161221	一图帮你了解“铜之王国”——智利	http://original.hubpd.com/c/2016-11-23/546983.shtml	1	1	1
+UAR-000161_540	15548	419518d40d84cc2907877ecc489ea472	20161221	我国第四代核能技术60万千瓦高温气冷堆核电站技术方案发布	http://original.hubpd.com/c/2016-12-21/551833.shtml	42	30	126.48
+UAR-000161_540	15545	fc5bbda7bb150e5735465b57f8f10fc3	20161221	麻辣财经：保险不姓“保”咋办？用制度的“牙”咬它！	http://original.hubpd.com/c/2016-12-16/550753.shtml	1	1	3
+UAR-000161_540	15548	5022c0e22487edfdd8c5a83a2dd42e65	20161219	警惕！舞弊魔爪已伸向高中学业水平考试	http://original.hubpd.com/c/2016-12-16/550673.shtml	1	1	73
+UAR-000161_540	15550	d484b5c5fa80a05a40f2df2e8653c07a	20161222	张艺谋亲身示范：学特效救不了商业片	http://original.hubpd.com/c/2016-12-20/551390.shtml	3	2	4.67
+UAR-000161_540	15553	103b6d44b3fdc133b4aef24da6d54006	20161222	“天网2016”启动 让外逃“红通”嫌犯丢掉幻想	http://original.hubpd.com/c/2016-04-22/546962.shtml	1	1	21
+UAR-000161_540	default	1490dee9f58dc5dc61b6980c14f0e5bb	20161222	全球关注两会	http://original.hubpd.com/c/2016-05-06/547022.shtml	1	1	3
+UAR-000161_540	15564	f22ce316527dbce7292946f11d19ce18	20161222	一夜三起袭击事件过后，国际反恐形势怎么看？	http://original.hubpd.com/c/2016-12-20/551770.shtml?winzoom=1	2	2	74
+UAR-000161_540	15545	d355652361377395620596bd1372724e	20161222	麻辣财经：（必看）网络传销，新套路都在这儿了！	http://original.hubpd.com/c/2016-12-22/551978.shtml	587	503	23.96
+UAR-000161_540	default	1ef24d492d8de5671e502f93fb93ee8e	20161222	雾霾有耐药菌？先别慌，这些你应该知道！	http://original.hubpd.com/c/2016-11-28/546987.shtml	1	1	30
+UAR-000161_540	15545	c3bb8e68e3da5c664f1d201a611fa016	20170109	麻辣财经：GDP，三个6.7%是巧合吗？	http://original.hubpd.com/c/2016-10-29/546030.shtml	1	1	4
+UAR-000161_540	15545	71df908000e3a7642ecc4fc28400eb0e	20170109	麻辣财经：春运，史上最难抢票年？哪年也不容易！	http://original.hubpd.com/c/2016-12-15/550646.shtml	3	2	157.33
+UAR-000161_540	15548	a0a3399a8e1bdf5a0e832409a3d61c08	20170110	解决食品安全要用多久？日本用了小20年	http://original.hubpd.com/c/2017-01-04/553005.shtml	1	1	3
+UAR-000161_540	15545	60ba3d35aefb2563f9406f3dd0ff64eb	20170109	麻辣财经:网约车，看上去很美? 麻辣姐跟三七强“开撕”	http://original.hubpd.com/c/2016-10-31/546031.shtml	1	1	3
+UAR-000161_540	default	2483d8aca18beba884cdf5e98f4f0873	20170106	习近平会见阿根廷总统马克里	http://original.hubpd.com/c/2016-09-03/543075.shtml	2	1	11.5
+UAR-000161_540	15541	edf2206782bf9b20372462ad40e4517a	20170107	三个案例告诉你为啥要设监察委	http://original.hubpd.com/c/2016-12-27/552287.shtml	1	1	3
+UAR-000161_540	15541	039a2064a9b5409936ea90c3390f6748	20170109	县委书记就是正处级？	http://original.hubpd.com/c/2017-01-03/552742.shtml	4	4	139
+UAR-000161_540	15548	11463adabfcf8166557abea711f4d404	20170110	柳传志谈“三农”创业：苦干加巧干，打出“组合拳”	http://original.hubpd.com/c/2017-01-10/553402.shtml	13	12	79.31
+UAR-000161_540	15548	11463adabfcf8166557abea711f4d404	20170111	柳传志谈“三农”创业：苦干加巧干，打出“组合拳”	http://original.hubpd.com/c/2017-01-10/553402.shtml	6	6	54.17
+UAR-000161_540	default	549e8b8abe81c82bbf2f5ff66f4eac3c	20170112	“带薪休假”完成一次说走就走的旅行	http://original.hubpd.com/c/2016-12-31/552466.shtml	1	1	207
+UAR-000161_540	15542	bd7b810384f55b360fb1b34f2f107b7d	20170113	联合国会选“她”当秘书长吗？	http://original.hubpd.com/c/2016-04-12/546883.shtml	1	1	10
+UAR-000161_540	15548	6465f2b53d69364980cfa78ecf6240b7	20170113	《东方早报》整体转型收官 六家国有战略投资人入股6.1亿元	http://original.hubpd.com/c/2016-12-28/552321.shtml	4	4	3
+UAR-000161_540	15548	22b53f5c2ccbb10486a4dc695dbae130	20170114	侠客岛：教材改为“十四年抗战”的原因，远没有那么简单	http://original.hubpd.com/c/2017-01-12/553511.shtml	1	1	3
+UAR-000161_540	15545	328359dcaf097553323f38debb27a783	20170114	麻辣财经：石油焦是个什么鬼？ 管不好就是严重污染源！	http://original.hubpd.com/c/2017-01-05/553044.shtml?from=groupmessage&isappinstalled=0	1	1	3
+UAR-000161_540	15548	791580a82e68a1f6aec050cee02f4a8e	20170114	刘永好：农村天地广阔，大有可为	http://original.hubpd.com/c/2017-01-11/553501.shtml?from=timeline&isappinstalled=0	93	78	11.81
+UAR-000161_540	15548	286014ebe5ee3b78be82cbebd81965bf	20170116	别拿证书挂靠啦，要严肃查处了！	http://original.hubpd.com/c/2017-01-16/554164.shtml?from=timeline&isappinstalled=0	57	48	32.19
+UAR-000161_540	15545	1b40de83e1e81795fae2c49d0aaf5079	20170115	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553598.shtml	1	1	300
+UAR-000161_540	15548	bb22680f5babcabfa1bf090c4f9af704	20170115	江苏聚力创新，这里的工厂“高智商”	http://original.hubpd.com/c/2016-12-08/549921.shtml	1	1	23
+UAR-000161_540	15564	360cfb20fd84519ba98225947475cbef	20170116	习近平要去的达沃斯，你了解吗?	http://original.hubpd.com/c/2017-01-13/553685.shtml	2	2	3
+UAR-000161_540	15541	b605074a6d66db11a98fa013045edda7	20170116	教你读懂中央纪委七次全会公报	http://original.hubpd.com/c/2017-01-08/553198.shtml?from=timeline	1	1	3
+UAR-000161_540	15564	c8fc0a9819b9b21b82f6b375e2718ede	20170116	揭秘美国经济“衣橱中的秘密”系列二：社会不平等让“美国梦”坠落	http://original.hubpd.com/c/2017-01-15/553929.shtml?from=timeline&isappinstalled=0	21	19	18.86
+UAR-000161_540	15545	1b40de83e1e81795fae2c49d0aaf5079	20170114	麻辣财经：“食盐专营”松绑，市场反映平静	http://original.hubpd.com/c/2017-01-12/553598.shtml?from=timeline&isappinstalled=0	1	1	300
+UAR-000161_540	15564	242cf07e4f1082381a99e17cecb92c9e	20170115	揭秘美国经济“衣橱中的秘密”系列四：美国贫富差距扩大的制度根源	http://original.hubpd.com/c/2017-01-15/553931.shtml	52	34	84.77
+UAR-000161_540	15541	3f58ca51ddd7bb472716e38e9e423007	20170115	习近平在瑞士媒体发表署名文章	http://original.hubpd.com/c/2017-01-13/553694.shtml	1	1	300
+UAR-000161_540	15541	75e0914cd93c0f79ba83d80a90b898f6	20170117	习近平出席世界经济论坛2017年年会开幕式并发表主旨演讲时宣布 中国将于今年5月在北京主办“一带一路”国际合作高峰论坛	http://original.hubpd.com/c/2017-01-17/554319.shtml?from=singlemessage&isappinstalled=0	26	21	74.62
+UAR-000161_540	15548	545d01e915fc3744b342d8aabc8d5174	20170117	确定了，2017年是国家司法考试最后一年！	http://original.hubpd.com/c/2017-01-14/553887.shtml?from=timeline	7	7	3
+UAR-000161_540	15564	e396529fd7a6b2e75f807598fcc4f8dd	20170118	分享中国智慧 提振发展信心	http://original.hubpd.com/c/2017-01-17/554247.shtml	5	5	68.6
+UAR-000161_540	15548	532a9a9f28966a63ea0f52533a4b446e	20170118	象宝，请收下来自中国的新年礼物！	http://original.hubpd.com/c/2017-01-05/553030.shtml?from=singlemessage&isappinstalled=0	4	2	210
+UAR-000161_540	15564	a13ead70cc0c68dadd75e36a39b15e4d	20170118	“我们都非常期待习主席的到访”	http://original.hubpd.com/c/2017-01-18/554393.shtml	25	14	158.08
+UAR-000161_540	15545	285cab7ae9e3185a2f235088271dd39f	20170117	麻辣财经：（独家）中信回应：为何收购麦当劳？	http://original.hubpd.com/c/2017-01-16/554199.shtml?from=timeline&isappinstalled=0	563	496	26.93
+UAR-000161_540	default	faf95a1e8219220e1e7f259bedc3abce	20170117	国新办新闻发布会：“升级版”去产能今年再扩围	http://original.hubpd.com/c/2017-01-11/553737.shtml	1	1	3
+UAR-000161_540	15541	a1be608f2ff2e7f5d23dd7aadccddfcb	20170118	终于等到您 先看您的书	http://original.hubpd.com/c/2017-01-14/553874.shtml	1	1	8
+UAR-000161_540	15548	0b56cf40d90c2cf86f8caa4d180dab66	20170118	2016年最后一个蓝天！京津冀的同学们，且蓝且珍惜！	http://original.hubpd.com/c/2016-12-29/552356.shtml?from=timeline&isappinstalled=0	1	1	35
+UAR-000161_540	default	b765e3df03c9dd9049eff0cd807b2018	20170118	一份来自中央的“媒体融合行动指南”	http://original.hubpd.com/c/2017-01-13/553665.shtml	3	3	6
+UAR-000161_540	15548	479539de9f32c0aa2ba15561b51ece09	20170117	【最山水】保护区难保护，细数三宗罪	http://original.hubpd.com/c/2016-12-28/552308.shtml?from=timeline&isappinstalled=0	1	1	3
+UAR-000161_540	15541	2e8c4ecafc9cd3a0a4628a03cad2ec1f	20170117	习近平同瑞士联邦主席洛伊特哈德茶叙	http://original.hubpd.com/c/2017-01-16/554014.shtml	1	1	300
+UAR-000161_540	15550	c9e6e022a541d357276dcdf981d6239d	20170117	龚琳娜：我批评王菲，因为总要有人讲真话	http://original.hubpd.com/c/2017-01-06/553137.shtml?from=singlemessage&isappinstalled=0	1	1	3
+UAR-000161_540	15541	f9bbb9756ed0154a1d735b3a9f6378bc	20170118	习近平会见乌克兰总统波罗申科	http://original.hubpd.com/c/2017-01-17/554303.shtml	2	2	152.5
+UAR-000161_540	15541	8b69a7b5334926f2d466f4d3614cfb28	20170118	世界怎么了？中国还行不行？习近平达沃斯回应三大关切	http://original.hubpd.com/c/2017-01-18/554512.shtml	68	36	96
+UAR-000161_540	15541	7dd326ee2063cc8e920cada8121b17bc	20170118	侠客岛：有意思，李克强说“网上不能骑自行车”	http://cmpc.hubpd.com/zcms/content/preview?ID=554448&ContentType=Article&platformID=pc	13	11	96.54
+UAR-000161_540	default	eb0c8a7cfbc4ab8a4f42c8fd731c3bca	20170118	麻辣财经：环保部长陈吉宁：北方散煤、“小散乱污”是整治重点	http://original.hubpd.com/c/2017-01-07/553736.shtml	1	1	3
